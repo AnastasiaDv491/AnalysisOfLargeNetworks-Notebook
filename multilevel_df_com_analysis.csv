@@ -1,0 +1,3849 @@
+ID,cluster,key_id,rel,key_name
+1004636,0,1000041,keyword,onderwijspersoneel
+1004636,0,1000042,keyword,personeel onderwijs
+1004636,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1004636,0,1000044,keyword,reaffectatie
+1004636,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1004636,0,1000046,keyword,wachtgeld
+1004636,0,1000047,keyword,wedertewerkstelling
+1004636,0,1000048,keyword,statuut onderwijspersoneel
+1004636,0,1000130,keyword,beroepsonderwijs
+1004636,0,1000163,keyword,buitengewoon onderwijs
+1004636,0,1000165,keyword,kunstonderwijs
+1006464,1,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1006464,1,1000153,keyword,BLOSO
+1006464,1,1000194,keyword,monument
+1000312,3,1000156,keyword,bijzondere jeugdbijstand
+1001262,8,1000055,keyword,"erkenningscommissie inzake outplacement, werving en selectie"
+1001262,8,1000056,keyword,arbeidsplaatsen
+1001262,8,1000057,keyword,tewerkstelling
+1001262,8,1000058,keyword,arbeidsvergunning
+1001262,8,1000059,keyword,werkgelegenheid
+1001262,8,1000060,keyword,selectiebureau
+1001262,8,1000061,keyword,wervingsbureau
+1001262,8,1000062,keyword,outplacement
+1017294,0,1000131,keyword,secundair onderwijs
+1017294,0,1000163,keyword,buitengewoon onderwijs
+1024571,2,1000189,keyword,kinderopvang
+1022421,13,1000089,keyword,ondernemersopleiding
+1018360,3,1000007,keyword,vrijwilligerswerk
+1004855,24,1000008,keyword,huisvestingsmaatschappij
+1004855,24,1000009,keyword,huisvesting
+1004855,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1001390,0,1000160,keyword,diploma
+1001390,0,1000161,keyword,getuigschrift
+1001390,0,1000162,keyword,bekwaamheidsbewijs
+1018061,14,1000159,keyword,Geografisch Informatiesysteem
+1013340,28,1000146,keyword,Toerisme Vlaanderen
+1013317,0,1000179,keyword,basisonderwijs
+1025735,16,1000159,keyword,Geografisch Informatiesysteem
+1000252,7,1000041,keyword,onderwijspersoneel
+1000252,7,1000042,keyword,personeel onderwijs
+1000252,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000252,7,1000044,keyword,reaffectatie
+1000252,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000252,7,1000046,keyword,wachtgeld
+1000252,7,1000047,keyword,wedertewerkstelling
+1000252,7,1000048,keyword,statuut onderwijspersoneel
+1000252,7,1000160,keyword,diploma
+1000252,7,1000161,keyword,getuigschrift
+1000252,7,1000162,keyword,bekwaamheidsbewijs
+1008064,33,1000185,keyword,leerlingenbegeleiding
+1008064,33,1000186,keyword,centrum voor leerlingenbegeleiding
+1007872,12,1000065,keyword,gehandicapten
+1007872,12,1000066,keyword,mentaal gehandicapten
+1007872,12,1000067,keyword,personen met een handicap
+1007872,12,1000068,keyword,mindervaliden
+1007872,12,1000118,keyword,VFSIPH
+1007872,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1033686,2,1000189,keyword,kinderopvang
+1003271,12,1000068,keyword,mindervaliden
+1002737,1,1000194,keyword,monument
+1014302,34,1000065,keyword,gehandicapten
+1014302,34,1000066,keyword,mentaal gehandicapten
+1014302,34,1000067,keyword,personen met een handicap
+1014302,34,1000068,keyword,mindervaliden
+1014302,34,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1014302,34,1000153,keyword,BLOSO
+1001360,8,1000038,keyword,arbeidsbemiddeling
+1028818,2,1000145,keyword,Kind en Gezin
+1023432,20,1000085,keyword,visserij
+1005524,0,1000179,keyword,basisonderwijs
+1010515,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1003118,14,1000020,keyword,grondwater
+1000184,12,1000067,keyword,personen met een handicap
+1015116,30,1000197,keyword,onderwijs voor sociale promotie
+1000371,1,1000192,keyword,dorpsgezicht
+1000371,1,1000193,keyword,stadsgezicht
+1000371,1,1000194,keyword,monument
+1006293,0,1000041,keyword,onderwijspersoneel
+1006293,0,1000042,keyword,personeel onderwijs
+1006293,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1006293,0,1000044,keyword,reaffectatie
+1006293,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1006293,0,1000046,keyword,wachtgeld
+1006293,0,1000047,keyword,wedertewerkstelling
+1006293,0,1000048,keyword,statuut onderwijspersoneel
+1006293,0,1000131,keyword,secundair onderwijs
+1006293,0,1000143,keyword,ARGO
+1006293,0,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1013478,21,1000099,keyword,ambtenaren
+1013478,21,1000100,keyword,statuut ambtenaar
+1005498,19,1000008,keyword,huisvestingsmaatschappij
+1005498,19,1000009,keyword,huisvesting
+1005498,19,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1014124,31,1000024,keyword,afvalwater
+1014264,16,1000031,keyword,KMO
+1014264,16,1000032,keyword,kleine en middelgrote onderneming
+1017314,35,1000039,keyword,beroepsopleiding
+1017314,35,1000050,keyword,VDAB
+1021713,0,1000165,keyword,kunstonderwijs
+1015846,19,1000080,keyword,provincie
+1015846,19,1000088,keyword,gemeente
+1009476,29,1000041,keyword,onderwijspersoneel
+1009476,29,1000042,keyword,personeel onderwijs
+1009476,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1009476,29,1000044,keyword,reaffectatie
+1009476,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1009476,29,1000046,keyword,wachtgeld
+1009476,29,1000047,keyword,wedertewerkstelling
+1009476,29,1000048,keyword,statuut onderwijspersoneel
+1001701,12,1000118,keyword,VFSIPH
+1001701,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1005320,24,1000009,keyword,huisvesting
+1016444,38,1000088,keyword,gemeente
+1016444,38,1000114,keyword,statuut gemeentepersoneel
+1014328,18,1000157,keyword,bestuurlijk beleid
+1004771,0,1000041,keyword,onderwijspersoneel
+1004771,0,1000042,keyword,personeel onderwijs
+1004771,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1004771,0,1000044,keyword,reaffectatie
+1004771,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1004771,0,1000046,keyword,wachtgeld
+1004771,0,1000047,keyword,wedertewerkstelling
+1004771,0,1000048,keyword,statuut onderwijspersoneel
+1004771,0,1000065,keyword,gehandicapten
+1004771,0,1000066,keyword,mentaal gehandicapten
+1004771,0,1000067,keyword,personen met een handicap
+1004771,0,1000068,keyword,mindervaliden
+1004771,0,1000165,keyword,kunstonderwijs
+1004771,0,1000176,keyword,rationalisatie en programmatie
+1004771,0,1000197,keyword,onderwijs voor sociale promotie
+1004771,0,1000198,keyword,sociale promotie
+1021750,0,1000049,keyword,pedagogische begeleidingsdienst
+1004091,10,1000116,keyword,Zeekanaal en Watergebonden Grondbeheer Vlaanderen
+1004091,10,1000117,keyword,NV Zeekanaal en Watergebonden Grondbeheer Vlaanderen
+1024475,3,1000067,keyword,personen met een handicap
+1005144,0,1000131,keyword,secundair onderwijs
+1000537,27,1000048,keyword,statuut onderwijspersoneel
+1014190,5,1000157,keyword,bestuurlijk beleid
+1023756,17,1000098,keyword,pensioen
+1016080,3,1000156,keyword,bijzondere jeugdbijstand
+1002731,13,1000175,keyword,presentiegeld
+1002731,13,1000199,keyword,VIZO
+1002731,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1016638,10,1000100,keyword,statuut ambtenaar
+1000591,7,1000048,keyword,statuut onderwijspersoneel
+1014538,16,1000030,keyword,economisch beleid
+1014538,16,1000031,keyword,KMO
+1014538,16,1000032,keyword,kleine en middelgrote onderneming
+1016201,2,1000021,keyword,oppervlaktewater
+1035448,38,1000113,keyword,gemeentepersoneel
+1035448,38,1000114,keyword,statuut gemeentepersoneel
+1026727,26,1000067,keyword,personen met een handicap
+1017504,0,1000130,keyword,beroepsonderwijs
+1006368,24,1000009,keyword,huisvesting
+1019574,2,1000108,keyword,VIPA
+1013109,7,1000179,keyword,basisonderwijs
+1018938,7,1000131,keyword,secundair onderwijs
+1029740,36,1000080,keyword,provincie
+1029740,36,1000088,keyword,gemeente
+1000981,29,1000041,keyword,onderwijspersoneel
+1000981,29,1000042,keyword,personeel onderwijs
+1000981,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000981,29,1000044,keyword,reaffectatie
+1000981,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000981,29,1000046,keyword,wachtgeld
+1000981,29,1000047,keyword,wedertewerkstelling
+1000981,29,1000048,keyword,statuut onderwijspersoneel
+1006986,36,1000084,keyword,Vlaams-Brabant
+1018441,7,1000165,keyword,kunstonderwijs
+1006073,8,1000038,keyword,arbeidsbemiddeling
+1013775,16,1000195,keyword,delegatie
+1020865,1,1000124,keyword,archeologisch patrimonium
+1012161,28,1000146,keyword,Toerisme Vlaanderen
+1016235,2,1000175,keyword,presentiegeld
+1006676,7,1000131,keyword,secundair onderwijs
+1001610,19,1000031,keyword,KMO
+1001610,19,1000032,keyword,kleine en middelgrote onderneming
+1001610,19,1000078,keyword,Instituut voor Bosbouw en Wildbeheer
+1001610,19,1000079,keyword,Instituut voor Natuurbehoud
+1001610,19,1000081,keyword,lasten uit het verleden
+1001610,19,1000082,keyword,schulden van het verleden
+1001610,19,1000083,keyword,rechtsopvolging
+1001610,19,1000127,keyword,Fonds voor preventie en sanering inz. leefmilieu en natuur
+1001610,19,1000128,keyword,mina-fonds
+1001610,19,1000134,keyword,openbaar psychiatrisch centrum
+1001610,19,1000135,keyword,Openbaar Psychiatrisch Ziekenhuis
+1001610,19,1000154,keyword,fonds
+1001610,19,1000155,keyword,begrotingsfonds
+1001610,19,1000156,keyword,bijzondere jeugdbijstand
+1027781,33,1000103,keyword,dagverzorgingscentrum
+1016969,19,1000168,keyword,cultureel en natuurlijk erfgoed
+1000698,14,1000127,keyword,Fonds voor preventie en sanering inz. leefmilieu en natuur
+1000698,14,1000128,keyword,mina-fonds
+1013377,5,1000113,keyword,gemeentepersoneel
+1013377,5,1000114,keyword,statuut gemeentepersoneel
+1008446,36,1000133,keyword,intercommunale
+1004712,27,1000165,keyword,kunstonderwijs
+1017659,13,1000181,keyword,IWT
+1000732,1,1000183,keyword,plan van aanleg
+1000732,1,1000184,keyword,gewestplan
+1005985,13,1000199,keyword,VIZO
+1005985,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1007101,24,1000009,keyword,huisvesting
+1007101,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1008625,1,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1008625,1,1000195,keyword,delegatie
+1009151,1,1000168,keyword,cultureel en natuurlijk erfgoed
+1009151,1,1000194,keyword,monument
+1004014,7,1000041,keyword,onderwijspersoneel
+1004014,7,1000042,keyword,personeel onderwijs
+1004014,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1004014,7,1000044,keyword,reaffectatie
+1004014,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1004014,7,1000046,keyword,wachtgeld
+1004014,7,1000047,keyword,wedertewerkstelling
+1004014,7,1000048,keyword,statuut onderwijspersoneel
+1004014,7,1000165,keyword,kunstonderwijs
+1014617,5,1000157,keyword,bestuurlijk beleid
+1014617,5,1000195,keyword,delegatie
+1002451,2,1000065,keyword,gehandicapten
+1029366,7,1000165,keyword,kunstonderwijs
+1006319,1,1000195,keyword,delegatie
+1029279,26,1000067,keyword,personen met een handicap
+1002449,19,1000011,keyword,investeringsfonds
+1002449,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1002449,19,1000080,keyword,provincie
+1002449,19,1000088,keyword,gemeente
+1006522,0,1000179,keyword,basisonderwijs
+1018873,10,1000181,keyword,IWT
+1027804,3,1000115,keyword,Waterwegen en Zeekanaal
+1009266,12,1000065,keyword,gehandicapten
+1009266,12,1000066,keyword,mentaal gehandicapten
+1009266,12,1000067,keyword,personen met een handicap
+1009266,12,1000068,keyword,mindervaliden
+1009266,12,1000118,keyword,VFSIPH
+1009266,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1012062,16,1000030,keyword,economisch beleid
+1009479,0,1000041,keyword,onderwijspersoneel
+1009479,0,1000042,keyword,personeel onderwijs
+1009479,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1009479,0,1000044,keyword,reaffectatie
+1009479,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1009479,0,1000046,keyword,wachtgeld
+1009479,0,1000047,keyword,wedertewerkstelling
+1009479,0,1000048,keyword,statuut onderwijspersoneel
+1009293,46,1000131,keyword,secundair onderwijs
+1009293,46,1000163,keyword,buitengewoon onderwijs
+1002876,28,1000146,keyword,Toerisme Vlaanderen
+1018532,29,1000048,keyword,statuut onderwijspersoneel
+1007701,6,1000056,keyword,arbeidsplaatsen
+1007701,6,1000057,keyword,tewerkstelling
+1007701,6,1000058,keyword,arbeidsvergunning
+1007701,6,1000059,keyword,werkgelegenheid
+1024952,19,1000050,keyword,VDAB
+1016218,24,1000009,keyword,huisvesting
+1027779,33,1000103,keyword,dagverzorgingscentrum
+1001144,48,1000072,keyword,statuut openbare instellingen
+1001144,48,1000143,keyword,ARGO
+1001144,48,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1001839,1,1000080,keyword,provincie
+1001839,1,1000088,keyword,gemeente
+1001839,1,1000194,keyword,monument
+1013034,14,1000157,keyword,bestuurlijk beleid
+1016267,14,1000129,keyword,Vlaamse Milieumaatschappij
+1002766,49,1000131,keyword,secundair onderwijs
+1004830,1,1000080,keyword,provincie
+1004830,1,1000088,keyword,gemeente
+1007925,47,1000053,keyword,studietoelage
+1025555,7,1000042,keyword,personeel onderwijs
+1029101,26,1000067,keyword,personen met een handicap
+1013277,28,1000157,keyword,bestuurlijk beleid
+1008096,11,1000145,keyword,Kind en Gezin
+1008096,11,1000188,keyword,kinderdagverblijf
+1008096,11,1000189,keyword,kinderopvang
+1006181,34,1000080,keyword,provincie
+1006181,34,1000088,keyword,gemeente
+1014362,0,1000131,keyword,secundair onderwijs
+1013742,10,1000072,keyword,statuut openbare instellingen
+1013742,10,1000134,keyword,openbaar psychiatrisch centrum
+1013742,10,1000135,keyword,Openbaar Psychiatrisch Ziekenhuis
+1009647,7,1000131,keyword,secundair onderwijs
+1007526,1,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1000579,13,1000199,keyword,VIZO
+1000579,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1002079,0,1000131,keyword,secundair onderwijs
+1001684,29,1000041,keyword,onderwijspersoneel
+1001684,29,1000042,keyword,personeel onderwijs
+1001684,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001684,29,1000044,keyword,reaffectatie
+1001684,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001684,29,1000046,keyword,wachtgeld
+1001684,29,1000047,keyword,wedertewerkstelling
+1001684,29,1000048,keyword,statuut onderwijspersoneel
+1013174,14,1000158,keyword,GIS
+1013174,14,1000159,keyword,Geografisch Informatiesysteem
+1015847,19,1000080,keyword,provincie
+1015847,19,1000088,keyword,gemeente
+1015618,24,1000009,keyword,huisvesting
+1014982,26,1000065,keyword,gehandicapten
+1014982,26,1000118,keyword,VFSIPH
+1008678,0,1000131,keyword,secundair onderwijs
+1008678,0,1000163,keyword,buitengewoon onderwijs
+1000696,13,1000181,keyword,IWT
+1005895,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1018455,7,1000131,keyword,secundair onderwijs
+1033907,15,1000131,keyword,secundair onderwijs
+1018613,41,1000031,keyword,KMO
+1018613,41,1000032,keyword,kleine en middelgrote onderneming
+1000045,15,1000040,keyword,inspectie
+1000045,15,1000041,keyword,onderwijspersoneel
+1000045,15,1000042,keyword,personeel onderwijs
+1000045,15,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000045,15,1000044,keyword,reaffectatie
+1000045,15,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000045,15,1000046,keyword,wachtgeld
+1000045,15,1000047,keyword,wedertewerkstelling
+1000045,15,1000048,keyword,statuut onderwijspersoneel
+1000045,15,1000049,keyword,pedagogische begeleidingsdienst
+1004279,39,1000050,keyword,VDAB
+1004279,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1006128,35,1000065,keyword,gehandicapten
+1006128,35,1000066,keyword,mentaal gehandicapten
+1006128,35,1000067,keyword,personen met een handicap
+1006128,35,1000068,keyword,mindervaliden
+1006128,35,1000118,keyword,VFSIPH
+1006128,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1020950,26,1000065,keyword,gehandicapten
+1014601,6,1000057,keyword,tewerkstelling
+1018405,10,1000100,keyword,statuut ambtenaar
+1003179,0,1000041,keyword,onderwijspersoneel
+1003179,0,1000042,keyword,personeel onderwijs
+1003179,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1003179,0,1000044,keyword,reaffectatie
+1003179,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1003179,0,1000046,keyword,wachtgeld
+1003179,0,1000047,keyword,wedertewerkstelling
+1003179,0,1000048,keyword,statuut onderwijspersoneel
+1003179,0,1000143,keyword,ARGO
+1003179,0,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1014428,0,1000131,keyword,secundair onderwijs
+1014428,0,1000179,keyword,basisonderwijs
+1035020,2,1000102,keyword,centrum voor dagverzorging
+1003315,39,1000050,keyword,VDAB
+1003315,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1010197,1,1000194,keyword,monument
+1013937,19,1000011,keyword,investeringsfonds
+1005463,24,1000160,keyword,diploma
+1005463,24,1000161,keyword,getuigschrift
+1005463,24,1000162,keyword,bekwaamheidsbewijs
+1027689,23,1000103,keyword,dagverzorgingscentrum
+1013159,5,1000157,keyword,bestuurlijk beleid
+1031830,2,1000145,keyword,Kind en Gezin
+1031830,2,1000189,keyword,kinderopvang
+1008174,19,1000071,keyword,cultuurcentrum
+1008174,19,1000170,keyword,volksontwikkeling
+1008174,19,1000171,keyword,sociaal-cultureel vormings- en ontwikkelingswerk
+1014280,24,1000157,keyword,bestuurlijk beleid
+1009193,2,1000156,keyword,bijzondere jeugdbijstand
+1016735,16,1000030,keyword,economisch beleid
+1016735,16,1000032,keyword,kleine en middelgrote onderneming
+1005521,32,1000179,keyword,basisonderwijs
+1022150,19,1000071,keyword,cultuurcentrum
+1022150,19,1000088,keyword,gemeente
+1009638,29,1000041,keyword,onderwijspersoneel
+1009638,29,1000042,keyword,personeel onderwijs
+1009638,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1009638,29,1000044,keyword,reaffectatie
+1009638,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1009638,29,1000046,keyword,wachtgeld
+1009638,29,1000047,keyword,wedertewerkstelling
+1009638,29,1000048,keyword,statuut onderwijspersoneel
+1016624,31,1000026,keyword,afval
+1018711,21,1000149,keyword,Vlaamse Landmaatschappij
+1008428,0,1000131,keyword,secundair onderwijs
+1014521,29,1000041,keyword,onderwijspersoneel
+1014521,29,1000042,keyword,personeel onderwijs
+1014521,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1014521,29,1000044,keyword,reaffectatie
+1014521,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1014521,29,1000046,keyword,wachtgeld
+1014521,29,1000047,keyword,wedertewerkstelling
+1014521,29,1000048,keyword,statuut onderwijspersoneel
+1004730,46,1000131,keyword,secundair onderwijs
+1013680,41,1000030,keyword,economisch beleid
+1013680,41,1000031,keyword,KMO
+1013680,41,1000032,keyword,kleine en middelgrote onderneming
+1013496,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1013496,13,1000181,keyword,IWT
+1009443,2,1000145,keyword,Kind en Gezin
+1002973,12,1000065,keyword,gehandicapten
+1002973,12,1000066,keyword,mentaal gehandicapten
+1002973,12,1000067,keyword,personen met een handicap
+1002973,12,1000068,keyword,mindervaliden
+1002973,12,1000118,keyword,VFSIPH
+1002973,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1002274,29,1000041,keyword,onderwijspersoneel
+1002274,29,1000042,keyword,personeel onderwijs
+1002274,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002274,29,1000044,keyword,reaffectatie
+1002274,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002274,29,1000046,keyword,wachtgeld
+1002274,29,1000047,keyword,wedertewerkstelling
+1002274,29,1000048,keyword,statuut onderwijspersoneel
+1018792,25,1000080,keyword,provincie
+1018792,25,1000088,keyword,gemeente
+1018792,25,1000133,keyword,intercommunale
+1011713,0,1000197,keyword,onderwijs voor sociale promotie
+1011713,0,1000198,keyword,sociale promotie
+1017167,8,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1011956,23,1000104,keyword,serviceflat
+1011956,23,1000105,keyword,rusthuis
+1024351,2,1000145,keyword,Kind en Gezin
+1014632,23,1000103,keyword,dagverzorgingscentrum
+1010815,29,1000041,keyword,onderwijspersoneel
+1010815,29,1000042,keyword,personeel onderwijs
+1010815,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1010815,29,1000044,keyword,reaffectatie
+1010815,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1010815,29,1000046,keyword,wachtgeld
+1010815,29,1000047,keyword,wedertewerkstelling
+1010815,29,1000048,keyword,statuut onderwijspersoneel
+1028296,13,1000050,keyword,VDAB
+1005319,24,1000009,keyword,huisvesting
+1021827,3,1000145,keyword,Kind en Gezin
+1021827,3,1000189,keyword,kinderopvang
+1021426,0,1000041,keyword,onderwijspersoneel
+1021426,0,1000048,keyword,statuut onderwijspersoneel
+1002542,19,1000081,keyword,lasten uit het verleden
+1002542,19,1000082,keyword,schulden van het verleden
+1002542,19,1000083,keyword,rechtsopvolging
+1010614,11,1000145,keyword,Kind en Gezin
+1010614,11,1000188,keyword,kinderdagverblijf
+1010614,11,1000189,keyword,kinderopvang
+1008153,19,1000021,keyword,oppervlaktewater
+1007757,19,1000099,keyword,ambtenaren
+1007757,19,1000100,keyword,statuut ambtenaar
+1013541,0,1000197,keyword,onderwijs voor sociale promotie
+1013541,0,1000198,keyword,sociale promotie
+1028033,19,1000067,keyword,personen met een handicap
+1012053,36,1000088,keyword,gemeente
+1017362,14,1000020,keyword,grondwater
+1017362,14,1000024,keyword,afvalwater
+1005318,24,1000009,keyword,huisvesting
+1032143,13,1000059,keyword,werkgelegenheid
+1000256,7,1000041,keyword,onderwijspersoneel
+1000256,7,1000042,keyword,personeel onderwijs
+1000256,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000256,7,1000044,keyword,reaffectatie
+1000256,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000256,7,1000046,keyword,wachtgeld
+1000256,7,1000047,keyword,wedertewerkstelling
+1000256,7,1000048,keyword,statuut onderwijspersoneel
+1000256,7,1000160,keyword,diploma
+1000256,7,1000161,keyword,getuigschrift
+1000256,7,1000162,keyword,bekwaamheidsbewijs
+1000256,7,1000163,keyword,buitengewoon onderwijs
+1022802,26,1000067,keyword,personen met een handicap
+1005622,3,1000073,keyword,Vlaamse openbare instellingen
+1020848,52,1000009,keyword,huisvesting
+1028167,28,1000146,keyword,Toerisme Vlaanderen
+1027453,0,1000163,keyword,buitengewoon onderwijs
+1000214,35,1000065,keyword,gehandicapten
+1000214,35,1000066,keyword,mentaal gehandicapten
+1000214,35,1000067,keyword,personen met een handicap
+1000214,35,1000068,keyword,mindervaliden
+1000214,35,1000118,keyword,VFSIPH
+1000214,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1013565,1,1000168,keyword,cultureel en natuurlijk erfgoed
+1013565,1,1000194,keyword,monument
+1016961,30,1000131,keyword,secundair onderwijs
+1016961,30,1000197,keyword,onderwijs voor sociale promotie
+1027119,26,1000067,keyword,personen met een handicap
+1001748,7,1000041,keyword,onderwijspersoneel
+1001748,7,1000042,keyword,personeel onderwijs
+1001748,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001748,7,1000044,keyword,reaffectatie
+1001748,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001748,7,1000046,keyword,wachtgeld
+1001748,7,1000047,keyword,wedertewerkstelling
+1001748,7,1000048,keyword,statuut onderwijspersoneel
+1001748,7,1000131,keyword,secundair onderwijs
+1035746,28,1000129,keyword,Vlaamse Milieumaatschappij
+1028149,6,1000057,keyword,tewerkstelling
+1028149,6,1000059,keyword,werkgelegenheid
+1012961,5,1000157,keyword,bestuurlijk beleid
+1032794,2,1000189,keyword,kinderopvang
+1000609,35,1000065,keyword,gehandicapten
+1000609,35,1000066,keyword,mentaal gehandicapten
+1000609,35,1000067,keyword,personen met een handicap
+1000609,35,1000068,keyword,mindervaliden
+1000609,35,1000118,keyword,VFSIPH
+1000609,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1000047,39,1000050,keyword,VDAB
+1000047,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1018089,26,1000067,keyword,personen met een handicap
+1013432,35,1000065,keyword,gehandicapten
+1013432,35,1000066,keyword,mentaal gehandicapten
+1013432,35,1000067,keyword,personen met een handicap
+1013432,35,1000068,keyword,mindervaliden
+1013432,35,1000118,keyword,VFSIPH
+1013432,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1014877,20,1000195,keyword,delegatie
+1000213,35,1000065,keyword,gehandicapten
+1009634,34,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1009634,34,1000153,keyword,BLOSO
+1001802,21,1000085,keyword,visserij
+1026053,3,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1019573,2,1000108,keyword,VIPA
+1030021,19,1000160,keyword,diploma
+1006621,24,1000009,keyword,huisvesting
+1013875,5,1000099,keyword,ambtenaren
+1013875,5,1000100,keyword,statuut ambtenaar
+1013875,5,1000157,keyword,bestuurlijk beleid
+1006430,40,1000035,keyword,bijzonder plan van aanleg
+1006430,40,1000036,keyword,gemeentelijk plan van aanleg
+1016994,14,1000146,keyword,Toerisme Vlaanderen
+1019845,6,1000038,keyword,arbeidsbemiddeling
+1019845,6,1000062,keyword,outplacement
+1019845,6,1000191,keyword,uitzendarbeid
+1024471,10,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1010208,19,1000149,keyword,Vlaamse Landmaatschappij
+1009216,0,1000131,keyword,secundair onderwijs
+1000465,27,1000041,keyword,onderwijspersoneel
+1000465,27,1000042,keyword,personeel onderwijs
+1000465,27,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000465,27,1000044,keyword,reaffectatie
+1000465,27,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000465,27,1000046,keyword,wachtgeld
+1000465,27,1000047,keyword,wedertewerkstelling
+1000465,27,1000048,keyword,statuut onderwijspersoneel
+1000465,27,1000160,keyword,diploma
+1000465,27,1000161,keyword,getuigschrift
+1000465,27,1000162,keyword,bekwaamheidsbewijs
+1004303,0,1000176,keyword,rationalisatie en programmatie
+1007881,24,1000009,keyword,huisvesting
+1001013,5,1000149,keyword,Vlaamse Landmaatschappij
+1014579,19,1000157,keyword,bestuurlijk beleid
+1007817,7,1000197,keyword,onderwijs voor sociale promotie
+1007817,7,1000198,keyword,sociale promotie
+1023062,2,1000030,keyword,economisch beleid
+1010838,37,1000041,keyword,onderwijspersoneel
+1010838,37,1000042,keyword,personeel onderwijs
+1010838,37,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1010838,37,1000044,keyword,reaffectatie
+1010838,37,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1010838,37,1000046,keyword,wachtgeld
+1010838,37,1000047,keyword,wedertewerkstelling
+1010838,37,1000048,keyword,statuut onderwijspersoneel
+1029672,7,1000165,keyword,kunstonderwijs
+1003375,23,1000106,keyword,voorzieningen voor bejaarden
+1003375,23,1000107,keyword,bejaarden
+1005503,0,1000041,keyword,onderwijspersoneel
+1005503,0,1000042,keyword,personeel onderwijs
+1005503,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1005503,0,1000044,keyword,reaffectatie
+1005503,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1005503,0,1000046,keyword,wachtgeld
+1005503,0,1000047,keyword,wedertewerkstelling
+1005503,0,1000048,keyword,statuut onderwijspersoneel
+1005503,0,1000131,keyword,secundair onderwijs
+1006297,40,1000018,keyword,bouwvergunning
+1020446,3,1000065,keyword,gehandicapten
+1005810,11,1000145,keyword,Kind en Gezin
+1009903,7,1000041,keyword,onderwijspersoneel
+1009903,7,1000042,keyword,personeel onderwijs
+1009903,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1009903,7,1000044,keyword,reaffectatie
+1009903,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1009903,7,1000046,keyword,wachtgeld
+1009903,7,1000047,keyword,wedertewerkstelling
+1009903,7,1000048,keyword,statuut onderwijspersoneel
+1009903,7,1000131,keyword,secundair onderwijs
+1012993,5,1000157,keyword,bestuurlijk beleid
+1012144,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1012144,13,1000181,keyword,IWT
+1006914,2,1000188,keyword,kinderdagverblijf
+1006914,2,1000189,keyword,kinderopvang
+1015509,34,1000098,keyword,pensioen
+1005446,12,1000065,keyword,gehandicapten
+1005446,12,1000066,keyword,mentaal gehandicapten
+1005446,12,1000067,keyword,personen met een handicap
+1005446,12,1000068,keyword,mindervaliden
+1005446,12,1000173,keyword,centrum voor beroepsopleiding
+1026572,2,1000145,keyword,Kind en Gezin
+1007549,23,1000102,keyword,centrum voor dagverzorging
+1007549,23,1000103,keyword,dagverzorgingscentrum
+1029017,36,1000080,keyword,provincie
+1029017,36,1000088,keyword,gemeente
+1000524,27,1000165,keyword,kunstonderwijs
+1008447,12,1000065,keyword,gehandicapten
+1008447,12,1000066,keyword,mentaal gehandicapten
+1008447,12,1000067,keyword,personen met een handicap
+1008447,12,1000068,keyword,mindervaliden
+1008447,12,1000118,keyword,VFSIPH
+1008447,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1026212,2,1000145,keyword,Kind en Gezin
+1026212,2,1000189,keyword,kinderopvang
+1003248,0,1000130,keyword,beroepsonderwijs
+1003248,0,1000131,keyword,secundair onderwijs
+1030500,2,1000145,keyword,Kind en Gezin
+1004164,18,1000098,keyword,pensioen
+1004164,18,1000110,keyword,BRTN
+1004164,18,1000111,keyword,VRT
+1004164,18,1000112,keyword,Vlaamse Radio en Televisie
+1013604,1,1000192,keyword,dorpsgezicht
+1013604,1,1000193,keyword,stadsgezicht
+1013604,1,1000194,keyword,monument
+1012164,24,1000009,keyword,huisvesting
+1013129,24,1000009,keyword,huisvesting
+1013269,10,1000139,keyword,Dienst voor de Scheepvaart
+1026771,2,1000105,keyword,rusthuis
+1016152,19,1000075,keyword,vereniging zonder winstoogmerk
+1016152,19,1000085,keyword,visserij
+1016152,19,1000154,keyword,fonds
+1037608,0,1000131,keyword,secundair onderwijs
+1022091,31,1000028,keyword,Vlarem
+1017090,11,1000145,keyword,Kind en Gezin
+1014875,36,1000080,keyword,provincie
+1015987,34,1000145,keyword,Kind en Gezin
+1015987,34,1000189,keyword,kinderopvang
+1013104,3,1000118,keyword,VFSIPH
+1013104,3,1000157,keyword,bestuurlijk beleid
+1001114,1,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1038852,3,1000067,keyword,personen met een handicap
+1001207,0,1000141,keyword,Dienst Infrastructuurwerken van het Gesubsidieerd Onderwijs
+1001207,0,1000142,keyword,DIGO
+1025659,0,1000131,keyword,secundair onderwijs
+1014376,7,1000176,keyword,rationalisatie en programmatie
+1014376,7,1000195,keyword,delegatie
+1002585,0,1000163,keyword,buitengewoon onderwijs
+1006868,2,1000106,keyword,voorzieningen voor bejaarden
+1006868,2,1000107,keyword,bejaarden
+1029652,19,1000146,keyword,Toerisme Vlaanderen
+1017138,0,1000131,keyword,secundair onderwijs
+1017138,0,1000179,keyword,basisonderwijs
+1000164,19,1000098,keyword,pensioen
+1000164,19,1000110,keyword,BRTN
+1000164,19,1000111,keyword,VRT
+1000164,19,1000112,keyword,Vlaamse Radio en Televisie
+1006650,46,1000163,keyword,buitengewoon onderwijs
+1006650,46,1000179,keyword,basisonderwijs
+1001309,0,1000131,keyword,secundair onderwijs
+1013054,14,1000157,keyword,bestuurlijk beleid
+1018014,36,1000080,keyword,provincie
+1009308,16,1000195,keyword,delegatie
+1011673,0,1000179,keyword,basisonderwijs
+1015535,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1003954,1,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1003954,1,1000124,keyword,archeologisch patrimonium
+1002770,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1002770,13,1000181,keyword,IWT
+1017546,2,1000129,keyword,Vlaamse Milieumaatschappij
+1002469,1,1000175,keyword,presentiegeld
+1023069,39,1000057,keyword,tewerkstelling
+1023069,39,1000059,keyword,werkgelegenheid
+1011079,19,1000170,keyword,volksontwikkeling
+1011079,19,1000171,keyword,sociaal-cultureel vormings- en ontwikkelingswerk
+1021295,14,1000026,keyword,afval
+1009623,36,1000088,keyword,gemeente
+1011798,20,1000195,keyword,delegatie
+1000108,35,1000065,keyword,gehandicapten
+1000108,35,1000066,keyword,mentaal gehandicapten
+1000108,35,1000067,keyword,personen met een handicap
+1000108,35,1000068,keyword,mindervaliden
+1011081,13,1000031,keyword,KMO
+1011081,13,1000032,keyword,kleine en middelgrote onderneming
+1011081,13,1000089,keyword,ondernemersopleiding
+1011081,13,1000199,keyword,VIZO
+1011081,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1023003,34,1000080,keyword,provincie
+1023494,2,1000108,keyword,VIPA
+1023494,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1016311,24,1000019,keyword,milieu-effectenrapport
+1015236,7,1000048,keyword,statuut onderwijspersoneel
+1017115,4,1000085,keyword,visserij
+1002812,23,1000104,keyword,serviceflat
+1002812,23,1000105,keyword,rusthuis
+1029175,0,1000131,keyword,secundair onderwijs
+1014219,4,1000085,keyword,visserij
+1007603,24,1000038,keyword,arbeidsbemiddeling
+1004416,39,1000050,keyword,VDAB
+1004416,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1004416,39,1000081,keyword,lasten uit het verleden
+1004416,39,1000082,keyword,schulden van het verleden
+1004416,39,1000083,keyword,rechtsopvolging
+1002806,23,1000104,keyword,serviceflat
+1002806,23,1000105,keyword,rusthuis
+1037678,41,1000030,keyword,economisch beleid
+1017205,3,1000067,keyword,personen met een handicap
+1011718,10,1000072,keyword,statuut openbare instellingen
+1011718,10,1000150,keyword,OVAM
+1011718,10,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1018223,41,1000031,keyword,KMO
+1018223,41,1000032,keyword,kleine en middelgrote onderneming
+1017285,24,1000009,keyword,huisvesting
+1028062,6,1000050,keyword,VDAB
+1018370,21,1000149,keyword,Vlaamse Landmaatschappij
+1018370,21,1000183,keyword,plan van aanleg
+1002950,13,1000090,keyword,voortdurende vorming voor de middenstand
+1002950,13,1000091,keyword,middenstandsvorming
+1002950,13,1000199,keyword,VIZO
+1002950,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1033875,2,1000189,keyword,kinderopvang
+1008655,8,1000056,keyword,arbeidsplaatsen
+1008655,8,1000057,keyword,tewerkstelling
+1008655,8,1000058,keyword,arbeidsvergunning
+1008655,8,1000059,keyword,werkgelegenheid
+1015229,5,1000195,keyword,delegatie
+1007538,21,1000079,keyword,Instituut voor Natuurbehoud
+1004795,0,1000056,keyword,arbeidsplaatsen
+1004795,0,1000057,keyword,tewerkstelling
+1004795,0,1000058,keyword,arbeidsvergunning
+1004795,0,1000059,keyword,werkgelegenheid
+1015226,36,1000080,keyword,provincie
+1017820,11,1000145,keyword,Kind en Gezin
+1017820,11,1000189,keyword,kinderopvang
+1006539,35,1000065,keyword,gehandicapten
+1006539,35,1000066,keyword,mentaal gehandicapten
+1006539,35,1000067,keyword,personen met een handicap
+1006539,35,1000068,keyword,mindervaliden
+1006539,35,1000118,keyword,VFSIPH
+1006539,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1018551,14,1000158,keyword,GIS
+1018551,14,1000159,keyword,Geografisch Informatiesysteem
+1014555,21,1000021,keyword,oppervlaktewater
+1017899,20,1000195,keyword,delegatie
+1029659,0,1000131,keyword,secundair onderwijs
+1004714,27,1000048,keyword,statuut onderwijspersoneel
+1008985,46,1000163,keyword,buitengewoon onderwijs
+1001750,0,1000041,keyword,onderwijspersoneel
+1001750,0,1000042,keyword,personeel onderwijs
+1001750,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001750,0,1000044,keyword,reaffectatie
+1001750,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001750,0,1000046,keyword,wachtgeld
+1001750,0,1000047,keyword,wedertewerkstelling
+1001750,0,1000048,keyword,statuut onderwijspersoneel
+1016033,0,1000131,keyword,secundair onderwijs
+1005321,19,1000009,keyword,huisvesting
+1008510,19,1000140,keyword,Vlaamse Maatschappij voor Watervoorziening
+1000090,14,1000063,keyword,duinen
+1000090,14,1000064,keyword,kustduin
+1003052,1,1000194,keyword,monument
+1017260,6,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1011664,16,1000030,keyword,economisch beleid
+1011664,16,1000031,keyword,KMO
+1011664,16,1000032,keyword,kleine en middelgrote onderneming
+1001252,19,1000011,keyword,investeringsfonds
+1001252,19,1000088,keyword,gemeente
+1027075,6,1000100,keyword,statuut ambtenaar
+1032920,19,1000189,keyword,kinderopvang
+1002900,48,1000143,keyword,ARGO
+1002900,48,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1010782,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1015904,16,1000030,keyword,economisch beleid
+1015904,16,1000032,keyword,kleine en middelgrote onderneming
+1037121,8,1000057,keyword,tewerkstelling
+1037121,8,1000059,keyword,werkgelegenheid
+1006298,8,1000056,keyword,arbeidsplaatsen
+1006298,8,1000057,keyword,tewerkstelling
+1006298,8,1000058,keyword,arbeidsvergunning
+1006298,8,1000059,keyword,werkgelegenheid
+1000101,28,1000069,keyword,Alden Biesen
+1000101,28,1000070,keyword,Landcommanderij Alden-Biesen
+1000101,28,1000071,keyword,cultuurcentrum
+1007160,10,1000172,keyword,Vlaamse Raad voor Wetenschapsbeleid
+1014429,7,1000131,keyword,secundair onderwijs
+1014429,7,1000179,keyword,basisonderwijs
+1028199,2,1000145,keyword,Kind en Gezin
+1019568,21,1000149,keyword,Vlaamse Landmaatschappij
+1019568,21,1000183,keyword,plan van aanleg
+1006907,28,1000069,keyword,Alden Biesen
+1006907,28,1000070,keyword,Landcommanderij Alden-Biesen
+1015499,14,1000149,keyword,Vlaamse Landmaatschappij
+1017868,10,1000100,keyword,statuut ambtenaar
+1017868,10,1000145,keyword,Kind en Gezin
+1036080,19,1000094,keyword,podiumkunsten
+1000301,13,1000172,keyword,Vlaamse Raad voor Wetenschapsbeleid
+1005398,18,1000110,keyword,BRTN
+1005398,18,1000111,keyword,VRT
+1005398,18,1000112,keyword,Vlaamse Radio en Televisie
+1022479,2,1000145,keyword,Kind en Gezin
+1006365,24,1000065,keyword,gehandicapten
+1006365,24,1000066,keyword,mentaal gehandicapten
+1006365,24,1000067,keyword,personen met een handicap
+1006365,24,1000068,keyword,mindervaliden
+1006365,24,1000121,keyword,zelfstandig wonen
+1030216,26,1000067,keyword,personen met een handicap
+1000294,7,1000041,keyword,onderwijspersoneel
+1000294,7,1000042,keyword,personeel onderwijs
+1000294,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000294,7,1000044,keyword,reaffectatie
+1000294,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000294,7,1000046,keyword,wachtgeld
+1000294,7,1000047,keyword,wedertewerkstelling
+1000294,7,1000048,keyword,statuut onderwijspersoneel
+1011153,4,1000085,keyword,visserij
+1011153,4,1000154,keyword,fonds
+1000190,1,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1000190,1,1000123,keyword,Vlaamse Archeologische Raad
+1000190,1,1000124,keyword,archeologisch patrimonium
+1014209,0,1000131,keyword,secundair onderwijs
+1017881,41,1000030,keyword,economisch beleid
+1017881,41,1000031,keyword,KMO
+1000040,1,1000035,keyword,bijzonder plan van aanleg
+1000040,1,1000036,keyword,gemeentelijk plan van aanleg
+1023668,2,1000145,keyword,Kind en Gezin
+1017693,20,1000195,keyword,delegatie
+1000866,12,1000039,keyword,beroepsopleiding
+1000866,12,1000065,keyword,gehandicapten
+1000866,12,1000066,keyword,mentaal gehandicapten
+1000866,12,1000067,keyword,personen met een handicap
+1000866,12,1000068,keyword,mindervaliden
+1001036,34,1000007,keyword,vrijwilligerswerk
+1006670,8,1000038,keyword,arbeidsbemiddeling
+1016973,11,1000145,keyword,Kind en Gezin
+1016973,11,1000188,keyword,kinderdagverblijf
+1016973,11,1000189,keyword,kinderopvang
+1021777,0,1000131,keyword,secundair onderwijs
+1024191,19,1000177,keyword,woonwagenbewoners
+1003270,12,1000067,keyword,personen met een handicap
+1006521,35,1000065,keyword,gehandicapten
+1006521,35,1000066,keyword,mentaal gehandicapten
+1006521,35,1000067,keyword,personen met een handicap
+1006521,35,1000068,keyword,mindervaliden
+1006521,35,1000118,keyword,VFSIPH
+1006521,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1006384,40,1000018,keyword,bouwvergunning
+1001105,1,1000080,keyword,provincie
+1001105,1,1000088,keyword,gemeente
+1001105,1,1000194,keyword,monument
+1017962,20,1000195,keyword,delegatie
+1009168,4,1000085,keyword,visserij
+1000089,8,1000055,keyword,"erkenningscommissie inzake outplacement, werving en selectie"
+1000089,8,1000056,keyword,arbeidsplaatsen
+1000089,8,1000057,keyword,tewerkstelling
+1000089,8,1000058,keyword,arbeidsvergunning
+1000089,8,1000059,keyword,werkgelegenheid
+1000089,8,1000060,keyword,selectiebureau
+1000089,8,1000061,keyword,wervingsbureau
+1000089,8,1000062,keyword,outplacement
+1007932,7,1000160,keyword,diploma
+1007932,7,1000161,keyword,getuigschrift
+1007932,7,1000162,keyword,bekwaamheidsbewijs
+1007932,7,1000197,keyword,onderwijs voor sociale promotie
+1007932,7,1000198,keyword,sociale promotie
+1008953,7,1000041,keyword,onderwijspersoneel
+1008953,7,1000042,keyword,personeel onderwijs
+1008953,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1008953,7,1000044,keyword,reaffectatie
+1008953,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1008953,7,1000046,keyword,wachtgeld
+1008953,7,1000047,keyword,wedertewerkstelling
+1008953,7,1000048,keyword,statuut onderwijspersoneel
+1008953,7,1000197,keyword,onderwijs voor sociale promotie
+1008953,7,1000198,keyword,sociale promotie
+1032036,26,1000067,keyword,personen met een handicap
+1009141,11,1000145,keyword,Kind en Gezin
+1004010,19,1000104,keyword,serviceflat
+1029281,0,1000165,keyword,kunstonderwijs
+1001538,8,1000041,keyword,onderwijspersoneel
+1001538,8,1000042,keyword,personeel onderwijs
+1001538,8,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001538,8,1000044,keyword,reaffectatie
+1001538,8,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001538,8,1000046,keyword,wachtgeld
+1001538,8,1000047,keyword,wedertewerkstelling
+1001538,8,1000048,keyword,statuut onderwijspersoneel
+1026301,2,1000067,keyword,personen met een handicap
+1001995,19,1000031,keyword,KMO
+1001995,19,1000032,keyword,kleine en middelgrote onderneming
+1012775,23,1000105,keyword,rusthuis
+1012775,23,1000107,keyword,bejaarden
+1000635,40,1000184,keyword,gewestplan
+1008468,0,1000041,keyword,onderwijspersoneel
+1008468,0,1000042,keyword,personeel onderwijs
+1008468,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1008468,0,1000044,keyword,reaffectatie
+1008468,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1008468,0,1000046,keyword,wachtgeld
+1008468,0,1000047,keyword,wedertewerkstelling
+1008468,0,1000048,keyword,statuut onderwijspersoneel
+1008468,0,1000130,keyword,beroepsonderwijs
+1008468,0,1000131,keyword,secundair onderwijs
+1008468,0,1000163,keyword,buitengewoon onderwijs
+1008468,0,1000197,keyword,onderwijs voor sociale promotie
+1008468,0,1000198,keyword,sociale promotie
+1001890,15,1000041,keyword,onderwijspersoneel
+1001890,15,1000042,keyword,personeel onderwijs
+1001890,15,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001890,15,1000044,keyword,reaffectatie
+1001890,15,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001890,15,1000046,keyword,wachtgeld
+1001890,15,1000047,keyword,wedertewerkstelling
+1001890,15,1000048,keyword,statuut onderwijspersoneel
+1031709,23,1000103,keyword,dagverzorgingscentrum
+1014876,36,1000080,keyword,provincie
+1013063,8,1000050,keyword,VDAB
+1013063,8,1000157,keyword,bestuurlijk beleid
+1030269,0,1000131,keyword,secundair onderwijs
+1000041,1,1000037,keyword,sociaal grondbeleid
+1028100,31,1000019,keyword,milieu-effectenrapport
+1013230,10,1000115,keyword,Waterwegen en Zeekanaal
+1016723,29,1000186,keyword,centrum voor leerlingenbegeleiding
+1000978,1,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1000978,1,1000123,keyword,Vlaamse Archeologische Raad
+1000978,1,1000124,keyword,archeologisch patrimonium
+1003910,31,1000025,keyword,dierlijk afval
+1003910,31,1000026,keyword,afval
+1003910,31,1000169,keyword,commissie dierlijk afval
+1008357,46,1000163,keyword,buitengewoon onderwijs
+1008357,46,1000179,keyword,basisonderwijs
+1000728,8,1000088,keyword,gemeente
+1017120,0,1000130,keyword,beroepsonderwijs
+1024160,24,1000009,keyword,huisvesting
+1016940,19,1000168,keyword,cultureel en natuurlijk erfgoed
+1000846,15,1000041,keyword,onderwijspersoneel
+1000846,15,1000042,keyword,personeel onderwijs
+1000846,15,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000846,15,1000044,keyword,reaffectatie
+1000846,15,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000846,15,1000046,keyword,wachtgeld
+1000846,15,1000047,keyword,wedertewerkstelling
+1000846,15,1000048,keyword,statuut onderwijspersoneel
+1013039,3,1000157,keyword,bestuurlijk beleid
+1008497,15,1000185,keyword,leerlingenbegeleiding
+1008497,15,1000186,keyword,centrum voor leerlingenbegeleiding
+1015072,2,1000108,keyword,VIPA
+1018765,23,1000101,keyword,dienstencentrum
+1008349,11,1000145,keyword,Kind en Gezin
+1008349,11,1000188,keyword,kinderdagverblijf
+1008349,11,1000189,keyword,kinderopvang
+1018390,6,1000038,keyword,arbeidsbemiddeling
+1018390,6,1000039,keyword,beroepsopleiding
+1018390,6,1000050,keyword,VDAB
+1018390,6,1000059,keyword,werkgelegenheid
+1015582,36,1000080,keyword,provincie
+1015582,36,1000088,keyword,gemeente
+1033480,39,1000039,keyword,beroepsopleiding
+1002423,42,1000175,keyword,presentiegeld
+1001386,12,1000065,keyword,gehandicapten
+1001386,12,1000066,keyword,mentaal gehandicapten
+1001386,12,1000067,keyword,personen met een handicap
+1001386,12,1000068,keyword,mindervaliden
+1001386,12,1000120,keyword,sociale integratie
+1022407,13,1000089,keyword,ondernemersopleiding
+1028579,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1017805,8,1000059,keyword,werkgelegenheid
+1014537,2,1000108,keyword,VIPA
+1014537,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1014537,2,1000145,keyword,Kind en Gezin
+1014537,2,1000157,keyword,bestuurlijk beleid
+1014537,2,1000195,keyword,delegatie
+1003029,0,1000041,keyword,onderwijspersoneel
+1003029,0,1000042,keyword,personeel onderwijs
+1003029,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1003029,0,1000044,keyword,reaffectatie
+1003029,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1003029,0,1000046,keyword,wachtgeld
+1003029,0,1000047,keyword,wedertewerkstelling
+1003029,0,1000048,keyword,statuut onderwijspersoneel
+1000388,0,1000041,keyword,onderwijspersoneel
+1000388,0,1000042,keyword,personeel onderwijs
+1000388,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000388,0,1000044,keyword,reaffectatie
+1000388,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000388,0,1000046,keyword,wachtgeld
+1000388,0,1000047,keyword,wedertewerkstelling
+1000388,0,1000048,keyword,statuut onderwijspersoneel
+1014158,36,1000080,keyword,provincie
+1023405,24,1000009,keyword,huisvesting
+1015795,11,1000188,keyword,kinderdagverblijf
+1015795,11,1000189,keyword,kinderopvang
+1026578,52,1000177,keyword,woonwagenbewoners
+1032959,2,1000103,keyword,dagverzorgingscentrum
+1032959,2,1000106,keyword,voorzieningen voor bejaarden
+1011577,28,1000146,keyword,Toerisme Vlaanderen
+1006143,1,1000192,keyword,dorpsgezicht
+1006143,1,1000193,keyword,stadsgezicht
+1006143,1,1000194,keyword,monument
+1017858,18,1000111,keyword,VRT
+1029944,19,1000098,keyword,pensioen
+1012020,16,1000030,keyword,economisch beleid
+1012020,16,1000031,keyword,KMO
+1012020,16,1000032,keyword,kleine en middelgrote onderneming
+1000385,27,1000041,keyword,onderwijspersoneel
+1000385,27,1000042,keyword,personeel onderwijs
+1000385,27,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000385,27,1000044,keyword,reaffectatie
+1000385,27,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000385,27,1000046,keyword,wachtgeld
+1000385,27,1000047,keyword,wedertewerkstelling
+1000385,27,1000048,keyword,statuut onderwijspersoneel
+1000385,27,1000131,keyword,secundair onderwijs
+1013538,7,1000041,keyword,onderwijspersoneel
+1013538,7,1000042,keyword,personeel onderwijs
+1013538,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1013538,7,1000044,keyword,reaffectatie
+1013538,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1013538,7,1000046,keyword,wachtgeld
+1013538,7,1000047,keyword,wedertewerkstelling
+1013538,7,1000048,keyword,statuut onderwijspersoneel
+1013538,7,1000179,keyword,basisonderwijs
+1013199,28,1000168,keyword,cultureel en natuurlijk erfgoed
+1006393,31,1000011,keyword,investeringsfonds
+1006393,31,1000028,keyword,Vlarem
+1005947,16,1000031,keyword,KMO
+1005947,16,1000032,keyword,kleine en middelgrote onderneming
+1005947,16,1000199,keyword,VIZO
+1005947,16,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1020167,6,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1020167,6,1000059,keyword,werkgelegenheid
+1020167,6,1000062,keyword,outplacement
+1000598,15,1000040,keyword,inspectie
+1000598,15,1000041,keyword,onderwijspersoneel
+1000598,15,1000042,keyword,personeel onderwijs
+1000598,15,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000598,15,1000044,keyword,reaffectatie
+1000598,15,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000598,15,1000046,keyword,wachtgeld
+1000598,15,1000047,keyword,wedertewerkstelling
+1000598,15,1000048,keyword,statuut onderwijspersoneel
+1001112,19,1000001,keyword,taalgebruik
+1021148,4,1000085,keyword,visserij
+1012544,1,1000194,keyword,monument
+1011711,4,1000078,keyword,Instituut voor Bosbouw en Wildbeheer
+1002570,17,1000088,keyword,gemeente
+1002570,17,1000113,keyword,gemeentepersoneel
+1002570,17,1000114,keyword,statuut gemeentepersoneel
+1017788,16,1000031,keyword,KMO
+1017788,16,1000032,keyword,kleine en middelgrote onderneming
+1011536,39,1000050,keyword,VDAB
+1011536,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1009283,1,1000194,keyword,monument
+1013012,1,1000195,keyword,delegatie
+1004074,29,1000041,keyword,onderwijspersoneel
+1004074,29,1000042,keyword,personeel onderwijs
+1004074,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1004074,29,1000044,keyword,reaffectatie
+1004074,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1004074,29,1000046,keyword,wachtgeld
+1004074,29,1000047,keyword,wedertewerkstelling
+1004074,29,1000048,keyword,statuut onderwijspersoneel
+1030049,19,1000131,keyword,secundair onderwijs
+1030049,19,1000150,keyword,OVAM
+1035153,2,1000102,keyword,centrum voor dagverzorging
+1021306,50,1000021,keyword,oppervlaktewater
+1007697,7,1000160,keyword,diploma
+1007697,7,1000161,keyword,getuigschrift
+1007697,7,1000162,keyword,bekwaamheidsbewijs
+1007998,11,1000145,keyword,Kind en Gezin
+1007998,11,1000188,keyword,kinderdagverblijf
+1007998,11,1000189,keyword,kinderopvang
+1014168,7,1000157,keyword,bestuurlijk beleid
+1003447,12,1000068,keyword,mindervaliden
+1004825,19,1000073,keyword,Vlaamse openbare instellingen
+1015134,35,1000156,keyword,bijzondere jeugdbijstand
+1016866,50,1000149,keyword,Vlaamse Landmaatschappij
+1024323,10,1000115,keyword,Waterwegen en Zeekanaal
+1009291,8,1000198,keyword,sociale promotie
+1012953,23,1000088,keyword,gemeente
+1007604,42,1000072,keyword,statuut openbare instellingen
+1015208,16,1000181,keyword,IWT
+1005504,7,1000163,keyword,buitengewoon onderwijs
+1005504,7,1000176,keyword,rationalisatie en programmatie
+1005504,7,1000179,keyword,basisonderwijs
+1010922,14,1000025,keyword,dierlijk afval
+1010922,14,1000026,keyword,afval
+1017105,30,1000130,keyword,beroepsonderwijs
+1011951,19,1000039,keyword,beroepsopleiding
+1011951,19,1000146,keyword,Toerisme Vlaanderen
+1011951,19,1000150,keyword,OVAM
+1011951,19,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1007222,29,1000041,keyword,onderwijspersoneel
+1007222,29,1000042,keyword,personeel onderwijs
+1007222,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1007222,29,1000044,keyword,reaffectatie
+1007222,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1007222,29,1000046,keyword,wachtgeld
+1007222,29,1000047,keyword,wedertewerkstelling
+1007222,29,1000048,keyword,statuut onderwijspersoneel
+1007222,29,1000098,keyword,pensioen
+1011080,23,1000105,keyword,rusthuis
+1015115,30,1000197,keyword,onderwijs voor sociale promotie
+1018406,4,1000085,keyword,visserij
+1000763,45,1000131,keyword,secundair onderwijs
+1000763,45,1000160,keyword,diploma
+1000763,45,1000161,keyword,getuigschrift
+1000763,45,1000162,keyword,bekwaamheidsbewijs
+1005513,7,1000041,keyword,onderwijspersoneel
+1005513,7,1000042,keyword,personeel onderwijs
+1005513,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1005513,7,1000044,keyword,reaffectatie
+1005513,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1005513,7,1000046,keyword,wachtgeld
+1005513,7,1000047,keyword,wedertewerkstelling
+1005513,7,1000048,keyword,statuut onderwijspersoneel
+1005513,7,1000163,keyword,buitengewoon onderwijs
+1005513,7,1000179,keyword,basisonderwijs
+1019001,7,1000040,keyword,inspectie
+1019001,7,1000048,keyword,statuut onderwijspersoneel
+1019001,7,1000049,keyword,pedagogische begeleidingsdienst
+1013081,0,1000089,keyword,ondernemersopleiding
+1013081,0,1000157,keyword,bestuurlijk beleid
+1013081,0,1000199,keyword,VIZO
+1013081,0,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1032132,16,1000030,keyword,economisch beleid
+1000386,27,1000048,keyword,statuut onderwijspersoneel
+1000386,27,1000162,keyword,bekwaamheidsbewijs
+1008249,11,1000145,keyword,Kind en Gezin
+1008249,11,1000188,keyword,kinderdagverblijf
+1008249,11,1000189,keyword,kinderopvang
+1013051,13,1000157,keyword,bestuurlijk beleid
+1013051,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1013051,13,1000181,keyword,IWT
+1012151,31,1000025,keyword,dierlijk afval
+1012151,31,1000026,keyword,afval
+1012151,31,1000150,keyword,OVAM
+1012151,31,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1000212,35,1000068,keyword,mindervaliden
+1006677,18,1000110,keyword,BRTN
+1006677,18,1000111,keyword,VRT
+1006677,18,1000112,keyword,Vlaamse Radio en Televisie
+1012811,31,1000025,keyword,dierlijk afval
+1012811,31,1000026,keyword,afval
+1012811,31,1000034,keyword,afvalvoorkoming
+1012811,31,1000150,keyword,OVAM
+1012811,31,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1000534,27,1000048,keyword,statuut onderwijspersoneel
+1029133,6,1000057,keyword,tewerkstelling
+1007602,40,1000035,keyword,bijzonder plan van aanleg
+1007602,40,1000036,keyword,gemeentelijk plan van aanleg
+1012027,16,1000030,keyword,economisch beleid
+1003768,35,1000065,keyword,gehandicapten
+1003768,35,1000066,keyword,mentaal gehandicapten
+1003768,35,1000067,keyword,personen met een handicap
+1003768,35,1000068,keyword,mindervaliden
+1003768,35,1000118,keyword,VFSIPH
+1003768,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1022753,14,1000020,keyword,grondwater
+1000120,4,1000085,keyword,visserij
+1000120,4,1000086,keyword,aquicultuur
+1013500,0,1000179,keyword,basisonderwijs
+1013500,0,1000185,keyword,leerlingenbegeleiding
+1013500,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1006291,37,1000041,keyword,onderwijspersoneel
+1006291,37,1000042,keyword,personeel onderwijs
+1006291,37,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1006291,37,1000044,keyword,reaffectatie
+1006291,37,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1006291,37,1000046,keyword,wachtgeld
+1006291,37,1000047,keyword,wedertewerkstelling
+1006291,37,1000048,keyword,statuut onderwijspersoneel
+1006291,37,1000131,keyword,secundair onderwijs
+1006603,40,1000028,keyword,Vlarem
+1014854,36,1000080,keyword,provincie
+1006305,24,1000009,keyword,huisvesting
+1002839,0,1000041,keyword,onderwijspersoneel
+1002839,0,1000042,keyword,personeel onderwijs
+1002839,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002839,0,1000044,keyword,reaffectatie
+1002839,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002839,0,1000046,keyword,wachtgeld
+1002839,0,1000047,keyword,wedertewerkstelling
+1002839,0,1000048,keyword,statuut onderwijspersoneel
+1002839,0,1000131,keyword,secundair onderwijs
+1002839,0,1000165,keyword,kunstonderwijs
+1002839,0,1000179,keyword,basisonderwijs
+1009278,43,1000087,keyword,overheidsopdrachten
+1009278,43,1000088,keyword,gemeente
+1000439,0,1000041,keyword,onderwijspersoneel
+1000439,0,1000042,keyword,personeel onderwijs
+1000439,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000439,0,1000044,keyword,reaffectatie
+1000439,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000439,0,1000046,keyword,wachtgeld
+1000439,0,1000047,keyword,wedertewerkstelling
+1000439,0,1000048,keyword,statuut onderwijspersoneel
+1000439,0,1000130,keyword,beroepsonderwijs
+1000439,0,1000131,keyword,secundair onderwijs
+1000439,0,1000160,keyword,diploma
+1000439,0,1000161,keyword,getuigschrift
+1000439,0,1000162,keyword,bekwaamheidsbewijs
+1000439,0,1000163,keyword,buitengewoon onderwijs
+1000439,0,1000165,keyword,kunstonderwijs
+1000439,0,1000197,keyword,onderwijs voor sociale promotie
+1000439,0,1000198,keyword,sociale promotie
+1015356,38,1000088,keyword,gemeente
+1027191,19,1000032,keyword,kleine en middelgrote onderneming
+1014259,7,1000160,keyword,diploma
+1014259,7,1000161,keyword,getuigschrift
+1014259,7,1000162,keyword,bekwaamheidsbewijs
+1014259,7,1000163,keyword,buitengewoon onderwijs
+1011530,19,1000157,keyword,bestuurlijk beleid
+1005577,1,1000088,keyword,gemeente
+1000024,1,1000030,keyword,economisch beleid
+1029784,36,1000080,keyword,provincie
+1023096,7,1000131,keyword,secundair onderwijs
+1023096,7,1000160,keyword,diploma
+1023096,7,1000179,keyword,basisonderwijs
+1017317,28,1000170,keyword,volksontwikkeling
+1017317,28,1000171,keyword,sociaal-cultureel vormings- en ontwikkelingswerk
+1012494,44,1000185,keyword,leerlingenbegeleiding
+1012494,44,1000186,keyword,centrum voor leerlingenbegeleiding
+1005130,27,1000165,keyword,kunstonderwijs
+1010837,7,1000041,keyword,onderwijspersoneel
+1010837,7,1000042,keyword,personeel onderwijs
+1010837,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1010837,7,1000044,keyword,reaffectatie
+1010837,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1010837,7,1000046,keyword,wachtgeld
+1010837,7,1000047,keyword,wedertewerkstelling
+1010837,7,1000048,keyword,statuut onderwijspersoneel
+1010837,7,1000163,keyword,buitengewoon onderwijs
+1013845,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1013845,13,1000181,keyword,IWT
+1007111,19,1000154,keyword,fonds
+1007111,19,1000155,keyword,begrotingsfonds
+1013163,10,1000115,keyword,Waterwegen en Zeekanaal
+1002915,21,1000021,keyword,oppervlaktewater
+1003958,29,1000041,keyword,onderwijspersoneel
+1003958,29,1000042,keyword,personeel onderwijs
+1003958,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1003958,29,1000044,keyword,reaffectatie
+1003958,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1003958,29,1000046,keyword,wachtgeld
+1003958,29,1000047,keyword,wedertewerkstelling
+1003958,29,1000048,keyword,statuut onderwijspersoneel
+1007805,12,1000118,keyword,VFSIPH
+1007805,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1006124,40,1000018,keyword,bouwvergunning
+1000188,35,1000065,keyword,gehandicapten
+1000188,35,1000066,keyword,mentaal gehandicapten
+1000188,35,1000067,keyword,personen met een handicap
+1000188,35,1000068,keyword,mindervaliden
+1000188,35,1000121,keyword,zelfstandig wonen
+1003794,31,1000020,keyword,grondwater
+1003794,31,1000021,keyword,oppervlaktewater
+1003794,31,1000024,keyword,afvalwater
+1003794,31,1000025,keyword,dierlijk afval
+1003794,31,1000026,keyword,afval
+1003794,31,1000027,keyword,hinderlijke inrichting
+1003794,31,1000028,keyword,Vlarem
+1003794,31,1000029,keyword,milieuvergunning
+1003794,31,1000074,keyword,luchtverontreiniging
+1005697,44,1000131,keyword,secundair onderwijs
+1022490,6,1000088,keyword,gemeente
+1007042,28,1000094,keyword,podiumkunsten
+1006667,33,1000088,keyword,gemeente
+1007789,14,1000139,keyword,Dienst voor de Scheepvaart
+1015638,43,1000026,keyword,afval
+1015638,43,1000034,keyword,afvalvoorkoming
+1015638,43,1000087,keyword,overheidsopdrachten
+1017250,2,1000108,keyword,VIPA
+1014408,24,1000009,keyword,huisvesting
+1027179,26,1000067,keyword,personen met een handicap
+1020193,5,1000159,keyword,Geografisch Informatiesysteem
+1001139,19,1000110,keyword,BRTN
+1001139,19,1000111,keyword,VRT
+1001139,19,1000112,keyword,Vlaamse Radio en Televisie
+1003383,8,1000030,keyword,economisch beleid
+1013261,5,1000157,keyword,bestuurlijk beleid
+1005075,19,1000009,keyword,huisvesting
+1005075,19,1000073,keyword,Vlaamse openbare instellingen
+1005075,19,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1005075,19,1000170,keyword,volksontwikkeling
+1005075,19,1000171,keyword,sociaal-cultureel vormings- en ontwikkelingswerk
+1000018,1,1000019,keyword,milieu-effectenrapport
+1000018,1,1000027,keyword,hinderlijke inrichting
+1014432,0,1000131,keyword,secundair onderwijs
+1023549,2,1000145,keyword,Kind en Gezin
+1023549,2,1000189,keyword,kinderopvang
+1026818,16,1000030,keyword,economisch beleid
+1026818,16,1000031,keyword,KMO
+1000393,0,1000040,keyword,inspectie
+1000393,0,1000041,keyword,onderwijspersoneel
+1000393,0,1000042,keyword,personeel onderwijs
+1000393,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000393,0,1000044,keyword,reaffectatie
+1000393,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000393,0,1000046,keyword,wachtgeld
+1000393,0,1000047,keyword,wedertewerkstelling
+1000393,0,1000048,keyword,statuut onderwijspersoneel
+1000393,0,1000049,keyword,pedagogische begeleidingsdienst
+1027204,2,1000145,keyword,Kind en Gezin
+1027204,2,1000189,keyword,kinderopvang
+1008586,11,1000145,keyword,Kind en Gezin
+1008586,11,1000188,keyword,kinderdagverblijf
+1008586,11,1000189,keyword,kinderopvang
+1032124,19,1000130,keyword,beroepsonderwijs
+1024447,21,1000021,keyword,oppervlaktewater
+1017158,0,1000165,keyword,kunstonderwijs
+1005627,10,1000078,keyword,Instituut voor Bosbouw en Wildbeheer
+1005627,10,1000079,keyword,Instituut voor Natuurbehoud
+1005627,10,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1024951,2,1000107,keyword,bejaarden
+1005502,8,1000030,keyword,economisch beleid
+1005502,8,1000056,keyword,arbeidsplaatsen
+1005502,8,1000057,keyword,tewerkstelling
+1005502,8,1000058,keyword,arbeidsvergunning
+1005502,8,1000059,keyword,werkgelegenheid
+1001042,44,1000130,keyword,beroepsonderwijs
+1001042,44,1000131,keyword,secundair onderwijs
+1028523,3,1000145,keyword,Kind en Gezin
+1001725,14,1000025,keyword,dierlijk afval
+1001725,14,1000026,keyword,afval
+1017872,41,1000031,keyword,KMO
+1017872,41,1000032,keyword,kleine en middelgrote onderneming
+1016821,28,1000070,keyword,Landcommanderij Alden-Biesen
+1004202,35,1000065,keyword,gehandicapten
+1004202,35,1000066,keyword,mentaal gehandicapten
+1004202,35,1000067,keyword,personen met een handicap
+1004202,35,1000068,keyword,mindervaliden
+1001304,0,1000041,keyword,onderwijspersoneel
+1001304,0,1000042,keyword,personeel onderwijs
+1001304,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001304,0,1000044,keyword,reaffectatie
+1001304,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001304,0,1000046,keyword,wachtgeld
+1001304,0,1000047,keyword,wedertewerkstelling
+1001304,0,1000048,keyword,statuut onderwijspersoneel
+1001304,0,1000163,keyword,buitengewoon onderwijs
+1015645,14,1000081,keyword,lasten uit het verleden
+1015645,14,1000082,keyword,schulden van het verleden
+1015645,14,1000083,keyword,rechtsopvolging
+1015645,14,1000157,keyword,bestuurlijk beleid
+1014637,23,1000103,keyword,dagverzorgingscentrum
+1037537,2,1000189,keyword,kinderopvang
+1008507,1,1000113,keyword,gemeentepersoneel
+1008507,1,1000114,keyword,statuut gemeentepersoneel
+1002964,48,1000131,keyword,secundair onderwijs
+1002964,48,1000163,keyword,buitengewoon onderwijs
+1022066,24,1000009,keyword,huisvesting
+1007707,1,1000035,keyword,bijzonder plan van aanleg
+1007707,1,1000036,keyword,gemeentelijk plan van aanleg
+1005776,8,1000038,keyword,arbeidsbemiddeling
+1002782,31,1000020,keyword,grondwater
+1017677,34,1000153,keyword,BLOSO
+1018903,4,1000085,keyword,visserij
+1014300,24,1000009,keyword,huisvesting
+1001888,0,1000048,keyword,statuut onderwijspersoneel
+1015739,31,1000020,keyword,grondwater
+1015739,31,1000024,keyword,afvalwater
+1015739,31,1000025,keyword,dierlijk afval
+1023287,21,1000024,keyword,afvalwater
+1006528,6,1000056,keyword,arbeidsplaatsen
+1006528,6,1000057,keyword,tewerkstelling
+1006528,6,1000058,keyword,arbeidsvergunning
+1006528,6,1000059,keyword,werkgelegenheid
+1014311,30,1000197,keyword,onderwijs voor sociale promotie
+1014311,30,1000198,keyword,sociale promotie
+1013851,21,1000034,keyword,afvalvoorkoming
+1013851,21,1000150,keyword,OVAM
+1013851,21,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1016296,50,1000020,keyword,grondwater
+1016296,50,1000024,keyword,afvalwater
+1014066,16,1000157,keyword,bestuurlijk beleid
+1001405,14,1000160,keyword,diploma
+1001405,14,1000161,keyword,getuigschrift
+1001405,14,1000162,keyword,bekwaamheidsbewijs
+1015896,2,1000145,keyword,Kind en Gezin
+1016588,0,1000088,keyword,gemeente
+1006967,25,1000012,keyword,Vlaamse Gemeenschapscommissie
+1015700,2,1000105,keyword,rusthuis
+1015700,2,1000108,keyword,VIPA
+1015700,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1014443,7,1000179,keyword,basisonderwijs
+1030051,2,1000067,keyword,personen met een handicap
+1008929,6,1000056,keyword,arbeidsplaatsen
+1008929,6,1000057,keyword,tewerkstelling
+1008929,6,1000058,keyword,arbeidsvergunning
+1008929,6,1000059,keyword,werkgelegenheid
+1000425,12,1000065,keyword,gehandicapten
+1000425,12,1000066,keyword,mentaal gehandicapten
+1000425,12,1000067,keyword,personen met een handicap
+1000425,12,1000068,keyword,mindervaliden
+1024955,19,1000160,keyword,diploma
+1003277,12,1000039,keyword,beroepsopleiding
+1003277,12,1000065,keyword,gehandicapten
+1003277,12,1000066,keyword,mentaal gehandicapten
+1003277,12,1000067,keyword,personen met een handicap
+1003277,12,1000068,keyword,mindervaliden
+1004146,14,1000022,keyword,ARAB
+1004146,14,1000023,keyword,algemeen reglement voor de arbeidsbescherming
+1018366,34,1000153,keyword,BLOSO
+1002838,14,1000129,keyword,Vlaamse Milieumaatschappij
+1002838,14,1000150,keyword,OVAM
+1008372,12,1000118,keyword,VFSIPH
+1008372,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1013588,16,1000030,keyword,economisch beleid
+1006360,42,1000140,keyword,Vlaamse Maatschappij voor Watervoorziening
+1013273,2,1000009,keyword,huisvesting
+1000296,7,1000048,keyword,statuut onderwijspersoneel
+1013770,5,1000072,keyword,statuut openbare instellingen
+1013770,5,1000141,keyword,Dienst Infrastructuurwerken van het Gesubsidieerd Onderwijs
+1013770,5,1000142,keyword,DIGO
+1008405,8,1000013,keyword,domeingoederen
+1008405,8,1000017,keyword,patrimonium
+1012124,43,1000025,keyword,dierlijk afval
+1012124,43,1000026,keyword,afval
+1012124,43,1000080,keyword,provincie
+1012124,43,1000087,keyword,overheidsopdrachten
+1012124,43,1000088,keyword,gemeente
+1012124,43,1000150,keyword,OVAM
+1012124,43,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1010774,1,1000168,keyword,cultureel en natuurlijk erfgoed
+1005555,7,1000041,keyword,onderwijspersoneel
+1005555,7,1000042,keyword,personeel onderwijs
+1005555,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1005555,7,1000044,keyword,reaffectatie
+1005555,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1005555,7,1000046,keyword,wachtgeld
+1005555,7,1000047,keyword,wedertewerkstelling
+1005555,7,1000048,keyword,statuut onderwijspersoneel
+1005555,7,1000179,keyword,basisonderwijs
+1029586,7,1000041,keyword,onderwijspersoneel
+1029586,7,1000048,keyword,statuut onderwijspersoneel
+1008356,12,1000118,keyword,VFSIPH
+1008356,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1015969,0,1000054,keyword,studiebeurs
+1012959,16,1000030,keyword,economisch beleid
+1005098,12,1000073,keyword,Vlaamse openbare instellingen
+1005098,12,1000175,keyword,presentiegeld
+1000241,8,1000100,keyword,statuut ambtenaar
+1006361,0,1000179,keyword,basisonderwijs
+1020338,21,1000129,keyword,Vlaamse Milieumaatschappij
+1038496,55,1000085,keyword,visserij
+1013781,14,1000024,keyword,afvalwater
+1013781,14,1000025,keyword,dierlijk afval
+1013781,14,1000026,keyword,afval
+1021995,0,1000049,keyword,pedagogische begeleidingsdienst
+1038064,2,1000160,keyword,diploma
+1006597,13,1000031,keyword,KMO
+1006597,13,1000032,keyword,kleine en middelgrote onderneming
+1006597,13,1000089,keyword,ondernemersopleiding
+1006597,13,1000090,keyword,voortdurende vorming voor de middenstand
+1006597,13,1000091,keyword,middenstandsvorming
+1006597,13,1000092,keyword,bedrijfsbegeleiding
+1006597,13,1000199,keyword,VIZO
+1006597,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1009536,34,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1009536,34,1000153,keyword,BLOSO
+1032548,19,1000131,keyword,secundair onderwijs
+1010362,1,1000192,keyword,dorpsgezicht
+1010362,1,1000193,keyword,stadsgezicht
+1000352,26,1000065,keyword,gehandicapten
+1000352,26,1000066,keyword,mentaal gehandicapten
+1000352,26,1000067,keyword,personen met een handicap
+1000352,26,1000068,keyword,mindervaliden
+1000352,26,1000156,keyword,bijzondere jeugdbijstand
+1000352,26,1000188,keyword,kinderdagverblijf
+1000352,26,1000189,keyword,kinderopvang
+1010289,47,1000052,keyword,buitenlandse student
+1010289,47,1000053,keyword,studietoelage
+1010289,47,1000054,keyword,studiebeurs
+1013339,28,1000146,keyword,Toerisme Vlaanderen
+1000222,28,1000127,keyword,Fonds voor preventie en sanering inz. leefmilieu en natuur
+1000222,28,1000128,keyword,mina-fonds
+1007787,10,1000195,keyword,delegatie
+1001155,29,1000041,keyword,onderwijspersoneel
+1001155,29,1000042,keyword,personeel onderwijs
+1001155,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001155,29,1000044,keyword,reaffectatie
+1001155,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001155,29,1000046,keyword,wachtgeld
+1001155,29,1000047,keyword,wedertewerkstelling
+1001155,29,1000048,keyword,statuut onderwijspersoneel
+1000044,39,1000038,keyword,arbeidsbemiddeling
+1000044,39,1000039,keyword,beroepsopleiding
+1001942,19,1000110,keyword,BRTN
+1001942,19,1000111,keyword,VRT
+1001942,19,1000112,keyword,Vlaamse Radio en Televisie
+1014687,16,1000030,keyword,economisch beleid
+1014687,16,1000031,keyword,KMO
+1014687,16,1000032,keyword,kleine en middelgrote onderneming
+1000536,27,1000048,keyword,statuut onderwijspersoneel
+1007587,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1007587,13,1000181,keyword,IWT
+1001597,12,1000073,keyword,Vlaamse openbare instellingen
+1001597,12,1000175,keyword,presentiegeld
+1013615,7,1000041,keyword,onderwijspersoneel
+1013615,7,1000042,keyword,personeel onderwijs
+1013615,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1013615,7,1000044,keyword,reaffectatie
+1013615,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1013615,7,1000046,keyword,wachtgeld
+1013615,7,1000047,keyword,wedertewerkstelling
+1013615,7,1000048,keyword,statuut onderwijspersoneel
+1012056,7,1000041,keyword,onderwijspersoneel
+1012056,7,1000042,keyword,personeel onderwijs
+1012056,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1012056,7,1000044,keyword,reaffectatie
+1012056,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1012056,7,1000046,keyword,wachtgeld
+1012056,7,1000047,keyword,wedertewerkstelling
+1012056,7,1000048,keyword,statuut onderwijspersoneel
+1016034,16,1000031,keyword,KMO
+1016034,16,1000032,keyword,kleine en middelgrote onderneming
+1003308,0,1000179,keyword,basisonderwijs
+1029609,44,1000185,keyword,leerlingenbegeleiding
+1029609,44,1000186,keyword,centrum voor leerlingenbegeleiding
+1014591,14,1000140,keyword,Vlaamse Maatschappij voor Watervoorziening
+1014591,14,1000157,keyword,bestuurlijk beleid
+1017585,23,1000107,keyword,bejaarden
+1011466,19,1000041,keyword,onderwijspersoneel
+1011466,19,1000042,keyword,personeel onderwijs
+1011466,19,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1011466,19,1000044,keyword,reaffectatie
+1011466,19,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1011466,19,1000046,keyword,wachtgeld
+1011466,19,1000047,keyword,wedertewerkstelling
+1011466,19,1000048,keyword,statuut onderwijspersoneel
+1017157,4,1000085,keyword,visserij
+1016323,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1007952,24,1000009,keyword,huisvesting
+1026770,2,1000105,keyword,rusthuis
+1026770,2,1000107,keyword,bejaarden
+1013346,19,1000056,keyword,arbeidsplaatsen
+1013346,19,1000057,keyword,tewerkstelling
+1013346,19,1000058,keyword,arbeidsvergunning
+1013346,19,1000059,keyword,werkgelegenheid
+1008550,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1008550,13,1000181,keyword,IWT
+1000387,0,1000041,keyword,onderwijspersoneel
+1000387,0,1000042,keyword,personeel onderwijs
+1000387,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000387,0,1000044,keyword,reaffectatie
+1000387,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000387,0,1000046,keyword,wachtgeld
+1000387,0,1000047,keyword,wedertewerkstelling
+1000387,0,1000048,keyword,statuut onderwijspersoneel
+1028852,0,1000013,keyword,domeingoederen
+1018899,11,1000145,keyword,Kind en Gezin
+1018899,11,1000188,keyword,kinderdagverblijf
+1018899,11,1000189,keyword,kinderopvang
+1017761,2,1000145,keyword,Kind en Gezin
+1017761,2,1000189,keyword,kinderopvang
+1013822,5,1000099,keyword,ambtenaren
+1013822,5,1000100,keyword,statuut ambtenaar
+1013822,5,1000157,keyword,bestuurlijk beleid
+1014691,20,1000195,keyword,delegatie
+1000215,2,1000065,keyword,gehandicapten
+1000215,2,1000066,keyword,mentaal gehandicapten
+1000215,2,1000067,keyword,personen met een handicap
+1000215,2,1000068,keyword,mindervaliden
+1005175,11,1000145,keyword,Kind en Gezin
+1008561,37,1000041,keyword,onderwijspersoneel
+1008561,37,1000042,keyword,personeel onderwijs
+1008561,37,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1008561,37,1000044,keyword,reaffectatie
+1008561,37,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1008561,37,1000046,keyword,wachtgeld
+1008561,37,1000047,keyword,wedertewerkstelling
+1008561,37,1000048,keyword,statuut onderwijspersoneel
+1035582,0,1000131,keyword,secundair onderwijs
+1024229,18,1000098,keyword,pensioen
+1024229,18,1000111,keyword,VRT
+1024229,18,1000112,keyword,Vlaamse Radio en Televisie
+1006150,24,1000009,keyword,huisvesting
+1006150,24,1000035,keyword,bijzonder plan van aanleg
+1006150,24,1000036,keyword,gemeentelijk plan van aanleg
+1010825,46,1000163,keyword,buitengewoon onderwijs
+1010825,46,1000179,keyword,basisonderwijs
+1004557,31,1000025,keyword,dierlijk afval
+1004557,31,1000026,keyword,afval
+1004557,31,1000028,keyword,Vlarem
+1004557,31,1000150,keyword,OVAM
+1004557,31,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1028585,52,1000009,keyword,huisvesting
+1000358,23,1000104,keyword,serviceflat
+1000358,23,1000105,keyword,rusthuis
+1000358,23,1000106,keyword,voorzieningen voor bejaarden
+1000358,23,1000107,keyword,bejaarden
+1010113,7,1000179,keyword,basisonderwijs
+1013062,39,1000157,keyword,bestuurlijk beleid
+1013062,39,1000199,keyword,VIZO
+1015967,24,1000009,keyword,huisvesting
+1001250,24,1000009,keyword,huisvesting
+1015939,16,1000030,keyword,economisch beleid
+1004008,34,1000012,keyword,Vlaamse Gemeenschapscommissie
+1004008,34,1000080,keyword,provincie
+1004008,34,1000088,keyword,gemeente
+1004008,34,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1004008,34,1000153,keyword,BLOSO
+1000700,19,1000009,keyword,huisvesting
+1000700,19,1000041,keyword,onderwijspersoneel
+1000700,19,1000042,keyword,personeel onderwijs
+1000700,19,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000700,19,1000044,keyword,reaffectatie
+1000700,19,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000700,19,1000046,keyword,wachtgeld
+1000700,19,1000047,keyword,wedertewerkstelling
+1000700,19,1000048,keyword,statuut onderwijspersoneel
+1000700,19,1000071,keyword,cultuurcentrum
+1000700,19,1000138,keyword,Maatschappij voor Brugse Zeevaartinrichtingen
+1000700,19,1000146,keyword,Toerisme Vlaanderen
+1023552,2,1000145,keyword,Kind en Gezin
+1023552,2,1000189,keyword,kinderopvang
+1007518,19,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1007518,19,1000153,keyword,BLOSO
+1013485,35,1000065,keyword,gehandicapten
+1013485,35,1000066,keyword,mentaal gehandicapten
+1013485,35,1000067,keyword,personen met een handicap
+1013485,35,1000068,keyword,mindervaliden
+1013485,35,1000118,keyword,VFSIPH
+1013485,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1001993,7,1000041,keyword,onderwijspersoneel
+1001993,7,1000042,keyword,personeel onderwijs
+1001993,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001993,7,1000044,keyword,reaffectatie
+1001993,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001993,7,1000046,keyword,wachtgeld
+1001993,7,1000047,keyword,wedertewerkstelling
+1001993,7,1000048,keyword,statuut onderwijspersoneel
+1001993,7,1000131,keyword,secundair onderwijs
+1001993,7,1000160,keyword,diploma
+1001993,7,1000161,keyword,getuigschrift
+1001993,7,1000162,keyword,bekwaamheidsbewijs
+1001993,7,1000163,keyword,buitengewoon onderwijs
+1017486,20,1000195,keyword,delegatie
+1038149,23,1000102,keyword,centrum voor dagverzorging
+1037856,14,1000020,keyword,grondwater
+1018546,14,1000158,keyword,GIS
+1018546,14,1000159,keyword,Geografisch Informatiesysteem
+1001673,43,1000129,keyword,Vlaamse Milieumaatschappij
+1017296,0,1000185,keyword,leerlingenbegeleiding
+1017296,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1033075,0,1000131,keyword,secundair onderwijs
+1033075,0,1000165,keyword,kunstonderwijs
+1033075,0,1000179,keyword,basisonderwijs
+1005420,23,1000105,keyword,rusthuis
+1018139,0,1000130,keyword,beroepsonderwijs
+1017917,11,1000145,keyword,Kind en Gezin
+1017917,11,1000189,keyword,kinderopvang
+1001376,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1024713,2,1000145,keyword,Kind en Gezin
+1008248,11,1000145,keyword,Kind en Gezin
+1008248,11,1000188,keyword,kinderdagverblijf
+1008248,11,1000189,keyword,kinderopvang
+1013222,5,1000157,keyword,bestuurlijk beleid
+1037744,0,1000044,keyword,reaffectatie
+1016879,0,1000131,keyword,secundair onderwijs
+1005210,35,1000065,keyword,gehandicapten
+1005210,35,1000066,keyword,mentaal gehandicapten
+1005210,35,1000067,keyword,personen met een handicap
+1005210,35,1000068,keyword,mindervaliden
+1005210,35,1000118,keyword,VFSIPH
+1005210,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1013972,2,1000145,keyword,Kind en Gezin
+1013407,0,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1013407,0,1000153,keyword,BLOSO
+1000264,7,1000041,keyword,onderwijspersoneel
+1000264,7,1000042,keyword,personeel onderwijs
+1000264,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000264,7,1000044,keyword,reaffectatie
+1000264,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000264,7,1000046,keyword,wachtgeld
+1000264,7,1000047,keyword,wedertewerkstelling
+1000264,7,1000048,keyword,statuut onderwijspersoneel
+1000264,7,1000160,keyword,diploma
+1000264,7,1000161,keyword,getuigschrift
+1000264,7,1000162,keyword,bekwaamheidsbewijs
+1000264,7,1000165,keyword,kunstonderwijs
+1025052,2,1000145,keyword,Kind en Gezin
+1025052,2,1000189,keyword,kinderopvang
+1029796,2,1000067,keyword,personen met een handicap
+1029796,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1020994,28,1000146,keyword,Toerisme Vlaanderen
+1008258,11,1000145,keyword,Kind en Gezin
+1008258,11,1000188,keyword,kinderdagverblijf
+1008258,11,1000189,keyword,kinderopvang
+1003440,48,1000041,keyword,onderwijspersoneel
+1003440,48,1000048,keyword,statuut onderwijspersoneel
+1016202,31,1000021,keyword,oppervlaktewater
+1009642,0,1000165,keyword,kunstonderwijs
+1003095,12,1000072,keyword,statuut openbare instellingen
+1003095,12,1000118,keyword,VFSIPH
+1003095,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1006619,21,1000088,keyword,gemeente
+1019179,7,1000162,keyword,bekwaamheidsbewijs
+1011529,3,1000157,keyword,bestuurlijk beleid
+1011715,14,1000020,keyword,grondwater
+1011715,14,1000021,keyword,oppervlaktewater
+1014260,0,1000197,keyword,onderwijs voor sociale promotie
+1014260,0,1000198,keyword,sociale promotie
+1014166,14,1000030,keyword,economisch beleid
+1014166,14,1000065,keyword,gehandicapten
+1014166,14,1000066,keyword,mentaal gehandicapten
+1014166,14,1000067,keyword,personen met een handicap
+1014166,14,1000068,keyword,mindervaliden
+1014166,14,1000157,keyword,bestuurlijk beleid
+1014166,14,1000170,keyword,volksontwikkeling
+1014166,14,1000171,keyword,sociaal-cultureel vormings- en ontwikkelingswerk
+1014166,14,1000173,keyword,centrum voor beroepsopleiding
+1000210,14,1000126,keyword,milieubeleidsovereenkomst
+1020321,2,1000067,keyword,personen met een handicap
+1020321,2,1000106,keyword,voorzieningen voor bejaarden
+1020321,2,1000108,keyword,VIPA
+1020321,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1038544,4,1000085,keyword,visserij
+1010478,1,1000194,keyword,monument
+1018562,5,1000146,keyword,Toerisme Vlaanderen
+1004197,36,1000133,keyword,intercommunale
+1016953,14,1000020,keyword,grondwater
+1016953,14,1000024,keyword,afvalwater
+1000553,27,1000165,keyword,kunstonderwijs
+1001973,31,1000025,keyword,dierlijk afval
+1001973,31,1000026,keyword,afval
+1011614,24,1000009,keyword,huisvesting
+1013061,0,1000141,keyword,Dienst Infrastructuurwerken van het Gesubsidieerd Onderwijs
+1013061,0,1000141,keyword,Dienst Infrastructuurwerken van het Gesubsidieerd Onderwijs
+1013061,0,1000142,keyword,DIGO
+1013061,0,1000157,keyword,bestuurlijk beleid
+1016041,31,1000074,keyword,luchtverontreiniging
+1014689,16,1000030,keyword,economisch beleid
+1014689,16,1000031,keyword,KMO
+1014689,16,1000032,keyword,kleine en middelgrote onderneming
+1028830,21,1000020,keyword,grondwater
+1026696,26,1000067,keyword,personen met een handicap
+1023146,31,1000025,keyword,dierlijk afval
+1023146,31,1000026,keyword,afval
+1023146,31,1000150,keyword,OVAM
+1002310,1,1000018,keyword,bouwvergunning
+1002310,1,1000019,keyword,milieu-effectenrapport
+1005507,40,1000183,keyword,plan van aanleg
+1005507,40,1000184,keyword,gewestplan
+1000035,14,1000025,keyword,dierlijk afval
+1000035,14,1000026,keyword,afval
+1000377,19,1000033,keyword,economische expansie
+1028889,19,1000085,keyword,visserij
+1002306,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1002306,19,1000088,keyword,gemeente
+1007547,14,1000158,keyword,GIS
+1007547,14,1000159,keyword,Geografisch Informatiesysteem
+1029669,0,1000131,keyword,secundair onderwijs
+1029669,0,1000179,keyword,basisonderwijs
+1002936,21,1000079,keyword,Instituut voor Natuurbehoud
+1013030,22,1000139,keyword,Dienst voor de Scheepvaart
+1013030,22,1000157,keyword,bestuurlijk beleid
+1002431,12,1000081,keyword,lasten uit het verleden
+1002431,12,1000082,keyword,schulden van het verleden
+1002431,12,1000083,keyword,rechtsopvolging
+1002431,12,1000118,keyword,VFSIPH
+1002431,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1003475,17,1000113,keyword,gemeentepersoneel
+1003475,17,1000114,keyword,statuut gemeentepersoneel
+1014688,32,1000157,keyword,bestuurlijk beleid
+1014920,8,1000157,keyword,bestuurlijk beleid
+1022897,36,1000080,keyword,provincie
+1022897,36,1000088,keyword,gemeente
+1004578,11,1000145,keyword,Kind en Gezin
+1018482,7,1000048,keyword,statuut onderwijspersoneel
+1014867,3,1000108,keyword,VIPA
+1014867,3,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1014867,3,1000157,keyword,bestuurlijk beleid
+1035273,34,1000012,keyword,Vlaamse Gemeenschapscommissie
+1003570,35,1000065,keyword,gehandicapten
+1003570,35,1000066,keyword,mentaal gehandicapten
+1003570,35,1000067,keyword,personen met een handicap
+1003570,35,1000068,keyword,mindervaliden
+1022373,26,1000067,keyword,personen met een handicap
+1012126,43,1000025,keyword,dierlijk afval
+1012126,43,1000026,keyword,afval
+1012126,43,1000080,keyword,provincie
+1012126,43,1000087,keyword,overheidsopdrachten
+1012126,43,1000088,keyword,gemeente
+1012126,43,1000150,keyword,OVAM
+1012126,43,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1011701,16,1000030,keyword,economisch beleid
+1011701,16,1000031,keyword,KMO
+1011701,16,1000032,keyword,kleine en middelgrote onderneming
+1014957,0,1000131,keyword,secundair onderwijs
+1014957,0,1000179,keyword,basisonderwijs
+1001303,0,1000041,keyword,onderwijspersoneel
+1001303,0,1000042,keyword,personeel onderwijs
+1001303,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001303,0,1000044,keyword,reaffectatie
+1001303,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001303,0,1000046,keyword,wachtgeld
+1001303,0,1000047,keyword,wedertewerkstelling
+1001303,0,1000048,keyword,statuut onderwijspersoneel
+1001303,0,1000163,keyword,buitengewoon onderwijs
+1006357,28,1000088,keyword,gemeente
+1014105,5,1000157,keyword,bestuurlijk beleid
+1006472,6,1000041,keyword,onderwijspersoneel
+1006472,6,1000042,keyword,personeel onderwijs
+1006472,6,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1006472,6,1000044,keyword,reaffectatie
+1006472,6,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1006472,6,1000046,keyword,wachtgeld
+1006472,6,1000047,keyword,wedertewerkstelling
+1006472,6,1000048,keyword,statuut onderwijspersoneel
+1006472,6,1000056,keyword,arbeidsplaatsen
+1006472,6,1000057,keyword,tewerkstelling
+1006472,6,1000058,keyword,arbeidsvergunning
+1006472,6,1000059,keyword,werkgelegenheid
+1006472,6,1000072,keyword,statuut openbare instellingen
+1006472,6,1000099,keyword,ambtenaren
+1006472,6,1000100,keyword,statuut ambtenaar
+1006472,6,1000113,keyword,gemeentepersoneel
+1006472,6,1000114,keyword,statuut gemeentepersoneel
+1017352,34,1000153,keyword,BLOSO
+1001702,14,1000085,keyword,visserij
+1017360,20,1000195,keyword,delegatie
+1000005,34,1000007,keyword,vrijwilligerswerk
+1017517,0,1000083,keyword,rechtsopvolging
+1017517,0,1000171,keyword,sociaal-cultureel vormings- en ontwikkelingswerk
+1007927,24,1000158,keyword,GIS
+1007927,24,1000159,keyword,Geografisch Informatiesysteem
+1006046,32,1000050,keyword,VDAB
+1006046,32,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1006046,32,1000056,keyword,arbeidsplaatsen
+1006046,32,1000057,keyword,tewerkstelling
+1006046,32,1000058,keyword,arbeidsvergunning
+1006046,32,1000059,keyword,werkgelegenheid
+1000335,29,1000041,keyword,onderwijspersoneel
+1000335,29,1000042,keyword,personeel onderwijs
+1000335,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000335,29,1000044,keyword,reaffectatie
+1000335,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000335,29,1000046,keyword,wachtgeld
+1000335,29,1000047,keyword,wedertewerkstelling
+1000335,29,1000048,keyword,statuut onderwijspersoneel
+1000335,29,1000187,keyword,ziektecontrole
+1017945,55,1000085,keyword,visserij
+1017945,55,1000086,keyword,aquicultuur
+1033897,0,1000041,keyword,onderwijspersoneel
+1033897,0,1000165,keyword,kunstonderwijs
+1033897,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1027707,0,1000048,keyword,statuut onderwijspersoneel
+1002389,8,1000025,keyword,dierlijk afval
+1002389,8,1000026,keyword,afval
+1015165,24,1000073,keyword,Vlaamse openbare instellingen
+1015165,24,1000195,keyword,delegatie
+1024895,2,1000145,keyword,Kind en Gezin
+1014458,33,1000195,keyword,delegatie
+1013198,28,1000157,keyword,bestuurlijk beleid
+1016509,20,1000195,keyword,delegatie
+1003220,0,1000131,keyword,secundair onderwijs
+1003220,0,1000163,keyword,buitengewoon onderwijs
+1003220,0,1000179,keyword,basisonderwijs
+1019255,30,1000131,keyword,secundair onderwijs
+1008989,21,1000088,keyword,gemeente
+1007569,0,1000185,keyword,leerlingenbegeleiding
+1007569,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1004757,15,1000041,keyword,onderwijspersoneel
+1004757,15,1000042,keyword,personeel onderwijs
+1004757,15,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1004757,15,1000044,keyword,reaffectatie
+1004757,15,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1004757,15,1000046,keyword,wachtgeld
+1004757,15,1000047,keyword,wedertewerkstelling
+1004757,15,1000048,keyword,statuut onderwijspersoneel
+1004757,15,1000131,keyword,secundair onderwijs
+1001615,27,1000160,keyword,diploma
+1001615,27,1000161,keyword,getuigschrift
+1001615,27,1000162,keyword,bekwaamheidsbewijs
+1003122,0,1000162,keyword,bekwaamheidsbewijs
+1004024,48,1000143,keyword,ARGO
+1004024,48,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1015357,36,1000080,keyword,provincie
+1002212,1,1000080,keyword,provincie
+1002212,1,1000088,keyword,gemeente
+1008184,24,1000009,keyword,huisvesting
+1008184,24,1000149,keyword,Vlaamse Landmaatschappij
+1003385,8,1000065,keyword,gehandicapten
+1003385,8,1000066,keyword,mentaal gehandicapten
+1003385,8,1000067,keyword,personen met een handicap
+1003385,8,1000068,keyword,mindervaliden
+1015740,31,1000074,keyword,luchtverontreiniging
+1002467,19,1000088,keyword,gemeente
+1023693,0,1000130,keyword,beroepsonderwijs
+1023104,36,1000080,keyword,provincie
+1023104,36,1000088,keyword,gemeente
+1007524,21,1000078,keyword,Instituut voor Bosbouw en Wildbeheer
+1014547,5,1000157,keyword,bestuurlijk beleid
+1002809,23,1000105,keyword,rusthuis
+1012005,21,1000149,keyword,Vlaamse Landmaatschappij
+1020146,2,1000065,keyword,gehandicapten
+1020146,2,1000067,keyword,personen met een handicap
+1015117,0,1000131,keyword,secundair onderwijs
+1015117,0,1000179,keyword,basisonderwijs
+1028288,21,1000021,keyword,oppervlaktewater
+1028288,21,1000129,keyword,Vlaamse Milieumaatschappij
+1001513,39,1000038,keyword,arbeidsbemiddeling
+1001513,39,1000039,keyword,beroepsopleiding
+1007315,8,1000060,keyword,selectiebureau
+1007315,8,1000061,keyword,wervingsbureau
+1007315,8,1000062,keyword,outplacement
+1032985,2,1000067,keyword,personen met een handicap
+1006420,19,1000146,keyword,Toerisme Vlaanderen
+1015632,0,1000197,keyword,onderwijs voor sociale promotie
+1014065,16,1000030,keyword,economisch beleid
+1038106,38,1000114,keyword,statuut gemeentepersoneel
+1001881,34,1000156,keyword,bijzondere jeugdbijstand
+1007031,18,1000110,keyword,BRTN
+1007031,18,1000111,keyword,VRT
+1007031,18,1000112,keyword,Vlaamse Radio en Televisie
+1006573,23,1000102,keyword,centrum voor dagverzorging
+1006573,23,1000103,keyword,dagverzorgingscentrum
+1006573,23,1000105,keyword,rusthuis
+1023527,8,1000050,keyword,VDAB
+1004638,11,1000145,keyword,Kind en Gezin
+1029898,26,1000067,keyword,personen met een handicap
+1016716,11,1000145,keyword,Kind en Gezin
+1016716,11,1000188,keyword,kinderdagverblijf
+1000336,29,1000187,keyword,ziektecontrole
+1016701,6,1000038,keyword,arbeidsbemiddeling
+1016701,6,1000050,keyword,VDAB
+1016363,6,1000039,keyword,beroepsopleiding
+1016363,6,1000057,keyword,tewerkstelling
+1016363,6,1000059,keyword,werkgelegenheid
+1009535,35,1000065,keyword,gehandicapten
+1009535,35,1000066,keyword,mentaal gehandicapten
+1009535,35,1000067,keyword,personen met een handicap
+1009535,35,1000068,keyword,mindervaliden
+1009535,35,1000118,keyword,VFSIPH
+1009535,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1014686,19,1000085,keyword,visserij
+1014686,19,1000157,keyword,bestuurlijk beleid
+1013955,38,1000088,keyword,gemeente
+1024268,53,1000145,keyword,Kind en Gezin
+1024268,53,1000189,keyword,kinderopvang
+1006158,8,1000038,keyword,arbeidsbemiddeling
+1000517,0,1000041,keyword,onderwijspersoneel
+1000517,0,1000042,keyword,personeel onderwijs
+1000517,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000517,0,1000044,keyword,reaffectatie
+1000517,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000517,0,1000046,keyword,wachtgeld
+1000517,0,1000047,keyword,wedertewerkstelling
+1000517,0,1000048,keyword,statuut onderwijspersoneel
+1014695,26,1000065,keyword,gehandicapten
+1014695,26,1000067,keyword,personen met een handicap
+1014695,26,1000068,keyword,mindervaliden
+1007558,10,1000072,keyword,statuut openbare instellingen
+1007558,10,1000073,keyword,Vlaamse openbare instellingen
+1024960,2,1000145,keyword,Kind en Gezin
+1001627,22,1000157,keyword,bestuurlijk beleid
+1022783,16,1000031,keyword,KMO
+1005552,7,1000041,keyword,onderwijspersoneel
+1005552,7,1000042,keyword,personeel onderwijs
+1005552,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1005552,7,1000044,keyword,reaffectatie
+1005552,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1005552,7,1000046,keyword,wachtgeld
+1005552,7,1000047,keyword,wedertewerkstelling
+1005552,7,1000048,keyword,statuut onderwijspersoneel
+1005552,7,1000179,keyword,basisonderwijs
+1003443,0,1000041,keyword,onderwijspersoneel
+1003443,0,1000042,keyword,personeel onderwijs
+1003443,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1003443,0,1000044,keyword,reaffectatie
+1003443,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1003443,0,1000046,keyword,wachtgeld
+1003443,0,1000047,keyword,wedertewerkstelling
+1003443,0,1000048,keyword,statuut onderwijspersoneel
+1004061,11,1000145,keyword,Kind en Gezin
+1000708,0,1000131,keyword,secundair onderwijs
+1029068,3,1000088,keyword,gemeente
+1019628,35,1000067,keyword,personen met een handicap
+1018446,30,1000131,keyword,secundair onderwijs
+1024337,2,1000145,keyword,Kind en Gezin
+1024337,2,1000189,keyword,kinderopvang
+1017117,4,1000085,keyword,visserij
+1004642,0,1000141,keyword,Dienst Infrastructuurwerken van het Gesubsidieerd Onderwijs
+1004642,0,1000142,keyword,DIGO
+1033344,8,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1017104,31,1000150,keyword,OVAM
+1007127,0,1000197,keyword,onderwijs voor sociale promotie
+1007127,0,1000198,keyword,sociale promotie
+1030012,2,1000189,keyword,kinderopvang
+1006189,23,1000101,keyword,dienstencentrum
+1006189,23,1000104,keyword,serviceflat
+1006189,23,1000105,keyword,rusthuis
+1006189,23,1000106,keyword,voorzieningen voor bejaarden
+1006189,23,1000107,keyword,bejaarden
+1002852,24,1000009,keyword,huisvesting
+1000372,36,1000133,keyword,intercommunale
+1000372,36,1000195,keyword,delegatie
+1027690,19,1000129,keyword,Vlaamse Milieumaatschappij
+1018323,14,1000020,keyword,grondwater
+1018323,14,1000024,keyword,afvalwater
+1006409,31,1000025,keyword,dierlijk afval
+1006409,31,1000026,keyword,afval
+1011404,7,1000131,keyword,secundair onderwijs
+1011404,7,1000163,keyword,buitengewoon onderwijs
+1021733,36,1000080,keyword,provincie
+1021733,36,1000088,keyword,gemeente
+1005477,7,1000176,keyword,rationalisatie en programmatie
+1005477,7,1000179,keyword,basisonderwijs
+1018875,2,1000007,keyword,vrijwilligerswerk
+1006870,24,1000009,keyword,huisvesting
+1005332,40,1000195,keyword,delegatie
+1015364,5,1000114,keyword,statuut gemeentepersoneel
+1015317,19,1000115,keyword,Waterwegen en Zeekanaal
+1015317,19,1000155,keyword,begrotingsfonds
+1015317,19,1000157,keyword,bestuurlijk beleid
+1015317,19,1000170,keyword,volksontwikkeling
+1015317,19,1000171,keyword,sociaal-cultureel vormings- en ontwikkelingswerk
+1013506,1,1000024,keyword,afvalwater
+1021571,16,1000030,keyword,economisch beleid
+1027053,0,1000131,keyword,secundair onderwijs
+1006141,35,1000065,keyword,gehandicapten
+1006141,35,1000066,keyword,mentaal gehandicapten
+1006141,35,1000067,keyword,personen met een handicap
+1006141,35,1000068,keyword,mindervaliden
+1002978,19,1000011,keyword,investeringsfonds
+1002978,19,1000013,keyword,domeingoederen
+1002978,19,1000014,keyword,onroerende goederen
+1002978,19,1000015,keyword,openbaar domein
+1002978,19,1000016,keyword,privaat domein
+1002978,19,1000017,keyword,patrimonium
+1002978,19,1000080,keyword,provincie
+1002978,19,1000088,keyword,gemeente
+1002978,19,1000133,keyword,intercommunale
+1000761,35,1000065,keyword,gehandicapten
+1000761,35,1000066,keyword,mentaal gehandicapten
+1000761,35,1000067,keyword,personen met een handicap
+1000761,35,1000068,keyword,mindervaliden
+1000761,35,1000118,keyword,VFSIPH
+1000761,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1027195,26,1000067,keyword,personen met een handicap
+1002175,0,1000156,keyword,bijzondere jeugdbijstand
+1032284,0,1000179,keyword,basisonderwijs
+1001229,24,1000009,keyword,huisvesting
+1010864,27,1000131,keyword,secundair onderwijs
+1002771,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1002771,13,1000181,keyword,IWT
+1011688,7,1000185,keyword,leerlingenbegeleiding
+1011688,7,1000186,keyword,centrum voor leerlingenbegeleiding
+1006140,8,1000038,keyword,arbeidsbemiddeling
+1017873,14,1000149,keyword,Vlaamse Landmaatschappij
+1017873,14,1000183,keyword,plan van aanleg
+1000016,31,1000018,keyword,bouwvergunning
+1000016,31,1000019,keyword,milieu-effectenrapport
+1000016,31,1000020,keyword,grondwater
+1000016,31,1000021,keyword,oppervlaktewater
+1000016,31,1000022,keyword,ARAB
+1000016,31,1000023,keyword,algemeen reglement voor de arbeidsbescherming
+1000016,31,1000024,keyword,afvalwater
+1000016,31,1000025,keyword,dierlijk afval
+1000016,31,1000026,keyword,afval
+1000016,31,1000027,keyword,hinderlijke inrichting
+1000016,31,1000028,keyword,Vlarem
+1000016,31,1000029,keyword,milieuvergunning
+1013833,7,1000041,keyword,onderwijspersoneel
+1013833,7,1000042,keyword,personeel onderwijs
+1013833,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1013833,7,1000044,keyword,reaffectatie
+1013833,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1013833,7,1000046,keyword,wachtgeld
+1013833,7,1000047,keyword,wedertewerkstelling
+1013833,7,1000048,keyword,statuut onderwijspersoneel
+1005545,11,1000145,keyword,Kind en Gezin
+1005545,11,1000188,keyword,kinderdagverblijf
+1005545,11,1000189,keyword,kinderopvang
+1005082,31,1000021,keyword,oppervlaktewater
+1005082,31,1000024,keyword,afvalwater
+1006845,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1004738,40,1000018,keyword,bouwvergunning
+1004738,40,1000088,keyword,gemeente
+1026694,16,1000031,keyword,KMO
+1026694,16,1000032,keyword,kleine en middelgrote onderneming
+1015879,16,1000030,keyword,economisch beleid
+1007105,29,1000041,keyword,onderwijspersoneel
+1007105,29,1000042,keyword,personeel onderwijs
+1007105,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1007105,29,1000044,keyword,reaffectatie
+1007105,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1007105,29,1000046,keyword,wachtgeld
+1007105,29,1000047,keyword,wedertewerkstelling
+1007105,29,1000048,keyword,statuut onderwijspersoneel
+1007105,29,1000098,keyword,pensioen
+1007105,29,1000131,keyword,secundair onderwijs
+1005904,44,1000179,keyword,basisonderwijs
+1002334,35,1000065,keyword,gehandicapten
+1002370,27,1000041,keyword,onderwijspersoneel
+1002370,27,1000042,keyword,personeel onderwijs
+1002370,27,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002370,27,1000044,keyword,reaffectatie
+1002370,27,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002370,27,1000046,keyword,wachtgeld
+1002370,27,1000047,keyword,wedertewerkstelling
+1002370,27,1000048,keyword,statuut onderwijspersoneel
+1002370,27,1000160,keyword,diploma
+1002370,27,1000161,keyword,getuigschrift
+1002370,27,1000162,keyword,bekwaamheidsbewijs
+1014037,8,1000195,keyword,delegatie
+1017895,11,1000145,keyword,Kind en Gezin
+1003084,12,1000118,keyword,VFSIPH
+1003084,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1027752,53,1000145,keyword,Kind en Gezin
+1027752,53,1000189,keyword,kinderopvang
+1006145,18,1000110,keyword,BRTN
+1006145,18,1000111,keyword,VRT
+1006145,18,1000112,keyword,Vlaamse Radio en Televisie
+1009790,0,1000165,keyword,kunstonderwijs
+1000943,14,1000063,keyword,duinen
+1000943,14,1000064,keyword,kustduin
+1015512,31,1000025,keyword,dierlijk afval
+1013043,7,1000160,keyword,diploma
+1013043,7,1000161,keyword,getuigschrift
+1013043,7,1000162,keyword,bekwaamheidsbewijs
+1013043,7,1000185,keyword,leerlingenbegeleiding
+1013043,7,1000186,keyword,centrum voor leerlingenbegeleiding
+1001679,1,1000018,keyword,bouwvergunning
+1026395,16,1000030,keyword,economisch beleid
+1014389,5,1000099,keyword,ambtenaren
+1014389,5,1000100,keyword,statuut ambtenaar
+1000406,19,1000009,keyword,huisvesting
+1000406,19,1000129,keyword,Vlaamse Milieumaatschappij
+1000406,19,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1000406,19,1000181,keyword,IWT
+1007256,0,1000185,keyword,leerlingenbegeleiding
+1007256,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1035312,16,1000031,keyword,KMO
+1010800,19,1000080,keyword,provincie
+1010800,19,1000088,keyword,gemeente
+1010574,21,1000034,keyword,afvalvoorkoming
+1010574,21,1000150,keyword,OVAM
+1010574,21,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1012162,24,1000009,keyword,huisvesting
+1004736,25,1000041,keyword,onderwijspersoneel
+1004736,25,1000042,keyword,personeel onderwijs
+1004736,25,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1004736,25,1000044,keyword,reaffectatie
+1004736,25,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1004736,25,1000046,keyword,wachtgeld
+1004736,25,1000047,keyword,wedertewerkstelling
+1004736,25,1000048,keyword,statuut onderwijspersoneel
+1008629,35,1000065,keyword,gehandicapten
+1008629,35,1000066,keyword,mentaal gehandicapten
+1008629,35,1000067,keyword,personen met een handicap
+1008629,35,1000068,keyword,mindervaliden
+1017202,0,1000131,keyword,secundair onderwijs
+1023854,34,1000153,keyword,BLOSO
+1013986,5,1000157,keyword,bestuurlijk beleid
+1029286,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1028151,2,1000189,keyword,kinderopvang
+1013135,52,1000009,keyword,huisvesting
+1000331,29,1000048,keyword,statuut onderwijspersoneel
+1006564,0,1000131,keyword,secundair onderwijs
+1006564,0,1000163,keyword,buitengewoon onderwijs
+1007921,39,1000050,keyword,VDAB
+1007921,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1020561,36,1000080,keyword,provincie
+1020561,36,1000088,keyword,gemeente
+1020351,7,1000041,keyword,onderwijspersoneel
+1023214,8,1000057,keyword,tewerkstelling
+1023214,8,1000059,keyword,werkgelegenheid
+1003632,19,1000021,keyword,oppervlaktewater
+1001602,14,1000063,keyword,duinen
+1001602,14,1000064,keyword,kustduin
+1008351,53,1000188,keyword,kinderdagverblijf
+1008351,53,1000189,keyword,kinderopvang
+1000238,14,1000050,keyword,VDAB
+1000238,14,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1000238,14,1000072,keyword,statuut openbare instellingen
+1000238,14,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1000238,14,1000099,keyword,ambtenaren
+1000238,14,1000100,keyword,statuut ambtenaar
+1000238,14,1000118,keyword,VFSIPH
+1000238,14,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1000238,14,1000129,keyword,Vlaamse Milieumaatschappij
+1000238,14,1000134,keyword,openbaar psychiatrisch centrum
+1000238,14,1000135,keyword,Openbaar Psychiatrisch Ziekenhuis
+1000238,14,1000136,keyword,gebouwenfonds voor de rijksscholen
+1000238,14,1000137,keyword,commissariaat-generaal voor de internationale samenwerking
+1000238,14,1000138,keyword,Maatschappij voor Brugse Zeevaartinrichtingen
+1000238,14,1000139,keyword,Dienst voor de Scheepvaart
+1000238,14,1000140,keyword,Vlaamse Maatschappij voor Watervoorziening
+1000238,14,1000141,keyword,Dienst Infrastructuurwerken van het Gesubsidieerd Onderwijs
+1000238,14,1000142,keyword,DIGO
+1000238,14,1000143,keyword,ARGO
+1000238,14,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1000238,14,1000145,keyword,Kind en Gezin
+1000238,14,1000146,keyword,Toerisme Vlaanderen
+1000238,14,1000147,keyword,Vlaamse Maatschappij voor Waterzuivering
+1000238,14,1000148,keyword,Wegenfonds
+1000238,14,1000149,keyword,Vlaamse Landmaatschappij
+1000238,14,1000150,keyword,OVAM
+1000238,14,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1000238,14,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1000238,14,1000153,keyword,BLOSO
+1000238,14,1000154,keyword,fonds
+1000238,14,1000155,keyword,begrotingsfonds
+1000238,14,1000156,keyword,bijzondere jeugdbijstand
+1000238,14,1000157,keyword,bestuurlijk beleid
+1000121,43,1000080,keyword,provincie
+1000121,43,1000087,keyword,overheidsopdrachten
+1000121,43,1000088,keyword,gemeente
+1008085,42,1000072,keyword,statuut openbare instellingen
+1008085,42,1000140,keyword,Vlaamse Maatschappij voor Watervoorziening
+1005915,14,1000079,keyword,Instituut voor Natuurbehoud
+1005915,14,1000127,keyword,Fonds voor preventie en sanering inz. leefmilieu en natuur
+1005915,14,1000128,keyword,mina-fonds
+1019222,35,1000067,keyword,personen met een handicap
+1026573,2,1000145,keyword,Kind en Gezin
+1005235,13,1000172,keyword,Vlaamse Raad voor Wetenschapsbeleid
+1026527,28,1000146,keyword,Toerisme Vlaanderen
+1014652,14,1000149,keyword,Vlaamse Landmaatschappij
+1014652,14,1000157,keyword,bestuurlijk beleid
+1002869,24,1000008,keyword,huisvestingsmaatschappij
+1002869,24,1000009,keyword,huisvesting
+1002869,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1005560,7,1000163,keyword,buitengewoon onderwijs
+1034991,0,1000131,keyword,secundair onderwijs
+1034991,0,1000165,keyword,kunstonderwijs
+1007259,21,1000025,keyword,dierlijk afval
+1007259,21,1000026,keyword,afval
+1007259,21,1000034,keyword,afvalvoorkoming
+1017635,34,1000153,keyword,BLOSO
+1000266,7,1000041,keyword,onderwijspersoneel
+1000266,7,1000042,keyword,personeel onderwijs
+1000266,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000266,7,1000044,keyword,reaffectatie
+1000266,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000266,7,1000046,keyword,wachtgeld
+1000266,7,1000047,keyword,wedertewerkstelling
+1000266,7,1000048,keyword,statuut onderwijspersoneel
+1000266,7,1000131,keyword,secundair onderwijs
+1000266,7,1000160,keyword,diploma
+1000266,7,1000161,keyword,getuigschrift
+1000266,7,1000162,keyword,bekwaamheidsbewijs
+1023225,16,1000030,keyword,economisch beleid
+1020489,28,1000146,keyword,Toerisme Vlaanderen
+1002186,54,1000041,keyword,onderwijspersoneel
+1002186,54,1000042,keyword,personeel onderwijs
+1002186,54,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002186,54,1000044,keyword,reaffectatie
+1002186,54,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002186,54,1000046,keyword,wachtgeld
+1002186,54,1000047,keyword,wedertewerkstelling
+1002186,54,1000048,keyword,statuut onderwijspersoneel
+1002186,54,1000130,keyword,beroepsonderwijs
+1026350,26,1000067,keyword,personen met een handicap
+1013553,1,1000018,keyword,bouwvergunning
+1002867,1,1000009,keyword,huisvesting
+1002867,1,1000037,keyword,sociaal grondbeleid
+1005316,19,1000011,keyword,investeringsfonds
+1005316,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1005316,19,1000013,keyword,domeingoederen
+1005316,19,1000014,keyword,onroerende goederen
+1005316,19,1000015,keyword,openbaar domein
+1005316,19,1000016,keyword,privaat domein
+1005316,19,1000017,keyword,patrimonium
+1005316,19,1000088,keyword,gemeente
+1020423,5,1000114,keyword,statuut gemeentepersoneel
+1026250,19,1000013,keyword,domeingoederen
+1027787,0,1000131,keyword,secundair onderwijs
+1032194,2,1000067,keyword,personen met een handicap
+1010775,0,1000131,keyword,secundair onderwijs
+1011947,4,1000085,keyword,visserij
+1018294,2,1000067,keyword,personen met een handicap
+1000209,34,1000125,keyword,migranten
+1000316,0,1000163,keyword,buitengewoon onderwijs
+1000316,0,1000176,keyword,rationalisatie en programmatie
+1009538,34,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1009538,34,1000153,keyword,BLOSO
+1017783,11,1000189,keyword,kinderopvang
+1008602,1,1000194,keyword,monument
+1011392,8,1000059,keyword,werkgelegenheid
+1015558,16,1000032,keyword,kleine en middelgrote onderneming
+1013216,3,1000050,keyword,VDAB
+1013216,3,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1013216,3,1000056,keyword,arbeidsplaatsen
+1013216,3,1000057,keyword,tewerkstelling
+1013216,3,1000058,keyword,arbeidsvergunning
+1013216,3,1000059,keyword,werkgelegenheid
+1008763,6,1000056,keyword,arbeidsplaatsen
+1008763,6,1000057,keyword,tewerkstelling
+1008763,6,1000058,keyword,arbeidsvergunning
+1008763,6,1000059,keyword,werkgelegenheid
+1000334,29,1000041,keyword,onderwijspersoneel
+1000334,29,1000042,keyword,personeel onderwijs
+1000334,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000334,29,1000044,keyword,reaffectatie
+1000334,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000334,29,1000046,keyword,wachtgeld
+1000334,29,1000047,keyword,wedertewerkstelling
+1000334,29,1000048,keyword,statuut onderwijspersoneel
+1000334,29,1000185,keyword,leerlingenbegeleiding
+1000334,29,1000186,keyword,centrum voor leerlingenbegeleiding
+1022718,0,1000130,keyword,beroepsonderwijs
+1027418,4,1000085,keyword,visserij
+1013599,24,1000009,keyword,huisvesting
+1014184,24,1000157,keyword,bestuurlijk beleid
+1000619,31,1000020,keyword,grondwater
+1026584,55,1000085,keyword,visserij
+1013590,16,1000174,keyword,subregionaal tewerkstellingscomité
+1024675,14,1000145,keyword,Kind en Gezin
+1010848,14,1000113,keyword,gemeentepersoneel
+1010848,14,1000114,keyword,statuut gemeentepersoneel
+1002871,24,1000009,keyword,huisvesting
+1001752,14,1000063,keyword,duinen
+1001752,14,1000064,keyword,kustduin
+1011478,24,1000195,keyword,delegatie
+1014312,30,1000197,keyword,onderwijs voor sociale promotie
+1014312,30,1000198,keyword,sociale promotie
+1001306,0,1000041,keyword,onderwijspersoneel
+1001306,0,1000042,keyword,personeel onderwijs
+1001306,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001306,0,1000044,keyword,reaffectatie
+1001306,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001306,0,1000046,keyword,wachtgeld
+1001306,0,1000047,keyword,wedertewerkstelling
+1001306,0,1000048,keyword,statuut onderwijspersoneel
+1001308,27,1000176,keyword,rationalisatie en programmatie
+1028027,4,1000085,keyword,visserij
+1019003,2,1000074,keyword,luchtverontreiniging
+1028788,2,1000145,keyword,Kind en Gezin
+1008384,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1008384,19,1000071,keyword,cultuurcentrum
+1008384,19,1000088,keyword,gemeente
+1011545,24,1000195,keyword,delegatie
+1000008,24,1000008,keyword,huisvestingsmaatschappij
+1000008,24,1000009,keyword,huisvesting
+1000008,24,1000010,keyword,Vlaamse tewerkstellingsconferentie
+1008581,7,1000041,keyword,onderwijspersoneel
+1008581,7,1000042,keyword,personeel onderwijs
+1008581,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1008581,7,1000044,keyword,reaffectatie
+1008581,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1008581,7,1000046,keyword,wachtgeld
+1008581,7,1000047,keyword,wedertewerkstelling
+1008581,7,1000048,keyword,statuut onderwijspersoneel
+1008581,7,1000131,keyword,secundair onderwijs
+1008581,7,1000179,keyword,basisonderwijs
+1008581,7,1000185,keyword,leerlingenbegeleiding
+1008581,7,1000186,keyword,centrum voor leerlingenbegeleiding
+1010593,13,1000031,keyword,KMO
+1010593,13,1000032,keyword,kleine en middelgrote onderneming
+1010593,13,1000089,keyword,ondernemersopleiding
+1010593,13,1000090,keyword,voortdurende vorming voor de middenstand
+1010593,13,1000091,keyword,middenstandsvorming
+1010593,13,1000199,keyword,VIZO
+1010593,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1037110,0,1000049,keyword,pedagogische begeleidingsdienst
+1038122,8,1000059,keyword,werkgelegenheid
+1003229,14,1000013,keyword,domeingoederen
+1003229,14,1000014,keyword,onroerende goederen
+1003229,14,1000015,keyword,openbaar domein
+1003229,14,1000016,keyword,privaat domein
+1003229,14,1000017,keyword,patrimonium
+1003229,14,1000021,keyword,oppervlaktewater
+1014626,28,1000157,keyword,bestuurlijk beleid
+1009657,0,1000131,keyword,secundair onderwijs
+1009657,0,1000179,keyword,basisonderwijs
+1009657,0,1000185,keyword,leerlingenbegeleiding
+1009657,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1006935,32,1000056,keyword,arbeidsplaatsen
+1006935,32,1000057,keyword,tewerkstelling
+1006935,32,1000058,keyword,arbeidsvergunning
+1006935,32,1000059,keyword,werkgelegenheid
+1003066,11,1000165,keyword,kunstonderwijs
+1004147,19,1000009,keyword,huisvesting
+1004147,19,1000080,keyword,provincie
+1004147,19,1000088,keyword,gemeente
+1004147,19,1000098,keyword,pensioen
+1004147,19,1000116,keyword,Zeekanaal en Watergebonden Grondbeheer Vlaanderen
+1004147,19,1000117,keyword,NV Zeekanaal en Watergebonden Grondbeheer Vlaanderen
+1004147,19,1000139,keyword,Dienst voor de Scheepvaart
+1004147,19,1000194,keyword,monument
+1000125,13,1000089,keyword,ondernemersopleiding
+1000125,13,1000090,keyword,voortdurende vorming voor de middenstand
+1000125,13,1000091,keyword,middenstandsvorming
+1000125,13,1000092,keyword,bedrijfsbegeleiding
+1017857,10,1000115,keyword,Waterwegen en Zeekanaal
+1029665,1,1000124,keyword,archeologisch patrimonium
+1019345,24,1000020,keyword,grondwater
+1007470,2,1000102,keyword,centrum voor dagverzorging
+1007470,2,1000103,keyword,dagverzorgingscentrum
+1021502,0,1000131,keyword,secundair onderwijs
+1015897,29,1000048,keyword,statuut onderwijspersoneel
+1015262,0,1000131,keyword,secundair onderwijs
+1038972,7,1000163,keyword,buitengewoon onderwijs
+1002831,21,1000078,keyword,Instituut voor Bosbouw en Wildbeheer
+1000725,24,1000009,keyword,huisvesting
+1019310,2,1000105,keyword,rusthuis
+1017661,16,1000031,keyword,KMO
+1017661,16,1000032,keyword,kleine en middelgrote onderneming
+1014187,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1001251,19,1000088,keyword,gemeente
+1002516,19,1000011,keyword,investeringsfonds
+1002516,19,1000013,keyword,domeingoederen
+1002516,19,1000014,keyword,onroerende goederen
+1002516,19,1000015,keyword,openbaar domein
+1002516,19,1000016,keyword,privaat domein
+1002516,19,1000017,keyword,patrimonium
+1002516,19,1000080,keyword,provincie
+1002516,19,1000088,keyword,gemeente
+1002516,19,1000133,keyword,intercommunale
+1018920,0,1000048,keyword,statuut onderwijspersoneel
+1009198,29,1000041,keyword,onderwijspersoneel
+1009198,29,1000042,keyword,personeel onderwijs
+1009198,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1009198,29,1000044,keyword,reaffectatie
+1009198,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1009198,29,1000046,keyword,wachtgeld
+1009198,29,1000047,keyword,wedertewerkstelling
+1009198,29,1000048,keyword,statuut onderwijspersoneel
+1009198,29,1000098,keyword,pensioen
+1006736,0,1000041,keyword,onderwijspersoneel
+1006736,0,1000042,keyword,personeel onderwijs
+1006736,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1006736,0,1000044,keyword,reaffectatie
+1006736,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1006736,0,1000046,keyword,wachtgeld
+1006736,0,1000047,keyword,wedertewerkstelling
+1006736,0,1000048,keyword,statuut onderwijspersoneel
+1017636,34,1000153,keyword,BLOSO
+1015933,0,1000131,keyword,secundair onderwijs
+1009056,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1009056,13,1000181,keyword,IWT
+1006451,24,1000009,keyword,huisvesting
+1013042,5,1000157,keyword,bestuurlijk beleid
+1001276,13,1000031,keyword,KMO
+1001276,13,1000032,keyword,kleine en middelgrote onderneming
+1001276,13,1000089,keyword,ondernemersopleiding
+1001276,13,1000090,keyword,voortdurende vorming voor de middenstand
+1001276,13,1000091,keyword,middenstandsvorming
+1001276,13,1000199,keyword,VIZO
+1001276,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1005341,4,1000002,keyword,"Promotie Landbouw, Tuinbouw en Zeevisserijproducten vzw."
+1005341,4,1000003,keyword,Vlaams Fonds promotie producten landbouw/tuinbouw/zeevisserij
+1005341,4,1000004,keyword,Vlaamse dienst voor agro-marketing
+1005341,4,1000005,keyword,VLAM
+1005341,4,1000006,keyword,Vlaams Promotiecentrum voor Agro- en Visserijmarketing
+1022637,2,1000145,keyword,Kind en Gezin
+1026307,26,1000067,keyword,personen met een handicap
+1007257,44,1000185,keyword,leerlingenbegeleiding
+1007257,44,1000186,keyword,centrum voor leerlingenbegeleiding
+1010850,7,1000041,keyword,onderwijspersoneel
+1010850,7,1000042,keyword,personeel onderwijs
+1010850,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1010850,7,1000044,keyword,reaffectatie
+1010850,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1010850,7,1000046,keyword,wachtgeld
+1010850,7,1000047,keyword,wedertewerkstelling
+1010850,7,1000048,keyword,statuut onderwijspersoneel
+1008923,13,1000031,keyword,KMO
+1008923,13,1000032,keyword,kleine en middelgrote onderneming
+1008923,13,1000089,keyword,ondernemersopleiding
+1008923,13,1000090,keyword,voortdurende vorming voor de middenstand
+1008923,13,1000091,keyword,middenstandsvorming
+1008923,13,1000199,keyword,VIZO
+1008923,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1002496,27,1000160,keyword,diploma
+1002496,27,1000161,keyword,getuigschrift
+1002496,27,1000162,keyword,bekwaamheidsbewijs
+1000737,8,1000056,keyword,arbeidsplaatsen
+1000737,8,1000057,keyword,tewerkstelling
+1000737,8,1000058,keyword,arbeidsvergunning
+1000737,8,1000059,keyword,werkgelegenheid
+1011677,0,1000041,keyword,onderwijspersoneel
+1011677,0,1000042,keyword,personeel onderwijs
+1011677,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1011677,0,1000044,keyword,reaffectatie
+1011677,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1011677,0,1000046,keyword,wachtgeld
+1011677,0,1000047,keyword,wedertewerkstelling
+1011677,0,1000048,keyword,statuut onderwijspersoneel
+1024817,23,1000103,keyword,dagverzorgingscentrum
+1017939,16,1000030,keyword,economisch beleid
+1017939,16,1000031,keyword,KMO
+1017939,16,1000032,keyword,kleine en middelgrote onderneming
+1001111,25,1000001,keyword,taalgebruik
+1023338,0,1000179,keyword,basisonderwijs
+1012093,41,1000030,keyword,economisch beleid
+1012093,41,1000031,keyword,KMO
+1012093,41,1000032,keyword,kleine en middelgrote onderneming
+1008460,26,1000065,keyword,gehandicapten
+1008460,26,1000066,keyword,mentaal gehandicapten
+1008460,26,1000067,keyword,personen met een handicap
+1008460,26,1000068,keyword,mindervaliden
+1008460,26,1000118,keyword,VFSIPH
+1008460,26,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1002045,3,1000156,keyword,bijzondere jeugdbijstand
+1013182,28,1000165,keyword,kunstonderwijs
+1019252,30,1000131,keyword,secundair onderwijs
+1000157,23,1000101,keyword,dienstencentrum
+1000157,23,1000102,keyword,centrum voor dagverzorging
+1000157,23,1000103,keyword,dagverzorgingscentrum
+1000157,23,1000104,keyword,serviceflat
+1000157,23,1000105,keyword,rusthuis
+1000157,23,1000106,keyword,voorzieningen voor bejaarden
+1000157,23,1000107,keyword,bejaarden
+1007276,40,1000183,keyword,plan van aanleg
+1007276,40,1000184,keyword,gewestplan
+1017123,6,1000057,keyword,tewerkstelling
+1017123,6,1000067,keyword,personen met een handicap
+1011902,24,1000009,keyword,huisvesting
+1018785,25,1000080,keyword,provincie
+1018785,25,1000088,keyword,gemeente
+1018785,25,1000133,keyword,intercommunale
+1008494,0,1000041,keyword,onderwijspersoneel
+1008494,0,1000042,keyword,personeel onderwijs
+1008494,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1008494,0,1000044,keyword,reaffectatie
+1008494,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1008494,0,1000046,keyword,wachtgeld
+1008494,0,1000047,keyword,wedertewerkstelling
+1008494,0,1000048,keyword,statuut onderwijspersoneel
+1012990,7,1000041,keyword,onderwijspersoneel
+1012990,7,1000042,keyword,personeel onderwijs
+1012990,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1012990,7,1000044,keyword,reaffectatie
+1012990,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1012990,7,1000046,keyword,wachtgeld
+1012990,7,1000047,keyword,wedertewerkstelling
+1012990,7,1000048,keyword,statuut onderwijspersoneel
+1000185,35,1000065,keyword,gehandicapten
+1001140,29,1000041,keyword,onderwijspersoneel
+1001140,29,1000042,keyword,personeel onderwijs
+1001140,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001140,29,1000044,keyword,reaffectatie
+1001140,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001140,29,1000046,keyword,wachtgeld
+1001140,29,1000047,keyword,wedertewerkstelling
+1001140,29,1000048,keyword,statuut onderwijspersoneel
+1000357,2,1000065,keyword,gehandicapten
+1000357,2,1000066,keyword,mentaal gehandicapten
+1000357,2,1000067,keyword,personen met een handicap
+1000357,2,1000068,keyword,mindervaliden
+1000357,2,1000118,keyword,VFSIPH
+1000357,2,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1000395,0,1000041,keyword,onderwijspersoneel
+1000395,0,1000042,keyword,personeel onderwijs
+1000395,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000395,0,1000044,keyword,reaffectatie
+1000395,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000395,0,1000046,keyword,wachtgeld
+1000395,0,1000047,keyword,wedertewerkstelling
+1000395,0,1000048,keyword,statuut onderwijspersoneel
+1000395,0,1000160,keyword,diploma
+1000395,0,1000161,keyword,getuigschrift
+1000395,0,1000162,keyword,bekwaamheidsbewijs
+1000395,0,1000165,keyword,kunstonderwijs
+1015070,2,1000108,keyword,VIPA
+1015070,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1015874,34,1000145,keyword,Kind en Gezin
+1015874,34,1000189,keyword,kinderopvang
+1010921,14,1000025,keyword,dierlijk afval
+1010921,14,1000026,keyword,afval
+1005126,21,1000150,keyword,OVAM
+1005126,21,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1018248,11,1000145,keyword,Kind en Gezin
+1018248,11,1000189,keyword,kinderopvang
+1010196,1,1000194,keyword,monument
+1022632,22,1000067,keyword,personen met een handicap
+1003882,28,1000146,keyword,Toerisme Vlaanderen
+1010120,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1010120,13,1000181,keyword,IWT
+1013881,13,1000199,keyword,VIZO
+1013881,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1028588,0,1000041,keyword,onderwijspersoneel
+1028588,0,1000048,keyword,statuut onderwijspersoneel
+1014253,5,1000157,keyword,bestuurlijk beleid
+1000684,24,1000009,keyword,huisvesting
+1000221,1,1000033,keyword,economische expansie
+1013053,4,1000003,keyword,Vlaams Fonds promotie producten landbouw/tuinbouw/zeevisserij
+1013053,4,1000004,keyword,Vlaamse dienst voor agro-marketing
+1013053,4,1000005,keyword,VLAM
+1013053,4,1000006,keyword,Vlaams Promotiecentrum voor Agro- en Visserijmarketing
+1013053,4,1000157,keyword,bestuurlijk beleid
+1011976,31,1000129,keyword,Vlaamse Milieumaatschappij
+1017704,13,1000032,keyword,kleine en middelgrote onderneming
+1017704,13,1000089,keyword,ondernemersopleiding
+1019843,24,1000009,keyword,huisvesting
+1011800,20,1000195,keyword,delegatie
+1008095,11,1000145,keyword,Kind en Gezin
+1008095,11,1000188,keyword,kinderdagverblijf
+1008095,11,1000189,keyword,kinderopvang
+1006630,13,1000031,keyword,KMO
+1006630,13,1000032,keyword,kleine en middelgrote onderneming
+1006630,13,1000089,keyword,ondernemersopleiding
+1006630,13,1000199,keyword,VIZO
+1006630,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1003318,7,1000160,keyword,diploma
+1003318,7,1000161,keyword,getuigschrift
+1003318,7,1000162,keyword,bekwaamheidsbewijs
+1003318,7,1000164,keyword,godsdienstonderwijs
+1023137,24,1000009,keyword,huisvesting
+1013046,3,1000157,keyword,bestuurlijk beleid
+1005986,29,1000041,keyword,onderwijspersoneel
+1005986,29,1000042,keyword,personeel onderwijs
+1005986,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1005986,29,1000044,keyword,reaffectatie
+1005986,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1005986,29,1000046,keyword,wachtgeld
+1005986,29,1000047,keyword,wedertewerkstelling
+1005986,29,1000048,keyword,statuut onderwijspersoneel
+1013717,18,1000110,keyword,BRTN
+1013717,18,1000111,keyword,VRT
+1013717,18,1000112,keyword,Vlaamse Radio en Televisie
+1012923,2,1000157,keyword,bestuurlijk beleid
+1019965,16,1000030,keyword,economisch beleid
+1019965,16,1000032,keyword,kleine en middelgrote onderneming
+1014620,19,1000030,keyword,economisch beleid
+1008761,39,1000056,keyword,arbeidsplaatsen
+1008761,39,1000057,keyword,tewerkstelling
+1008761,39,1000058,keyword,arbeidsvergunning
+1008761,39,1000059,keyword,werkgelegenheid
+1005140,21,1000088,keyword,gemeente
+1017505,15,1000186,keyword,centrum voor leerlingenbegeleiding
+1011333,0,1000041,keyword,onderwijspersoneel
+1011333,0,1000042,keyword,personeel onderwijs
+1011333,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1011333,0,1000044,keyword,reaffectatie
+1011333,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1011333,0,1000046,keyword,wachtgeld
+1011333,0,1000047,keyword,wedertewerkstelling
+1011333,0,1000048,keyword,statuut onderwijspersoneel
+1011333,0,1000160,keyword,diploma
+1011333,0,1000161,keyword,getuigschrift
+1011333,0,1000162,keyword,bekwaamheidsbewijs
+1011333,0,1000188,keyword,kinderdagverblijf
+1011333,0,1000189,keyword,kinderopvang
+1002411,21,1000088,keyword,gemeente
+1002411,21,1000150,keyword,OVAM
+1002411,21,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1002236,13,1000199,keyword,VIZO
+1002236,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1004831,0,1000160,keyword,diploma
+1004831,0,1000161,keyword,getuigschrift
+1004831,0,1000162,keyword,bekwaamheidsbewijs
+1011407,15,1000041,keyword,onderwijspersoneel
+1011407,15,1000042,keyword,personeel onderwijs
+1011407,15,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1011407,15,1000044,keyword,reaffectatie
+1011407,15,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1011407,15,1000046,keyword,wachtgeld
+1011407,15,1000047,keyword,wedertewerkstelling
+1011407,15,1000048,keyword,statuut onderwijspersoneel
+1008246,11,1000145,keyword,Kind en Gezin
+1008246,11,1000188,keyword,kinderdagverblijf
+1008246,11,1000189,keyword,kinderopvang
+1026582,31,1000150,keyword,OVAM
+1009176,22,1000013,keyword,domeingoederen
+1009176,22,1000014,keyword,onroerende goederen
+1009176,22,1000015,keyword,openbaar domein
+1009176,22,1000016,keyword,privaat domein
+1009176,22,1000017,keyword,patrimonium
+1003252,0,1000197,keyword,onderwijs voor sociale promotie
+1003252,0,1000198,keyword,sociale promotie
+1002352,24,1000009,keyword,huisvesting
+1006506,29,1000041,keyword,onderwijspersoneel
+1006506,29,1000042,keyword,personeel onderwijs
+1006506,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1006506,29,1000044,keyword,reaffectatie
+1006506,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1006506,29,1000046,keyword,wachtgeld
+1006506,29,1000047,keyword,wedertewerkstelling
+1006506,29,1000048,keyword,statuut onderwijspersoneel
+1001875,7,1000163,keyword,buitengewoon onderwijs
+1005691,36,1000133,keyword,intercommunale
+1001045,24,1000009,keyword,huisvesting
+1008400,28,1000065,keyword,gehandicapten
+1008400,28,1000066,keyword,mentaal gehandicapten
+1008400,28,1000067,keyword,personen met een handicap
+1008400,28,1000068,keyword,mindervaliden
+1007813,26,1000065,keyword,gehandicapten
+1007813,26,1000066,keyword,mentaal gehandicapten
+1007813,26,1000067,keyword,personen met een handicap
+1007813,26,1000068,keyword,mindervaliden
+1007813,26,1000118,keyword,VFSIPH
+1007813,26,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1017821,11,1000188,keyword,kinderdagverblijf
+1017821,11,1000189,keyword,kinderopvang
+1017363,10,1000129,keyword,Vlaamse Milieumaatschappij
+1016639,14,1000020,keyword,grondwater
+1000004,7,1000048,keyword,statuut onderwijspersoneel
+1002861,12,1000118,keyword,VFSIPH
+1002861,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1002861,12,1000175,keyword,presentiegeld
+1000954,27,1000041,keyword,onderwijspersoneel
+1000954,27,1000042,keyword,personeel onderwijs
+1000954,27,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000954,27,1000044,keyword,reaffectatie
+1000954,27,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000954,27,1000046,keyword,wachtgeld
+1000954,27,1000047,keyword,wedertewerkstelling
+1000954,27,1000048,keyword,statuut onderwijspersoneel
+1007497,24,1000177,keyword,woonwagenbewoners
+1007497,24,1000178,keyword,zigeuners
+1015085,30,1000131,keyword,secundair onderwijs
+1015085,30,1000197,keyword,onderwijs voor sociale promotie
+1002853,29,1000041,keyword,onderwijspersoneel
+1002853,29,1000042,keyword,personeel onderwijs
+1002853,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002853,29,1000044,keyword,reaffectatie
+1002853,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002853,29,1000046,keyword,wachtgeld
+1002853,29,1000047,keyword,wedertewerkstelling
+1002853,29,1000048,keyword,statuut onderwijspersoneel
+1013329,16,1000030,keyword,economisch beleid
+1028724,6,1000050,keyword,VDAB
+1013052,19,1000157,keyword,bestuurlijk beleid
+1029581,3,1000145,keyword,Kind en Gezin
+1026383,2,1000145,keyword,Kind en Gezin
+1026383,2,1000189,keyword,kinderopvang
+1030020,23,1000107,keyword,bejaarden
+1012334,14,1000001,keyword,taalgebruik
+1004717,7,1000041,keyword,onderwijspersoneel
+1004717,7,1000042,keyword,personeel onderwijs
+1004717,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1004717,7,1000044,keyword,reaffectatie
+1004717,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1004717,7,1000046,keyword,wachtgeld
+1004717,7,1000047,keyword,wedertewerkstelling
+1004717,7,1000048,keyword,statuut onderwijspersoneel
+1007493,0,1000195,keyword,delegatie
+1001355,3,1000156,keyword,bijzondere jeugdbijstand
+1006254,8,1000038,keyword,arbeidsbemiddeling
+1027741,8,1000050,keyword,VDAB
+1006523,24,1000009,keyword,huisvesting
+1019184,21,1000020,keyword,grondwater
+1004917,16,1000195,keyword,delegatie
+1001840,1,1000080,keyword,provincie
+1001840,1,1000088,keyword,gemeente
+1001840,1,1000194,keyword,monument
+1018488,31,1000074,keyword,luchtverontreiniging
+1018621,28,1000146,keyword,Toerisme Vlaanderen
+1028948,26,1000067,keyword,personen met een handicap
+1002048,0,1000176,keyword,rationalisatie en programmatie
+1015867,38,1000080,keyword,provincie
+1015867,38,1000088,keyword,gemeente
+1000009,19,1000011,keyword,investeringsfonds
+1000009,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1000009,19,1000013,keyword,domeingoederen
+1000009,19,1000014,keyword,onroerende goederen
+1000009,19,1000015,keyword,openbaar domein
+1000009,19,1000016,keyword,privaat domein
+1000009,19,1000017,keyword,patrimonium
+1018448,24,1000158,keyword,GIS
+1018448,24,1000159,keyword,Geografisch Informatiesysteem
+1022996,2,1000189,keyword,kinderopvang
+1006781,24,1000009,keyword,huisvesting
+1013075,3,1000157,keyword,bestuurlijk beleid
+1002235,13,1000199,keyword,VIZO
+1002235,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1014635,20,1000195,keyword,delegatie
+1008576,21,1000088,keyword,gemeente
+1001295,23,1000081,keyword,lasten uit het verleden
+1001295,23,1000082,keyword,schulden van het verleden
+1001295,23,1000083,keyword,rechtsopvolging
+1001295,23,1000118,keyword,VFSIPH
+1001295,23,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1001976,8,1000030,keyword,economisch beleid
+1014501,0,1000131,keyword,secundair onderwijs
+1020027,16,1000030,keyword,economisch beleid
+1020027,16,1000031,keyword,KMO
+1008635,11,1000145,keyword,Kind en Gezin
+1008635,11,1000188,keyword,kinderdagverblijf
+1008635,11,1000189,keyword,kinderopvang
+1011314,16,1000030,keyword,economisch beleid
+1018404,7,1000131,keyword,secundair onderwijs
+1018404,7,1000179,keyword,basisonderwijs
+1022592,34,1000153,keyword,BLOSO
+1008397,6,1000156,keyword,bijzondere jeugdbijstand
+1006154,29,1000041,keyword,onderwijspersoneel
+1006154,29,1000042,keyword,personeel onderwijs
+1006154,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1006154,29,1000044,keyword,reaffectatie
+1006154,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1006154,29,1000046,keyword,wachtgeld
+1006154,29,1000047,keyword,wedertewerkstelling
+1006154,29,1000048,keyword,statuut onderwijspersoneel
+1008019,12,1000065,keyword,gehandicapten
+1008019,12,1000066,keyword,mentaal gehandicapten
+1008019,12,1000067,keyword,personen met een handicap
+1008019,12,1000068,keyword,mindervaliden
+1008141,1,1000194,keyword,monument
+1027790,2,1000067,keyword,personen met een handicap
+1015917,1,1000080,keyword,provincie
+1015917,1,1000088,keyword,gemeente
+1014178,50,1000149,keyword,Vlaamse Landmaatschappij
+1002232,37,1000041,keyword,onderwijspersoneel
+1002232,37,1000042,keyword,personeel onderwijs
+1002232,37,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002232,37,1000044,keyword,reaffectatie
+1002232,37,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002232,37,1000046,keyword,wachtgeld
+1002232,37,1000047,keyword,wedertewerkstelling
+1002232,37,1000048,keyword,statuut onderwijspersoneel
+1005083,14,1000028,keyword,Vlarem
+1005083,14,1000029,keyword,milieuvergunning
+1033076,0,1000131,keyword,secundair onderwijs
+1033076,0,1000179,keyword,basisonderwijs
+1033076,0,1000185,keyword,leerlingenbegeleiding
+1000329,13,1000180,keyword,Vlaams Instituut Bevordering Wetenschappelijk-Technologisch Onderzoek Industrie
+1000329,13,1000181,keyword,IWT
+1000329,13,1000182,keyword,specialisatiebeurs
+1016566,0,1000131,keyword,secundair onderwijs
+1004060,11,1000145,keyword,Kind en Gezin
+1006869,24,1000009,keyword,huisvesting
+1018629,0,1000131,keyword,secundair onderwijs
+1018629,0,1000163,keyword,buitengewoon onderwijs
+1001093,17,1000088,keyword,gemeente
+1001053,24,1000080,keyword,provincie
+1001053,24,1000088,keyword,gemeente
+1013406,21,1000149,keyword,Vlaamse Landmaatschappij
+1013378,16,1000020,keyword,grondwater
+1013378,16,1000021,keyword,oppervlaktewater
+1004781,21,1000088,keyword,gemeente
+1012141,7,1000065,keyword,gehandicapten
+1012141,7,1000066,keyword,mentaal gehandicapten
+1012141,7,1000067,keyword,personen met een handicap
+1012141,7,1000068,keyword,mindervaliden
+1012141,7,1000131,keyword,secundair onderwijs
+1021802,36,1000080,keyword,provincie
+1021802,36,1000088,keyword,gemeente
+1003127,12,1000118,keyword,VFSIPH
+1003127,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1003127,12,1000175,keyword,presentiegeld
+1020511,34,1000080,keyword,provincie
+1020511,34,1000088,keyword,gemeente
+1019995,33,1000030,keyword,economisch beleid
+1019995,33,1000032,keyword,kleine en middelgrote onderneming
+1012067,19,1000030,keyword,economisch beleid
+1005630,0,1000041,keyword,onderwijspersoneel
+1005630,0,1000042,keyword,personeel onderwijs
+1005630,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1005630,0,1000044,keyword,reaffectatie
+1005630,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1005630,0,1000046,keyword,wachtgeld
+1005630,0,1000047,keyword,wedertewerkstelling
+1005630,0,1000048,keyword,statuut onderwijspersoneel
+1003700,17,1000088,keyword,gemeente
+1008404,19,1000104,keyword,serviceflat
+1030153,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1016665,32,1000195,keyword,delegatie
+1014525,14,1000157,keyword,bestuurlijk beleid
+1013743,10,1000072,keyword,statuut openbare instellingen
+1013743,10,1000134,keyword,openbaar psychiatrisch centrum
+1013743,10,1000135,keyword,Openbaar Psychiatrisch Ziekenhuis
+1000373,7,1000130,keyword,beroepsonderwijs
+1000373,7,1000131,keyword,secundair onderwijs
+1000373,7,1000179,keyword,basisonderwijs
+1000373,7,1000196,keyword,schooljaar
+1000373,7,1000197,keyword,onderwijs voor sociale promotie
+1000373,7,1000198,keyword,sociale promotie
+1014697,19,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1014697,19,1000081,keyword,lasten uit het verleden
+1014697,19,1000082,keyword,schulden van het verleden
+1014697,19,1000083,keyword,rechtsopvolging
+1028433,20,1000129,keyword,Vlaamse Milieumaatschappij
+1014111,5,1000157,keyword,bestuurlijk beleid
+1004760,13,1000089,keyword,ondernemersopleiding
+1004760,13,1000090,keyword,voortdurende vorming voor de middenstand
+1004760,13,1000091,keyword,middenstandsvorming
+1004760,13,1000199,keyword,VIZO
+1004760,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1008500,14,1000018,keyword,bouwvergunning
+1029678,19,1000070,keyword,Landcommanderij Alden-Biesen
+1013566,39,1000039,keyword,beroepsopleiding
+1013566,39,1000056,keyword,arbeidsplaatsen
+1013566,39,1000057,keyword,tewerkstelling
+1013566,39,1000058,keyword,arbeidsvergunning
+1013566,39,1000059,keyword,werkgelegenheid
+1014598,19,1000157,keyword,bestuurlijk beleid
+1027123,26,1000067,keyword,personen met een handicap
+1001893,48,1000143,keyword,ARGO
+1001893,48,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1000112,21,1000078,keyword,Instituut voor Bosbouw en Wildbeheer
+1018578,7,1000165,keyword,kunstonderwijs
+1037548,4,1000085,keyword,visserij
+1005340,4,1000002,keyword,"Promotie Landbouw, Tuinbouw en Zeevisserijproducten vzw."
+1005340,4,1000003,keyword,Vlaams Fonds promotie producten landbouw/tuinbouw/zeevisserij
+1005340,4,1000004,keyword,Vlaamse dienst voor agro-marketing
+1005340,4,1000005,keyword,VLAM
+1005340,4,1000006,keyword,Vlaams Promotiecentrum voor Agro- en Visserijmarketing
+1018433,28,1000146,keyword,Toerisme Vlaanderen
+1003058,0,1000041,keyword,onderwijspersoneel
+1003058,0,1000042,keyword,personeel onderwijs
+1003058,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1003058,0,1000044,keyword,reaffectatie
+1003058,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1003058,0,1000046,keyword,wachtgeld
+1003058,0,1000047,keyword,wedertewerkstelling
+1003058,0,1000048,keyword,statuut onderwijspersoneel
+1003058,0,1000165,keyword,kunstonderwijs
+1006126,21,1000149,keyword,Vlaamse Landmaatschappij
+1000025,19,1000031,keyword,KMO
+1000025,19,1000032,keyword,kleine en middelgrote onderneming
+1000025,19,1000033,keyword,economische expansie
+1028346,16,1000032,keyword,kleine en middelgrote onderneming
+1002479,3,1000156,keyword,bijzondere jeugdbijstand
+1007036,10,1000098,keyword,pensioen
+1007036,10,1000099,keyword,ambtenaren
+1007036,10,1000100,keyword,statuut ambtenaar
+1000318,7,1000177,keyword,woonwagenbewoners
+1000318,7,1000178,keyword,zigeuners
+1000318,7,1000179,keyword,basisonderwijs
+1010112,0,1000131,keyword,secundair onderwijs
+1012145,13,1000031,keyword,KMO
+1012145,13,1000032,keyword,kleine en middelgrote onderneming
+1012145,13,1000089,keyword,ondernemersopleiding
+1012145,13,1000199,keyword,VIZO
+1012145,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1019841,8,1000038,keyword,arbeidsbemiddeling
+1019841,8,1000190,keyword,uitzendbureau
+1019841,8,1000191,keyword,uitzendarbeid
+1027854,50,1000149,keyword,Vlaamse Landmaatschappij
+1002341,1,1000025,keyword,dierlijk afval
+1002341,1,1000026,keyword,afval
+1002341,1,1000150,keyword,OVAM
+1002341,1,1000151,keyword,Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest
+1018032,11,1000067,keyword,personen met een handicap
+1002860,12,1000065,keyword,gehandicapten
+1002860,12,1000066,keyword,mentaal gehandicapten
+1002860,12,1000067,keyword,personen met een handicap
+1002860,12,1000068,keyword,mindervaliden
+1002860,12,1000118,keyword,VFSIPH
+1002860,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1018487,31,1000074,keyword,luchtverontreiniging
+1009839,10,1000099,keyword,ambtenaren
+1009839,10,1000100,keyword,statuut ambtenaar
+1014349,5,1000157,keyword,bestuurlijk beleid
+1022154,0,1000040,keyword,inspectie
+1000568,8,1000055,keyword,"erkenningscommissie inzake outplacement, werving en selectie"
+1000568,8,1000056,keyword,arbeidsplaatsen
+1000568,8,1000057,keyword,tewerkstelling
+1000568,8,1000058,keyword,arbeidsvergunning
+1000568,8,1000059,keyword,werkgelegenheid
+1000568,8,1000060,keyword,selectiebureau
+1000568,8,1000061,keyword,wervingsbureau
+1000568,8,1000062,keyword,outplacement
+1024414,6,1000057,keyword,tewerkstelling
+1015351,35,1000065,keyword,gehandicapten
+1015351,35,1000068,keyword,mindervaliden
+1013468,37,1000052,keyword,buitenlandse student
+1013468,37,1000160,keyword,diploma
+1013468,37,1000161,keyword,getuigschrift
+1013468,37,1000162,keyword,bekwaamheidsbewijs
+1012358,47,1000053,keyword,studietoelage
+1000710,11,1000165,keyword,kunstonderwijs
+1018254,28,1000183,keyword,plan van aanleg
+1018254,28,1000184,keyword,gewestplan
+1005444,7,1000041,keyword,onderwijspersoneel
+1005444,7,1000042,keyword,personeel onderwijs
+1005444,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1005444,7,1000044,keyword,reaffectatie
+1005444,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1005444,7,1000046,keyword,wachtgeld
+1005444,7,1000047,keyword,wedertewerkstelling
+1005444,7,1000048,keyword,statuut onderwijspersoneel
+1005444,7,1000179,keyword,basisonderwijs
+1012150,55,1000085,keyword,visserij
+1012150,55,1000086,keyword,aquicultuur
+1000549,27,1000160,keyword,diploma
+1000549,27,1000165,keyword,kunstonderwijs
+1024624,43,1000026,keyword,afval
+1017206,19,1000083,keyword,rechtsopvolging
+1014392,51,1000157,keyword,bestuurlijk beleid
+1010159,0,1000163,keyword,buitengewoon onderwijs
+1008520,8,1000041,keyword,onderwijspersoneel
+1008520,8,1000042,keyword,personeel onderwijs
+1008520,8,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1008520,8,1000044,keyword,reaffectatie
+1008520,8,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1008520,8,1000046,keyword,wachtgeld
+1008520,8,1000047,keyword,wedertewerkstelling
+1008520,8,1000048,keyword,statuut onderwijspersoneel
+1004498,11,1000145,keyword,Kind en Gezin
+1004498,11,1000188,keyword,kinderdagverblijf
+1004498,11,1000189,keyword,kinderopvang
+1025104,6,1000057,keyword,tewerkstelling
+1025104,6,1000059,keyword,werkgelegenheid
+1002767,3,1000156,keyword,bijzondere jeugdbijstand
+1003166,0,1000160,keyword,diploma
+1003166,0,1000161,keyword,getuigschrift
+1003166,0,1000162,keyword,bekwaamheidsbewijs
+1003166,0,1000179,keyword,basisonderwijs
+1000980,29,1000041,keyword,onderwijspersoneel
+1000980,29,1000042,keyword,personeel onderwijs
+1000980,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000980,29,1000044,keyword,reaffectatie
+1000980,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000980,29,1000046,keyword,wachtgeld
+1000980,29,1000047,keyword,wedertewerkstelling
+1000980,29,1000048,keyword,statuut onderwijspersoneel
+1016151,34,1000153,keyword,BLOSO
+1018486,28,1000195,keyword,delegatie
+1000379,13,1000098,keyword,pensioen
+1000379,13,1000199,keyword,VIZO
+1000379,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1014160,13,1000160,keyword,diploma
+1014160,13,1000161,keyword,getuigschrift
+1014160,13,1000162,keyword,bekwaamheidsbewijs
+1013503,0,1000197,keyword,onderwijs voor sociale promotie
+1013503,0,1000198,keyword,sociale promotie
+1004789,0,1000049,keyword,pedagogische begeleidingsdienst
+1007588,12,1000065,keyword,gehandicapten
+1007588,12,1000066,keyword,mentaal gehandicapten
+1007588,12,1000067,keyword,personen met een handicap
+1007588,12,1000068,keyword,mindervaliden
+1007588,12,1000118,keyword,VFSIPH
+1007588,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1007140,0,1000197,keyword,onderwijs voor sociale promotie
+1007140,0,1000198,keyword,sociale promotie
+1023679,13,1000031,keyword,KMO
+1014397,29,1000041,keyword,onderwijspersoneel
+1014397,29,1000042,keyword,personeel onderwijs
+1014397,29,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1014397,29,1000044,keyword,reaffectatie
+1014397,29,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1014397,29,1000046,keyword,wachtgeld
+1014397,29,1000047,keyword,wedertewerkstelling
+1014397,29,1000048,keyword,statuut onderwijspersoneel
+1013645,14,1000149,keyword,Vlaamse Landmaatschappij
+1017667,16,1000031,keyword,KMO
+1017667,16,1000032,keyword,kleine en middelgrote onderneming
+1007483,40,1000160,keyword,diploma
+1007483,40,1000161,keyword,getuigschrift
+1007483,40,1000162,keyword,bekwaamheidsbewijs
+1002213,7,1000041,keyword,onderwijspersoneel
+1002213,7,1000042,keyword,personeel onderwijs
+1002213,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002213,7,1000044,keyword,reaffectatie
+1002213,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002213,7,1000046,keyword,wachtgeld
+1002213,7,1000047,keyword,wedertewerkstelling
+1002213,7,1000048,keyword,statuut onderwijspersoneel
+1002023,0,1000013,keyword,domeingoederen
+1002023,0,1000014,keyword,onroerende goederen
+1002023,0,1000015,keyword,openbaar domein
+1002023,0,1000016,keyword,privaat domein
+1002023,0,1000017,keyword,patrimonium
+1002023,0,1000041,keyword,onderwijspersoneel
+1002023,0,1000042,keyword,personeel onderwijs
+1002023,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002023,0,1000044,keyword,reaffectatie
+1002023,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002023,0,1000046,keyword,wachtgeld
+1002023,0,1000047,keyword,wedertewerkstelling
+1002023,0,1000048,keyword,statuut onderwijspersoneel
+1002023,0,1000081,keyword,lasten uit het verleden
+1002023,0,1000082,keyword,schulden van het verleden
+1002023,0,1000083,keyword,rechtsopvolging
+1002023,0,1000160,keyword,diploma
+1002023,0,1000161,keyword,getuigschrift
+1002023,0,1000162,keyword,bekwaamheidsbewijs
+1002023,0,1000165,keyword,kunstonderwijs
+1002023,0,1000197,keyword,onderwijs voor sociale promotie
+1002023,0,1000198,keyword,sociale promotie
+1018078,24,1000195,keyword,delegatie
+1010804,16,1000030,keyword,economisch beleid
+1010804,16,1000031,keyword,KMO
+1010804,16,1000032,keyword,kleine en middelgrote onderneming
+1029087,13,1000087,keyword,overheidsopdrachten
+1005381,31,1000029,keyword,milieuvergunning
+1007705,0,1000131,keyword,secundair onderwijs
+1011087,19,1000030,keyword,economisch beleid
+1015871,5,1000159,keyword,Geografisch Informatiesysteem
+1006889,2,1000108,keyword,VIPA
+1006889,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1016038,16,1000031,keyword,KMO
+1016038,16,1000032,keyword,kleine en middelgrote onderneming
+1008562,14,1000029,keyword,milieuvergunning
+1013433,39,1000039,keyword,beroepsopleiding
+1013433,39,1000050,keyword,VDAB
+1013433,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1005435,14,1000085,keyword,visserij
+1005435,14,1000086,keyword,aquicultuur
+1018012,36,1000080,keyword,provincie
+1018012,36,1000088,keyword,gemeente
+1016415,14,1000019,keyword,milieu-effectenrapport
+1013350,36,1000175,keyword,presentiegeld
+1007598,44,1000185,keyword,leerlingenbegeleiding
+1007598,44,1000186,keyword,centrum voor leerlingenbegeleiding
+1006488,7,1000160,keyword,diploma
+1006488,7,1000161,keyword,getuigschrift
+1006488,7,1000162,keyword,bekwaamheidsbewijs
+1006488,7,1000179,keyword,basisonderwijs
+1016438,38,1000113,keyword,gemeentepersoneel
+1002193,19,1000021,keyword,oppervlaktewater
+1002193,19,1000088,keyword,gemeente
+1002193,19,1000129,keyword,Vlaamse Milieumaatschappij
+1002193,19,1000133,keyword,intercommunale
+1006952,23,1000104,keyword,serviceflat
+1006952,23,1000105,keyword,rusthuis
+1006952,23,1000106,keyword,voorzieningen voor bejaarden
+1006952,23,1000107,keyword,bejaarden
+1015035,13,1000181,keyword,IWT
+1018743,23,1000103,keyword,dagverzorgingscentrum
+1012048,13,1000031,keyword,KMO
+1012048,13,1000032,keyword,kleine en middelgrote onderneming
+1012048,13,1000089,keyword,ondernemersopleiding
+1012048,13,1000090,keyword,voortdurende vorming voor de middenstand
+1012048,13,1000091,keyword,middenstandsvorming
+1014857,2,1000195,keyword,delegatie
+1013456,37,1000160,keyword,diploma
+1013456,37,1000161,keyword,getuigschrift
+1013456,37,1000162,keyword,bekwaamheidsbewijs
+1004447,23,1000104,keyword,serviceflat
+1004447,23,1000105,keyword,rusthuis
+1001339,13,1000031,keyword,KMO
+1001339,13,1000032,keyword,kleine en middelgrote onderneming
+1001339,13,1000092,keyword,bedrijfsbegeleiding
+1019250,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1019250,2,1000156,keyword,bijzondere jeugdbijstand
+1030263,26,1000067,keyword,personen met een handicap
+1003117,14,1000149,keyword,Vlaamse Landmaatschappij
+1023424,34,1000153,keyword,BLOSO
+1013720,41,1000030,keyword,economisch beleid
+1013720,41,1000031,keyword,KMO
+1013720,41,1000032,keyword,kleine en middelgrote onderneming
+1001305,0,1000041,keyword,onderwijspersoneel
+1001305,0,1000042,keyword,personeel onderwijs
+1001305,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001305,0,1000044,keyword,reaffectatie
+1001305,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001305,0,1000046,keyword,wachtgeld
+1001305,0,1000047,keyword,wedertewerkstelling
+1001305,0,1000048,keyword,statuut onderwijspersoneel
+1001305,0,1000163,keyword,buitengewoon onderwijs
+1031586,13,1000059,keyword,werkgelegenheid
+1018749,31,1000024,keyword,afvalwater
+1005892,18,1000110,keyword,BRTN
+1005892,18,1000111,keyword,VRT
+1005892,18,1000112,keyword,Vlaamse Radio en Televisie
+1000240,8,1000072,keyword,statuut openbare instellingen
+1001311,0,1000041,keyword,onderwijspersoneel
+1001311,0,1000042,keyword,personeel onderwijs
+1001311,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001311,0,1000044,keyword,reaffectatie
+1001311,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001311,0,1000046,keyword,wachtgeld
+1001311,0,1000047,keyword,wedertewerkstelling
+1001311,0,1000048,keyword,statuut onderwijspersoneel
+1001311,0,1000160,keyword,diploma
+1001311,0,1000161,keyword,getuigschrift
+1001311,0,1000162,keyword,bekwaamheidsbewijs
+1015374,4,1000085,keyword,visserij
+1024437,52,1000009,keyword,huisvesting
+1012810,19,1000157,keyword,bestuurlijk beleid
+1001184,12,1000065,keyword,gehandicapten
+1001184,12,1000066,keyword,mentaal gehandicapten
+1001184,12,1000067,keyword,personen met een handicap
+1001184,12,1000068,keyword,mindervaliden
+1001184,12,1000118,keyword,VFSIPH
+1001184,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1011700,3,1000065,keyword,gehandicapten
+1011700,3,1000066,keyword,mentaal gehandicapten
+1011700,3,1000067,keyword,personen met een handicap
+1011700,3,1000068,keyword,mindervaliden
+1011700,3,1000106,keyword,voorzieningen voor bejaarden
+1011700,3,1000107,keyword,bejaarden
+1004713,7,1000048,keyword,statuut onderwijspersoneel
+1018874,7,1000048,keyword,statuut onderwijspersoneel
+1002837,42,1000072,keyword,statuut openbare instellingen
+1000669,11,1000165,keyword,kunstonderwijs
+1010518,35,1000065,keyword,gehandicapten
+1010518,35,1000066,keyword,mentaal gehandicapten
+1010518,35,1000067,keyword,personen met een handicap
+1010518,35,1000068,keyword,mindervaliden
+1010518,35,1000118,keyword,VFSIPH
+1010518,35,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1016544,36,1000088,keyword,gemeente
+1007728,24,1000009,keyword,huisvesting
+1016143,2,1000145,keyword,Kind en Gezin
+1000576,8,1000190,keyword,uitzendbureau
+1000576,8,1000191,keyword,uitzendarbeid
+1016905,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1004229,19,1000145,keyword,Kind en Gezin
+1002169,7,1000048,keyword,statuut onderwijspersoneel
+1002104,0,1000131,keyword,secundair onderwijs
+1035836,2,1000102,keyword,centrum voor dagverzorging
+1008295,24,1000020,keyword,grondwater
+1017310,41,1000031,keyword,KMO
+1024663,19,1000129,keyword,Vlaamse Milieumaatschappij
+1021756,31,1000026,keyword,afval
+1013064,2,1000157,keyword,bestuurlijk beleid
+1005141,40,1000080,keyword,provincie
+1013832,41,1000030,keyword,economisch beleid
+1013832,41,1000031,keyword,KMO
+1013832,41,1000032,keyword,kleine en middelgrote onderneming
+1012043,32,1000168,keyword,cultureel en natuurlijk erfgoed
+1008408,11,1000056,keyword,arbeidsplaatsen
+1008408,11,1000057,keyword,tewerkstelling
+1008408,11,1000058,keyword,arbeidsvergunning
+1008408,11,1000059,keyword,werkgelegenheid
+1008408,11,1000145,keyword,Kind en Gezin
+1004290,27,1000048,keyword,statuut onderwijspersoneel
+1014714,36,1000080,keyword,provincie
+1014714,36,1000088,keyword,gemeente
+1039542,19,1000013,keyword,domeingoederen
+1016057,39,1000057,keyword,tewerkstelling
+1006836,0,1000197,keyword,onderwijs voor sociale promotie
+1006836,0,1000198,keyword,sociale promotie
+1005544,11,1000145,keyword,Kind en Gezin
+1005544,11,1000188,keyword,kinderdagverblijf
+1005544,11,1000189,keyword,kinderopvang
+1013419,0,1000131,keyword,secundair onderwijs
+1009802,11,1000165,keyword,kunstonderwijs
+1007984,12,1000118,keyword,VFSIPH
+1007984,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1008504,2,1000075,keyword,vereniging zonder winstoogmerk
+1008504,2,1000104,keyword,serviceflat
+1002332,35,1000068,keyword,mindervaliden
+1000057,47,1000052,keyword,buitenlandse student
+1000057,47,1000053,keyword,studietoelage
+1000057,47,1000054,keyword,studiebeurs
+1018428,0,1000131,keyword,secundair onderwijs
+1013060,36,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1013060,36,1000153,keyword,BLOSO
+1013060,36,1000157,keyword,bestuurlijk beleid
+1013076,14,1000157,keyword,bestuurlijk beleid
+1013076,14,1000158,keyword,GIS
+1007948,14,1000025,keyword,dierlijk afval
+1007948,14,1000026,keyword,afval
+1004589,39,1000050,keyword,VDAB
+1004589,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1001930,31,1000020,keyword,grondwater
+1001930,31,1000021,keyword,oppervlaktewater
+1001930,31,1000022,keyword,ARAB
+1001930,31,1000023,keyword,algemeen reglement voor de arbeidsbescherming
+1001930,31,1000024,keyword,afvalwater
+1001930,31,1000025,keyword,dierlijk afval
+1001930,31,1000026,keyword,afval
+1001930,31,1000027,keyword,hinderlijke inrichting
+1001930,31,1000028,keyword,Vlarem
+1001930,31,1000029,keyword,milieuvergunning
+1007473,10,1000100,keyword,statuut ambtenaar
+1014589,36,1000080,keyword,provincie
+1000236,8,1000001,keyword,taalgebruik
+1001895,0,1000141,keyword,Dienst Infrastructuurwerken van het Gesubsidieerd Onderwijs
+1001895,0,1000142,keyword,DIGO
+1001895,0,1000175,keyword,presentiegeld
+1017208,7,1000048,keyword,statuut onderwijspersoneel
+1017487,3,1000175,keyword,presentiegeld
+1000697,14,1000029,keyword,milieuvergunning
+1030035,19,1000013,keyword,domeingoederen
+1023095,7,1000160,keyword,diploma
+1005637,19,1000165,keyword,kunstonderwijs
+1022085,34,1000153,keyword,BLOSO
+1037205,2,1000102,keyword,centrum voor dagverzorging
+1035167,19,1000054,keyword,studiebeurs
+1013752,5,1000088,keyword,gemeente
+1009212,2,1000145,keyword,Kind en Gezin
+1010851,6,1000056,keyword,arbeidsplaatsen
+1010851,6,1000057,keyword,tewerkstelling
+1010851,6,1000058,keyword,arbeidsvergunning
+1010851,6,1000059,keyword,werkgelegenheid
+1006176,18,1000110,keyword,BRTN
+1006176,18,1000111,keyword,VRT
+1006176,18,1000112,keyword,Vlaamse Radio en Televisie
+1013738,16,1000195,keyword,delegatie
+1013087,37,1000197,keyword,onderwijs voor sociale promotie
+1002518,13,1000041,keyword,onderwijspersoneel
+1002518,13,1000042,keyword,personeel onderwijs
+1002518,13,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002518,13,1000044,keyword,reaffectatie
+1002518,13,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002518,13,1000046,keyword,wachtgeld
+1002518,13,1000047,keyword,wedertewerkstelling
+1002518,13,1000048,keyword,statuut onderwijspersoneel
+1002518,13,1000090,keyword,voortdurende vorming voor de middenstand
+1002518,13,1000091,keyword,middenstandsvorming
+1002518,13,1000199,keyword,VIZO
+1002518,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1027968,14,1000026,keyword,afval
+1000050,39,1000050,keyword,VDAB
+1000050,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1003777,27,1000048,keyword,statuut onderwijspersoneel
+1018633,19,1000195,keyword,delegatie
+1002981,0,1000041,keyword,onderwijspersoneel
+1002981,0,1000042,keyword,personeel onderwijs
+1002981,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002981,0,1000044,keyword,reaffectatie
+1002981,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002981,0,1000046,keyword,wachtgeld
+1002981,0,1000047,keyword,wedertewerkstelling
+1002981,0,1000048,keyword,statuut onderwijspersoneel
+1019556,36,1000080,keyword,provincie
+1019556,36,1000088,keyword,gemeente
+1006273,7,1000179,keyword,basisonderwijs
+1006196,16,1000033,keyword,economische expansie
+1008563,11,1000188,keyword,kinderdagverblijf
+1008563,11,1000189,keyword,kinderopvang
+1014569,5,1000157,keyword,bestuurlijk beleid
+1036776,19,1000009,keyword,huisvesting
+1018518,20,1000195,keyword,delegatie
+1036629,8,1000057,keyword,tewerkstelling
+1036629,8,1000059,keyword,werkgelegenheid
+1011509,5,1000072,keyword,statuut openbare instellingen
+1013938,31,1000025,keyword,dierlijk afval
+1013938,31,1000026,keyword,afval
+1003764,0,1000041,keyword,onderwijspersoneel
+1003764,0,1000042,keyword,personeel onderwijs
+1003764,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1003764,0,1000044,keyword,reaffectatie
+1003764,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1003764,0,1000046,keyword,wachtgeld
+1003764,0,1000047,keyword,wedertewerkstelling
+1003764,0,1000048,keyword,statuut onderwijspersoneel
+1029172,2,1000145,keyword,Kind en Gezin
+1029172,2,1000189,keyword,kinderopvang
+1018059,36,1000080,keyword,provincie
+1004648,0,1000131,keyword,secundair onderwijs
+1033463,9,1000150,keyword,OVAM
+1001248,13,1000089,keyword,ondernemersopleiding
+1001248,13,1000090,keyword,voortdurende vorming voor de middenstand
+1001248,13,1000091,keyword,middenstandsvorming
+1001248,13,1000092,keyword,bedrijfsbegeleiding
+1001248,13,1000199,keyword,VIZO
+1001248,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1017964,11,1000145,keyword,Kind en Gezin
+1017964,11,1000188,keyword,kinderdagverblijf
+1017964,11,1000189,keyword,kinderopvang
+1028872,26,1000067,keyword,personen met een handicap
+1002267,12,1000118,keyword,VFSIPH
+1002267,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1002267,12,1000175,keyword,presentiegeld
+1013232,19,1000106,keyword,voorzieningen voor bejaarden
+1013232,19,1000107,keyword,bejaarden
+1007747,0,1000131,keyword,secundair onderwijs
+1014505,14,1000157,keyword,bestuurlijk beleid
+1001286,54,1000131,keyword,secundair onderwijs
+1002347,1,1000195,keyword,delegatie
+1021909,29,1000048,keyword,statuut onderwijspersoneel
+1005775,8,1000038,keyword,arbeidsbemiddeling
+1001974,17,1000080,keyword,provincie
+1022388,13,1000089,keyword,ondernemersopleiding
+1020883,6,1000068,keyword,mindervaliden
+1024524,7,1000131,keyword,secundair onderwijs
+1022342,34,1000153,keyword,BLOSO
+1033718,7,1000131,keyword,secundair onderwijs
+1007017,24,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1018429,38,1000088,keyword,gemeente
+1017999,7,1000162,keyword,bekwaamheidsbewijs
+1012147,6,1000038,keyword,arbeidsbemiddeling
+1012147,6,1000039,keyword,beroepsopleiding
+1012147,6,1000056,keyword,arbeidsplaatsen
+1012147,6,1000057,keyword,tewerkstelling
+1012147,6,1000058,keyword,arbeidsvergunning
+1012147,6,1000059,keyword,werkgelegenheid
+1023233,4,1000085,keyword,visserij
+1007840,2,1000065,keyword,gehandicapten
+1007840,2,1000066,keyword,mentaal gehandicapten
+1007840,2,1000067,keyword,personen met een handicap
+1007840,2,1000068,keyword,mindervaliden
+1007840,2,1000118,keyword,VFSIPH
+1007840,2,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1007840,2,1000120,keyword,sociale integratie
+1033773,2,1000189,keyword,kinderopvang
+1000298,39,1000050,keyword,VDAB
+1000298,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1024443,23,1000105,keyword,rusthuis
+1016058,26,1000067,keyword,personen met een handicap
+1018016,36,1000080,keyword,provincie
+1018016,36,1000088,keyword,gemeente
+1013330,16,1000030,keyword,economisch beleid
+1012466,0,1000001,keyword,taalgebruik
+1001628,1,1000192,keyword,dorpsgezicht
+1001628,1,1000193,keyword,stadsgezicht
+1001628,1,1000194,keyword,monument
+1000113,21,1000079,keyword,Instituut voor Natuurbehoud
+1009302,31,1000020,keyword,grondwater
+1009302,31,1000021,keyword,oppervlaktewater
+1000724,28,1000146,keyword,Toerisme Vlaanderen
+1000543,27,1000131,keyword,secundair onderwijs
+1000308,32,1000175,keyword,presentiegeld
+1001445,12,1000118,keyword,VFSIPH
+1001445,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1009292,8,1000056,keyword,arbeidsplaatsen
+1009292,8,1000057,keyword,tewerkstelling
+1009292,8,1000058,keyword,arbeidsvergunning
+1009292,8,1000059,keyword,werkgelegenheid
+1024694,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1008640,12,1000065,keyword,gehandicapten
+1008640,12,1000066,keyword,mentaal gehandicapten
+1008640,12,1000067,keyword,personen met een handicap
+1008640,12,1000068,keyword,mindervaliden
+1017279,38,1000088,keyword,gemeente
+1011532,19,1000088,keyword,gemeente
+1025960,29,1000048,keyword,statuut onderwijspersoneel
+1024026,53,1000189,keyword,kinderopvang
+1005514,46,1000179,keyword,basisonderwijs
+1002220,48,1000143,keyword,ARGO
+1002220,48,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1014440,0,1000131,keyword,secundair onderwijs
+1003295,48,1000143,keyword,ARGO
+1003295,48,1000144,keyword,Autonome Raad voor het Gemeenschapsonderwijs
+1003295,48,1000175,keyword,presentiegeld
+1021370,24,1000155,keyword,begrotingsfonds
+1028266,19,1000075,keyword,vereniging zonder winstoogmerk
+1004490,19,1000080,keyword,provincie
+1000134,13,1000090,keyword,voortdurende vorming voor de middenstand
+1000134,13,1000091,keyword,middenstandsvorming
+1018628,7,1000163,keyword,buitengewoon onderwijs
+1018628,7,1000179,keyword,basisonderwijs
+1003642,8,1000081,keyword,lasten uit het verleden
+1003642,8,1000082,keyword,schulden van het verleden
+1003642,8,1000083,keyword,rechtsopvolging
+1005088,12,1000065,keyword,gehandicapten
+1005088,12,1000066,keyword,mentaal gehandicapten
+1005088,12,1000067,keyword,personen met een handicap
+1005088,12,1000068,keyword,mindervaliden
+1005088,12,1000118,keyword,VFSIPH
+1005088,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1004639,24,1000088,keyword,gemeente
+1015720,5,1000175,keyword,presentiegeld
+1015980,14,1000159,keyword,Geografisch Informatiesysteem
+1005384,0,1000179,keyword,basisonderwijs
+1000183,26,1000065,keyword,gehandicapten
+1000183,26,1000066,keyword,mentaal gehandicapten
+1000183,26,1000067,keyword,personen met een handicap
+1000183,26,1000068,keyword,mindervaliden
+1000183,26,1000118,keyword,VFSIPH
+1000183,26,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1000183,26,1000120,keyword,sociale integratie
+1006520,44,1000185,keyword,leerlingenbegeleiding
+1006520,44,1000186,keyword,centrum voor leerlingenbegeleiding
+1013586,16,1000030,keyword,economisch beleid
+1010602,3,1000156,keyword,bijzondere jeugdbijstand
+1009259,3,1000050,keyword,VDAB
+1009259,3,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1009259,3,1000056,keyword,arbeidsplaatsen
+1009259,3,1000057,keyword,tewerkstelling
+1009259,3,1000058,keyword,arbeidsvergunning
+1009259,3,1000059,keyword,werkgelegenheid
+1033924,26,1000067,keyword,personen met een handicap
+1024105,24,1000088,keyword,gemeente
+1012465,37,1000048,keyword,statuut onderwijspersoneel
+1003930,10,1000195,keyword,delegatie
+1037563,0,1000131,keyword,secundair onderwijs
+1037563,0,1000179,keyword,basisonderwijs
+1020190,2,1000188,keyword,kinderdagverblijf
+1020190,2,1000189,keyword,kinderopvang
+1018307,34,1000153,keyword,BLOSO
+1000333,29,1000048,keyword,statuut onderwijspersoneel
+1004700,11,1000131,keyword,secundair onderwijs
+1002125,24,1000029,keyword,milieuvergunning
+1002125,24,1000127,keyword,Fonds voor preventie en sanering inz. leefmilieu en natuur
+1002125,24,1000128,keyword,mina-fonds
+1000049,39,1000050,keyword,VDAB
+1000049,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1016783,33,1000100,keyword,statuut ambtenaar
+1014693,36,1000080,keyword,provincie
+1000034,14,1000025,keyword,dierlijk afval
+1000034,14,1000026,keyword,afval
+1000034,14,1000034,keyword,afvalvoorkoming
+1026351,24,1000177,keyword,woonwagenbewoners
+1010125,39,1000056,keyword,arbeidsplaatsen
+1010125,39,1000057,keyword,tewerkstelling
+1010125,39,1000058,keyword,arbeidsvergunning
+1010125,39,1000059,keyword,werkgelegenheid
+1015027,20,1000195,keyword,delegatie
+1015991,8,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1015991,8,1000081,keyword,lasten uit het verleden
+1015991,8,1000082,keyword,schulden van het verleden
+1015991,8,1000083,keyword,rechtsopvolging
+1018527,5,1000098,keyword,pensioen
+1023397,24,1000009,keyword,huisvesting
+1003390,14,1000073,keyword,Vlaamse openbare instellingen
+1005770,7,1000160,keyword,diploma
+1005770,7,1000161,keyword,getuigschrift
+1005770,7,1000162,keyword,bekwaamheidsbewijs
+1000392,37,1000041,keyword,onderwijspersoneel
+1000392,37,1000042,keyword,personeel onderwijs
+1000392,37,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000392,37,1000044,keyword,reaffectatie
+1000392,37,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000392,37,1000046,keyword,wachtgeld
+1000392,37,1000047,keyword,wedertewerkstelling
+1000392,37,1000048,keyword,statuut onderwijspersoneel
+1017049,52,1000009,keyword,huisvesting
+1014183,1,1000157,keyword,bestuurlijk beleid
+1013837,24,1000158,keyword,GIS
+1013837,24,1000159,keyword,Geografisch Informatiesysteem
+1001302,0,1000041,keyword,onderwijspersoneel
+1001302,0,1000042,keyword,personeel onderwijs
+1001302,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001302,0,1000044,keyword,reaffectatie
+1001302,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001302,0,1000046,keyword,wachtgeld
+1001302,0,1000047,keyword,wedertewerkstelling
+1001302,0,1000048,keyword,statuut onderwijspersoneel
+1001302,0,1000163,keyword,buitengewoon onderwijs
+1000330,1,1000183,keyword,plan van aanleg
+1000330,1,1000184,keyword,gewestplan
+1017838,14,1000158,keyword,GIS
+1017838,14,1000159,keyword,Geografisch Informatiesysteem
+1024477,2,1000105,keyword,rusthuis
+1006358,39,1000098,keyword,pensioen
+1028580,2,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1017293,0,1000131,keyword,secundair onderwijs
+1016731,3,1000156,keyword,bijzondere jeugdbijstand
+1008453,6,1000056,keyword,arbeidsplaatsen
+1008453,6,1000057,keyword,tewerkstelling
+1008453,6,1000058,keyword,arbeidsvergunning
+1008453,6,1000059,keyword,werkgelegenheid
+1018786,5,1000100,keyword,statuut ambtenaar
+1025687,3,1000145,keyword,Kind en Gezin
+1013949,36,1000088,keyword,gemeente
+1013949,36,1000113,keyword,gemeentepersoneel
+1013949,36,1000114,keyword,statuut gemeentepersoneel
+1015384,9,1000150,keyword,OVAM
+1014240,0,1000131,keyword,secundair onderwijs
+1014240,0,1000179,keyword,basisonderwijs
+1014240,0,1000185,keyword,leerlingenbegeleiding
+1014240,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1013040,34,1000157,keyword,bestuurlijk beleid
+1013121,1,1000122,keyword,Instituut voor het Archeologisch Patrimonium
+1013121,1,1000157,keyword,bestuurlijk beleid
+1002730,13,1000199,keyword,VIZO
+1002730,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1016778,20,1000195,keyword,delegatie
+1014562,33,1000195,keyword,delegatie
+1004661,19,1000088,keyword,gemeente
+1000275,31,1000025,keyword,dierlijk afval
+1000275,31,1000026,keyword,afval
+1000275,31,1000169,keyword,commissie dierlijk afval
+1000723,0,1000040,keyword,inspectie
+1000723,0,1000041,keyword,onderwijspersoneel
+1000723,0,1000042,keyword,personeel onderwijs
+1000723,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000723,0,1000044,keyword,reaffectatie
+1000723,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000723,0,1000046,keyword,wachtgeld
+1000723,0,1000047,keyword,wedertewerkstelling
+1000723,0,1000048,keyword,statuut onderwijspersoneel
+1015256,2,1000065,keyword,gehandicapten
+1015256,2,1000067,keyword,personen met een handicap
+1015256,2,1000068,keyword,mindervaliden
+1006595,0,1000185,keyword,leerlingenbegeleiding
+1006595,0,1000186,keyword,centrum voor leerlingenbegeleiding
+1012174,5,1000025,keyword,dierlijk afval
+1012174,5,1000026,keyword,afval
+1005104,0,1000179,keyword,basisonderwijs
+1004062,11,1000145,keyword,Kind en Gezin
+1016370,19,1000129,keyword,Vlaamse Milieumaatschappij
+1017708,20,1000195,keyword,delegatie
+1015118,0,1000198,keyword,sociale promotie
+1021140,4,1000085,keyword,visserij
+1007476,12,1000065,keyword,gehandicapten
+1007476,12,1000066,keyword,mentaal gehandicapten
+1007476,12,1000067,keyword,personen met een handicap
+1007476,12,1000068,keyword,mindervaliden
+1021814,4,1000085,keyword,visserij
+1005333,4,1000002,keyword,"Promotie Landbouw, Tuinbouw en Zeevisserijproducten vzw."
+1005333,4,1000003,keyword,Vlaams Fonds promotie producten landbouw/tuinbouw/zeevisserij
+1005333,4,1000004,keyword,Vlaamse dienst voor agro-marketing
+1005333,4,1000005,keyword,VLAM
+1005333,4,1000006,keyword,Vlaams Promotiecentrum voor Agro- en Visserijmarketing
+1005333,4,1000085,keyword,visserij
+1016278,11,1000160,keyword,diploma
+1016278,11,1000188,keyword,kinderdagverblijf
+1016278,11,1000189,keyword,kinderopvang
+1014091,13,1000157,keyword,bestuurlijk beleid
+1004026,10,1000195,keyword,delegatie
+1006166,23,1000101,keyword,dienstencentrum
+1006166,23,1000104,keyword,serviceflat
+1006166,23,1000105,keyword,rusthuis
+1006166,23,1000106,keyword,voorzieningen voor bejaarden
+1006166,23,1000107,keyword,bejaarden
+1012168,5,1000157,keyword,bestuurlijk beleid
+1001301,0,1000163,keyword,buitengewoon onderwijs
+1023994,21,1000024,keyword,afvalwater
+1007601,44,1000185,keyword,leerlingenbegeleiding
+1007601,44,1000186,keyword,centrum voor leerlingenbegeleiding
+1005378,12,1000065,keyword,gehandicapten
+1005378,12,1000066,keyword,mentaal gehandicapten
+1005378,12,1000067,keyword,personen met een handicap
+1005378,12,1000068,keyword,mindervaliden
+1005378,12,1000118,keyword,VFSIPH
+1005378,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1002418,0,1000040,keyword,inspectie
+1002418,0,1000041,keyword,onderwijspersoneel
+1002418,0,1000042,keyword,personeel onderwijs
+1002418,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002418,0,1000044,keyword,reaffectatie
+1002418,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002418,0,1000046,keyword,wachtgeld
+1002418,0,1000047,keyword,wedertewerkstelling
+1002418,0,1000048,keyword,statuut onderwijspersoneel
+1002418,0,1000049,keyword,pedagogische begeleidingsdienst
+1006403,55,1000085,keyword,visserij
+1006403,55,1000086,keyword,aquicultuur
+1002935,21,1000079,keyword,Instituut voor Natuurbehoud
+1013058,3,1000145,keyword,Kind en Gezin
+1013058,3,1000157,keyword,bestuurlijk beleid
+1009537,34,1000152,keyword,"Vlaams Commissariaat-Generaal Bevordering Lichamelijke Ontwikkeling, Sport en Openluchtrecreatie"
+1009537,34,1000153,keyword,BLOSO
+1014826,33,1000100,keyword,statuut ambtenaar
+1006513,12,1000065,keyword,gehandicapten
+1006513,12,1000066,keyword,mentaal gehandicapten
+1006513,12,1000067,keyword,personen met een handicap
+1006513,12,1000068,keyword,mindervaliden
+1006513,12,1000118,keyword,VFSIPH
+1006513,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1016669,33,1000108,keyword,VIPA
+1014167,7,1000157,keyword,bestuurlijk beleid
+1002171,17,1000080,keyword,provincie
+1002171,17,1000088,keyword,gemeente
+1002171,17,1000133,keyword,intercommunale
+1018017,36,1000080,keyword,provincie
+1013050,3,1000157,keyword,bestuurlijk beleid
+1007822,31,1000028,keyword,Vlarem
+1006334,28,1000071,keyword,cultuurcentrum
+1014107,5,1000157,keyword,bestuurlijk beleid
+1001310,19,1000009,keyword,huisvesting
+1001310,19,1000013,keyword,domeingoederen
+1001310,19,1000014,keyword,onroerende goederen
+1001310,19,1000015,keyword,openbaar domein
+1001310,19,1000016,keyword,privaat domein
+1001310,19,1000017,keyword,patrimonium
+1024252,10,1000115,keyword,Waterwegen en Zeekanaal
+1025215,7,1000163,keyword,buitengewoon onderwijs
+1014580,26,1000065,keyword,gehandicapten
+1014580,26,1000067,keyword,personen met een handicap
+1014580,26,1000068,keyword,mindervaliden
+1021305,3,1000145,keyword,Kind en Gezin
+1000306,39,1000038,keyword,arbeidsbemiddeling
+1000306,39,1000039,keyword,beroepsopleiding
+1000306,39,1000050,keyword,VDAB
+1000306,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1000306,39,1000060,keyword,selectiebureau
+1000306,39,1000061,keyword,wervingsbureau
+1000306,39,1000062,keyword,outplacement
+1000306,39,1000173,keyword,centrum voor beroepsopleiding
+1000306,39,1000174,keyword,subregionaal tewerkstellingscomité
+1016762,34,1000100,keyword,statuut ambtenaar
+1016762,34,1000153,keyword,BLOSO
+1014541,19,1000157,keyword,bestuurlijk beleid
+1022088,19,1000030,keyword,economisch beleid
+1008409,6,1000056,keyword,arbeidsplaatsen
+1008409,6,1000057,keyword,tewerkstelling
+1008409,6,1000058,keyword,arbeidsvergunning
+1008409,6,1000059,keyword,werkgelegenheid
+1008409,6,1000065,keyword,gehandicapten
+1008409,6,1000066,keyword,mentaal gehandicapten
+1008409,6,1000067,keyword,personen met een handicap
+1008409,6,1000068,keyword,mindervaliden
+1008409,6,1000118,keyword,VFSIPH
+1008409,6,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1020861,42,1000140,keyword,Vlaamse Maatschappij voor Watervoorziening
+1027851,6,1000050,keyword,VDAB
+1014634,23,1000101,keyword,dienstencentrum
+1013176,24,1000158,keyword,GIS
+1013176,24,1000159,keyword,Geografisch Informatiesysteem
+1007945,11,1000145,keyword,Kind en Gezin
+1007945,11,1000188,keyword,kinderdagverblijf
+1007945,11,1000189,keyword,kinderopvang
+1006001,19,1000098,keyword,pensioen
+1006001,19,1000140,keyword,Vlaamse Maatschappij voor Watervoorziening
+1002979,19,1000011,keyword,investeringsfonds
+1002979,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1002979,19,1000013,keyword,domeingoederen
+1002979,19,1000014,keyword,onroerende goederen
+1002979,19,1000015,keyword,openbaar domein
+1002979,19,1000016,keyword,privaat domein
+1002979,19,1000017,keyword,patrimonium
+1002979,19,1000080,keyword,provincie
+1002979,19,1000088,keyword,gemeente
+1015329,14,1000020,keyword,grondwater
+1015329,14,1000024,keyword,afvalwater
+1015329,14,1000025,keyword,dierlijk afval
+1000182,14,1000115,keyword,Waterwegen en Zeekanaal
+1000182,14,1000116,keyword,Zeekanaal en Watergebonden Grondbeheer Vlaanderen
+1000182,14,1000117,keyword,NV Zeekanaal en Watergebonden Grondbeheer Vlaanderen
+1000182,14,1000157,keyword,bestuurlijk beleid
+1007938,11,1000145,keyword,Kind en Gezin
+1007938,11,1000188,keyword,kinderdagverblijf
+1007938,11,1000189,keyword,kinderopvang
+1013341,28,1000146,keyword,Toerisme Vlaanderen
+1000740,47,1000053,keyword,studietoelage
+1010010,21,1000085,keyword,visserij
+1006669,40,1000018,keyword,bouwvergunning
+1006669,40,1000080,keyword,provincie
+1006669,40,1000088,keyword,gemeente
+1026289,14,1000150,keyword,OVAM
+1000262,7,1000041,keyword,onderwijspersoneel
+1000262,7,1000042,keyword,personeel onderwijs
+1000262,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000262,7,1000044,keyword,reaffectatie
+1000262,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000262,7,1000046,keyword,wachtgeld
+1000262,7,1000047,keyword,wedertewerkstelling
+1000262,7,1000048,keyword,statuut onderwijspersoneel
+1000262,7,1000160,keyword,diploma
+1000262,7,1000161,keyword,getuigschrift
+1000262,7,1000162,keyword,bekwaamheidsbewijs
+1000262,7,1000165,keyword,kunstonderwijs
+1000555,7,1000041,keyword,onderwijspersoneel
+1000555,7,1000042,keyword,personeel onderwijs
+1000555,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000555,7,1000044,keyword,reaffectatie
+1000555,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000555,7,1000046,keyword,wachtgeld
+1000555,7,1000047,keyword,wedertewerkstelling
+1000555,7,1000048,keyword,statuut onderwijspersoneel
+1000555,7,1000165,keyword,kunstonderwijs
+1018070,19,1000021,keyword,oppervlaktewater
+1009807,0,1000131,keyword,secundair onderwijs
+1013209,1,1000195,keyword,delegatie
+1013170,28,1000157,keyword,bestuurlijk beleid
+1008354,13,1000199,keyword,VIZO
+1008354,13,1000200,keyword,Vlaams Instituut voor het Zelfstandig Ondernemen
+1013297,20,1000195,keyword,delegatie
+1013055,31,1000020,keyword,grondwater
+1013055,31,1000021,keyword,oppervlaktewater
+1013055,31,1000025,keyword,dierlijk afval
+1013055,31,1000026,keyword,afval
+1018623,28,1000146,keyword,Toerisme Vlaanderen
+1000260,7,1000041,keyword,onderwijspersoneel
+1000260,7,1000042,keyword,personeel onderwijs
+1000260,7,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000260,7,1000044,keyword,reaffectatie
+1000260,7,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000260,7,1000046,keyword,wachtgeld
+1000260,7,1000047,keyword,wedertewerkstelling
+1000260,7,1000048,keyword,statuut onderwijspersoneel
+1000260,7,1000160,keyword,diploma
+1000260,7,1000161,keyword,getuigschrift
+1000260,7,1000162,keyword,bekwaamheidsbewijs
+1000260,7,1000164,keyword,godsdienstonderwijs
+1006711,12,1000065,keyword,gehandicapten
+1006711,12,1000066,keyword,mentaal gehandicapten
+1006711,12,1000067,keyword,personen met een handicap
+1006711,12,1000068,keyword,mindervaliden
+1006711,12,1000118,keyword,VFSIPH
+1006711,12,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1031889,33,1000103,keyword,dagverzorgingscentrum
+1002077,15,1000041,keyword,onderwijspersoneel
+1002077,15,1000042,keyword,personeel onderwijs
+1002077,15,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1002077,15,1000044,keyword,reaffectatie
+1002077,15,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1002077,15,1000046,keyword,wachtgeld
+1002077,15,1000047,keyword,wedertewerkstelling
+1002077,15,1000048,keyword,statuut onderwijspersoneel
+1001625,25,1000081,keyword,lasten uit het verleden
+1001625,25,1000082,keyword,schulden van het verleden
+1001625,25,1000083,keyword,rechtsopvolging
+1004345,39,1000039,keyword,beroepsopleiding
+1004345,39,1000050,keyword,VDAB
+1004345,39,1000051,keyword,Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding
+1004345,39,1000173,keyword,centrum voor beroepsopleiding
+1018144,5,1000195,keyword,delegatie
+1002507,8,1000175,keyword,presentiegeld
+1017768,41,1000030,keyword,economisch beleid
+1017768,41,1000031,keyword,KMO
+1029763,0,1000131,keyword,secundair onderwijs
+1000295,27,1000041,keyword,onderwijspersoneel
+1000295,27,1000042,keyword,personeel onderwijs
+1000295,27,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000295,27,1000044,keyword,reaffectatie
+1000295,27,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000295,27,1000046,keyword,wachtgeld
+1000295,27,1000047,keyword,wedertewerkstelling
+1000295,27,1000048,keyword,statuut onderwijspersoneel
+1014535,2,1000157,keyword,bestuurlijk beleid
+1010580,0,1000131,keyword,secundair onderwijs
+1010580,0,1000163,keyword,buitengewoon onderwijs
+1005282,0,1000160,keyword,diploma
+1005282,0,1000161,keyword,getuigschrift
+1005282,0,1000162,keyword,bekwaamheidsbewijs
+1000106,14,1000075,keyword,vereniging zonder winstoogmerk
+1009306,5,1000088,keyword,gemeente
+1000986,0,1000041,keyword,onderwijspersoneel
+1000986,0,1000042,keyword,personeel onderwijs
+1000986,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000986,0,1000044,keyword,reaffectatie
+1000986,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000986,0,1000046,keyword,wachtgeld
+1000986,0,1000047,keyword,wedertewerkstelling
+1000986,0,1000048,keyword,statuut onderwijspersoneel
+1017760,0,1000131,keyword,secundair onderwijs
+1017760,0,1000179,keyword,basisonderwijs
+1002844,21,1000078,keyword,Instituut voor Bosbouw en Wildbeheer
+1020993,29,1000048,keyword,statuut onderwijspersoneel
+1020993,29,1000186,keyword,centrum voor leerlingenbegeleiding
+1019221,2,1000145,keyword,Kind en Gezin
+1001611,19,1000002,keyword,"Promotie Landbouw, Tuinbouw en Zeevisserijproducten vzw."
+1001611,19,1000003,keyword,Vlaams Fonds promotie producten landbouw/tuinbouw/zeevisserij
+1001611,19,1000004,keyword,Vlaamse dienst voor agro-marketing
+1001611,19,1000005,keyword,VLAM
+1001611,19,1000006,keyword,Vlaams Promotiecentrum voor Agro- en Visserijmarketing
+1001611,19,1000041,keyword,onderwijspersoneel
+1001611,19,1000042,keyword,personeel onderwijs
+1001611,19,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1001611,19,1000044,keyword,reaffectatie
+1001611,19,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1001611,19,1000046,keyword,wachtgeld
+1001611,19,1000047,keyword,wedertewerkstelling
+1001611,19,1000048,keyword,statuut onderwijspersoneel
+1001611,19,1000069,keyword,Alden Biesen
+1001611,19,1000070,keyword,Landcommanderij Alden-Biesen
+1001611,19,1000071,keyword,cultuurcentrum
+1001611,19,1000081,keyword,lasten uit het verleden
+1001611,19,1000082,keyword,schulden van het verleden
+1001611,19,1000083,keyword,rechtsopvolging
+1001611,19,1000118,keyword,VFSIPH
+1001611,19,1000119,keyword,Vlaams Fonds Sociale Integratie Personen met een Handicap
+1001611,19,1000129,keyword,Vlaamse Milieumaatschappij
+1002330,35,1000067,keyword,personen met een handicap
+1002330,35,1000068,keyword,mindervaliden
+1027266,29,1000041,keyword,onderwijspersoneel
+1027266,29,1000048,keyword,statuut onderwijspersoneel
+1000211,35,1000065,keyword,gehandicapten
+1024635,5,1000159,keyword,Geografisch Informatiesysteem
+1013771,5,1000072,keyword,statuut openbare instellingen
+1009155,34,1000125,keyword,migranten
+1006766,33,1000101,keyword,dienstencentrum
+1003974,10,1000195,keyword,delegatie
+1006102,32,1000077,keyword,Vlaamse Huisvestingsmaatschappij
+1029245,6,1000057,keyword,tewerkstelling
+1015235,30,1000197,keyword,onderwijs voor sociale promotie
+1014247,5,1000157,keyword,bestuurlijk beleid
+1007454,19,1000011,keyword,investeringsfonds
+1007454,19,1000080,keyword,provincie
+1007454,19,1000088,keyword,gemeente
+1022905,2,1000145,keyword,Kind en Gezin
+1005176,40,1000088,keyword,gemeente
+1016023,2,1000145,keyword,Kind en Gezin
+1012805,28,1000146,keyword,Toerisme Vlaanderen
+1012805,28,1000157,keyword,bestuurlijk beleid
+1013450,5,1000157,keyword,bestuurlijk beleid
+1026338,0,1000150,keyword,OVAM
+1010241,27,1000165,keyword,kunstonderwijs
+1004662,19,1000012,keyword,Vlaamse Gemeenschapscommissie
+1000390,0,1000041,keyword,onderwijspersoneel
+1000390,0,1000042,keyword,personeel onderwijs
+1000390,0,1000043,keyword,personeel psycho-medisch-sociaal centrum
+1000390,0,1000044,keyword,reaffectatie
+1000390,0,1000045,keyword,terbeschikkingstelling ontstentenis van betrekking
+1000390,0,1000046,keyword,wachtgeld
+1000390,0,1000047,keyword,wedertewerkstelling
+1000390,0,1000048,keyword,statuut onderwijspersoneel
+1000390,0,1000131,keyword,secundair onderwijs
+1000390,0,1000165,keyword,kunstonderwijs
+1000390,0,1000179,keyword,basisonderwijs
+1000160,23,1000108,keyword,VIPA
+1000160,23,1000109,keyword,Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+1012046,6,1000039,keyword,beroepsopleiding
+1012046,6,1000056,keyword,arbeidsplaatsen
+1012046,6,1000057,keyword,tewerkstelling
+1012046,6,1000058,keyword,arbeidsvergunning
+1012046,6,1000059,keyword,werkgelegenheid
+1003269,12,1000050,keyword,VDAB
+1003269,12,1000068,keyword,mindervaliden
+1014917,36,1000080,keyword,provincie
+1016979,13,1000032,keyword,kleine en middelgrote onderneming
+1024545,2,1000189,keyword,kinderopvang
